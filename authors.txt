@@ -3,6 +3,7 @@ brukman                 = Misha Brukman <brukman+llvm@gmail.com>
 buschard                = Cameron Buschardt <buschard@uiuc.edu>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
+gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
