@@ -1,5 +1,6 @@
 alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
+bocchino                = Robert Bocchino <bocchino@illinois.edu>
 brukman                 = Misha Brukman <brukman+llvm@gmail.com>
 buschard                = Cameron Buschardt <buschard@uiuc.edu>
 criswell                = John Criswell <criswell@uiuc.edu>
