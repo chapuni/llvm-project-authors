@@ -9,6 +9,7 @@ ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
 gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
+jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
 kuba                    = Jakub Staszak <kuba@gcc.gnu.org>
