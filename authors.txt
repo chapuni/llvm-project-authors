@@ -1,4 +1,5 @@
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
+buschard                = Cameron Buschardt <buschard@uiuc.edu>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 lattner                 = Chris Lattner <sabre@nondot.org>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
