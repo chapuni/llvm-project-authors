@@ -1,3 +1,4 @@
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 lattner                 = Chris Lattner <sabre@nondot.org>
+sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
