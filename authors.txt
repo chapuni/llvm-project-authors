@@ -1,6 +1,7 @@
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
 brukman                 = Misha Brukman <brukman+llvm@gmail.com>
 buschard                = Cameron Buschardt <buschard@uiuc.edu>
+criswell                = John Criswell <criswell@uiuc.edu>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
 ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
