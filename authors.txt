@@ -17,6 +17,7 @@ kuba                    = Jakub Staszak <kuba@gcc.gnu.org>
 lattner                 = Chris Lattner <sabre@nondot.org>
 nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 reid                    = Reid Spencer <rspencer@reidspencer.com>
+sampo                   = Nate Begeman <natebegeman@mac.com>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
 tbrethou                = Tanya Lattner <tonic@nondot.org>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
