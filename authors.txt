@@ -1,3 +1,4 @@
+alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
 alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
 bocchino                = Robert Bocchino <bocchino@illinois.edu>
