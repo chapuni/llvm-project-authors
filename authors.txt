@@ -13,4 +13,5 @@ kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
 lattner                 = Chris Lattner <sabre@nondot.org>
 nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
+tbrethou                = Tanya Lattner <tonic@nondot.org>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
