@@ -1,3 +1,4 @@
+alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
 brukman                 = Misha Brukman <brukman+llvm@gmail.com>
 buschard                = Cameron Buschardt <buschard@uiuc.edu>
