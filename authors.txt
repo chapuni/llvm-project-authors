@@ -11,6 +11,7 @@ gshi1                   = Guochun Shi <gshi1@uiuc.edu>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
+kuba                    = Jakub Staszak <kuba@gcc.gnu.org>
 lattner                 = Chris Lattner <sabre@nondot.org>
 nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
