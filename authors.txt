@@ -3,5 +3,6 @@ buschard                = Cameron Buschardt <buschard@uiuc.edu>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
 lattner                 = Chris Lattner <sabre@nondot.org>
+nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
