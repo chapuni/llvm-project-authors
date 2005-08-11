@@ -14,6 +14,7 @@ gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
+jlaskey                 = Jim Laskey <jlaskey@mac.com>
 jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
