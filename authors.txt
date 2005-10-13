@@ -21,6 +21,7 @@ kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
 kuba                    = Jakub Staszak <kuba@gcc.gnu.org>
 lattner                 = Chris Lattner <sabre@nondot.org>
 nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
+pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
 reid                    = Reid Spencer <rspencer@reidspencer.com>
 sampo                   = Nate Begeman <natebegeman@mac.com>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
