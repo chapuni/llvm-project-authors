@@ -9,6 +9,7 @@ cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
 duraid                  = Duraid Madina <duraid@octopus.com.au>
 ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
+evancheng               = Evan Cheng <evan.cheng@apple.com>
 foo                     = Test Commit <nobody@llvm.org>
 gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
