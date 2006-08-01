@@ -1,6 +1,7 @@
 alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
 alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
+asl                     = Anton Korobeynikov <asl@math.spbu.ru>
 bocchino                = Robert Bocchino <bocchino@illinois.edu>
 brukman                 = Misha Brukman <brukman+llvm@gmail.com>
 buschard                = Cameron Buschardt <buschard@uiuc.edu>
