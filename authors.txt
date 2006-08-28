@@ -25,6 +25,7 @@ kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
 kuba                    = Jakub Staszak <kuba@gcc.gnu.org>
 lattner                 = Chris Lattner <sabre@nondot.org>
 nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
+nicholas                = Nick Lewycky <nicholas@mxc.ca>
 patjenk                 = Patrick Jenkins <pjenkins@apple.com>
 pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
 rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
