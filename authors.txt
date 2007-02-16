@@ -22,6 +22,7 @@ hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
 jlaskey                 = Jim Laskey <jlaskey@mac.com>
 jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
+johannes                = Dale Johannesen <dalej@apple.com>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
 kuba                    = Jakub Staszak <kuba@gcc.gnu.org>
