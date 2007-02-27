@@ -16,6 +16,7 @@ ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
 evancheng               = Evan Cheng <evan.cheng@apple.com>
 foo                     = Test Commit <nobody@llvm.org>
 gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
+geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
 ghost                   = Vladimir Prus <ghost@cs.msu.su>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
