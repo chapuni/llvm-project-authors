@@ -33,6 +33,7 @@ laurov                  = Lauro Ramos Venancio <lauro.venancio@gmail.com>
 nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 nicholas                = Nick Lewycky <nicholas@mxc.ca>
 patjenk                 = Patrick Jenkins <pjenkins@apple.com>
+pingbak                 = Scott Michel <scottm@aero.org>
 pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
 rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
 reid                    = Reid Spencer <rspencer@reidspencer.com>
