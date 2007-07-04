@@ -20,6 +20,7 @@ evancheng               = Evan Cheng <evan.cheng@apple.com>
 foo                     = Test Commit <nobody@llvm.org>
 gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
+ggreif                  = Gabor Greif <ggreif@gmail.com>
 ghost                   = Vladimir Prus <ghost@cs.msu.su>
 greened                 = David Greene <greened@obbligato.org>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
