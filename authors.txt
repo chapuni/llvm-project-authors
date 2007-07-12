@@ -45,6 +45,7 @@ resistor                = Owen Anderson <resistor@mac.com>
 sampo                   = Nate Begeman <natebegeman@mac.com>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
 sheng                   = Zhou Sheng <zhousheng00@gmail.com>
+snaroff                 = Steve Naroff <snaroff@apple.com>
 tbrethou                = Tanya Lattner <tonic@nondot.org>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 void                    = Bill Wendling <isanbard@gmail.com>
