@@ -8,6 +8,7 @@ bocchino                = Robert Bocchino <bocchino@illinois.edu>
 brukman                 = Misha Brukman <brukman+llvm@gmail.com>
 bruno                   = Bruno Cardoso Lopes <bruno.cardoso@gmail.com>
 buschard                = Cameron Buschardt <buschard@uiuc.edu>
+cfr                     = Chuck Rose III <cfr@adobe.com>
 chandlerc               = Chandler Carruth <chandlerc@gmail.com>
 clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
 criswell                = John Criswell <criswell@uiuc.edu>
