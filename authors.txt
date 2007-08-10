@@ -33,6 +33,7 @@ jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
 johannes                = Dale Johannesen <dalej@apple.com>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
+kremenek                = Ted Kremenek <kremenek@apple.com>
 kuba                    = Jakub Staszak <kuba@gcc.gnu.org>
 lattner                 = Chris Lattner <sabre@nondot.org>
 laurov                  = Lauro Ramos Venancio <lauro.venancio@gmail.com>
