@@ -44,6 +44,7 @@ patjenk                 = Patrick Jenkins <pjenkins@apple.com>
 pingbak                 = Scott Michel <scottm@aero.org>
 pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
 rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
+raulherbster            = Raul Herbster <raulherbster@gmail.com>
 reid                    = Reid Spencer <rspencer@reidspencer.com>
 resistor                = Owen Anderson <resistor@mac.com>
 sampo                   = Nate Begeman <natebegeman@mac.com>
