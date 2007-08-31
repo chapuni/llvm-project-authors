@@ -19,6 +19,7 @@ dpatel                  = Devang Patel <dpatel@apple.com>
 duraid                  = Duraid Madina <duraid@octopus.com.au>
 ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
 evancheng               = Evan Cheng <evan.cheng@apple.com>
+fjahanian               = Fariborz Jahanian <fjahanian@apple.com>
 foo                     = Test Commit <nobody@llvm.org>
 gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
