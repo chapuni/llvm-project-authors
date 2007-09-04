@@ -27,6 +27,7 @@ ggreif                  = Gabor Greif <ggreif@gmail.com>
 ghost                   = Vladimir Prus <ghost@cs.msu.su>
 greened                 = David Greene <greened@obbligato.org>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
+hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
 jlaskey                 = Jim Laskey <jlaskey@mac.com>
