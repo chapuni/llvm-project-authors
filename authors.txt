@@ -26,6 +26,7 @@ gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
 ggreif                  = Gabor Greif <ggreif@gmail.com>
 ghost                   = Vladimir Prus <ghost@cs.msu.su>
+gordon                  = Gordon Henriksen <gordonhenriksen@mac.com>
 greened                 = David Greene <greened@obbligato.org>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
 hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
