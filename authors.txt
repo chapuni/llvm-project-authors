@@ -36,6 +36,7 @@ jlaskey                 = Jim Laskey <jlaskey@mac.com>
 jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
 johannes                = Dale Johannesen <dalej@apple.com>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
+kevin                   = Kevin <ar18@comcast.net>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
 kremenek                = Ted Kremenek <kremenek@apple.com>
 kuba                    = Jakub Staszak <kuba@gcc.gnu.org>
