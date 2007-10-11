@@ -1,6 +1,7 @@
 alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
 alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
 andersca                = Anders Carlsson <andersca@mac.com>
+arnolds                 = Arnold Schwaighofer <arnold.schwaighofer@gmail.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
 asl                     = Anton Korobeynikov <asl@math.spbu.ru>
 baldrick                = Duncan Sands <baldrick@free.fr>
