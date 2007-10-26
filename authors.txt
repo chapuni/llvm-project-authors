@@ -19,6 +19,7 @@ dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
 djg                     = Dan Gohman <gohman@apple.com>
 dpatel                  = Devang Patel <dpatel@apple.com>
 duraid                  = Duraid Madina <duraid@octopus.com.au>
+echristo                = Eric Christopher <echristo@apple.com>
 ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
 evancheng               = Evan Cheng <evan.cheng@apple.com>
 fjahanian               = Fariborz Jahanian <fjahanian@apple.com>
