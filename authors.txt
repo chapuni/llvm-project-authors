@@ -61,6 +61,7 @@ romix                   = Roman Levenstein <romix.llvm@googlemail.com>
 sampo                   = Nate Begeman <natebegeman@mac.com>
 sanxiyn                 = Seo Sanghyeon <sanxiyn@gmail.com>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
+sbishop                 = Sam Bishop <sam@bishop.dhs.org>
 sheng                   = Zhou Sheng <zhousheng00@gmail.com>
 snaroff                 = Steve Naroff <snaroff@apple.com>
 tbrethou                = Tanya Lattner <tonic@nondot.org>
