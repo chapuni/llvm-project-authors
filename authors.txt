@@ -22,6 +22,7 @@ duraid                  = Duraid Madina <duraid@octopus.com.au>
 echristo                = Eric Christopher <echristo@apple.com>
 efriedma                = Eli Friedman <eli.friedman@gmail.com>
 ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
+erickt                  = Erick Tryzelaar <idadesub@users.sourceforge.net>
 evancheng               = Evan Cheng <evan.cheng@apple.com>
 fjahanian               = Fariborz Jahanian <fjahanian@apple.com>
 foo                     = Test Commit <nobody@llvm.org>
