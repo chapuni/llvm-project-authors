@@ -20,6 +20,7 @@ djg                     = Dan Gohman <gohman@apple.com>
 dpatel                  = Devang Patel <dpatel@apple.com>
 duraid                  = Duraid Madina <duraid@octopus.com.au>
 echristo                = Eric Christopher <echristo@apple.com>
+edwin                   = Torok Edwin <edwintorok@gmail.com>
 efriedma                = Eli Friedman <eli.friedman@gmail.com>
 ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
 erickt                  = Erick Tryzelaar <idadesub@users.sourceforge.net>
