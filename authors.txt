@@ -16,6 +16,7 @@ clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
 criswell                = John Criswell <criswell@uiuc.edu>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 dannyb                  = Daniel Berlin <dberlin@dberlin.org>
+dgregor                 = Douglas Gregor <dgregor@apple.com>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
 djg                     = Dan Gohman <gohman@apple.com>
 dpatel                  = Devang Patel <dpatel@apple.com>
