@@ -73,4 +73,5 @@ snaroff                 = Steve Naroff <snaroff@apple.com>
 tbrethou                = Tanya Lattner <tonic@nondot.org>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 void                    = Bill Wendling <isanbard@gmail.com>
+wangmp                  = Mon P Wang <wangmp@apple.com>
 wmat                    = Wojciech Matyjewicz <wmatyjewicz@fastmail.fm>
