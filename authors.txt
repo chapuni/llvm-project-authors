@@ -68,6 +68,7 @@ sampo                   = Nate Begeman <natebegeman@mac.com>
 sanxiyn                 = Seo Sanghyeon <sanxiyn@gmail.com>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
 sbishop                 = Sam Bishop <sam@bishop.dhs.org>
+sgupta                  = Sanjiv Gupta <sanjiv.gupta@microchip.com>
 sheng                   = Zhou Sheng <zhousheng00@gmail.com>
 snaroff                 = Steve Naroff <snaroff@apple.com>
 tbrethou                = Tanya Lattner <tonic@nondot.org>
