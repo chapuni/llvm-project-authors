@@ -52,6 +52,7 @@ kuba                    = Jakub Staszak <kuba@gcc.gnu.org>
 lattner                 = Chris Lattner <sabre@nondot.org>
 laurov                  = Lauro Ramos Venancio <lauro.venancio@gmail.com>
 matthijs                = Matthijs Kooijman <matthijs@stdin.nl>
+mrs                     = Mike Stump <mrs@apple.com>
 nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 neil                    = Neil Booth <neil@daikokuya.co.uk>
 nicholas                = Nick Lewycky <nicholas@mxc.ca>
