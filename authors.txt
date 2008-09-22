@@ -60,6 +60,7 @@ neil                    = Neil Booth <neil@daikokuya.co.uk>
 nicholas                = Nick Lewycky <nicholas@mxc.ca>
 nico                    = Nico Weber <nicolasweber@gmx.de>
 nlopes                  = Nuno Lopes <nunoplopes@sapo.pt>
+ofv                     = Oscar Fuentes <ofv@wanadoo.es>
 oliver                  = Oliver Hunt <oliver@apple.com>
 patjenk                 = Patrick Jenkins <pjenkins@apple.com>
 pingbak                 = Scott Michel <scottm@aero.org>
