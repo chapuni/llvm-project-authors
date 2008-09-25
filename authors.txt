@@ -69,6 +69,7 @@ rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
 raulherbster            = Raul Herbster <raulherbster@gmail.com>
 reid                    = Reid Spencer <rspencer@reidspencer.com>
 resistor                = Owen Anderson <resistor@mac.com>
+rich                    = Richard Pennington <rich@pennware.com>
 romix                   = Roman Levenstein <romix.llvm@googlemail.com>
 sampo                   = Nate Begeman <natebegeman@mac.com>
 sanxiyn                 = Seo Sanghyeon <sanxiyn@gmail.com>
