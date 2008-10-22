@@ -43,6 +43,7 @@ hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
 jlaskey                 = Jim Laskey <jlaskey@mac.com>
+jlerouge                = Julien Lerouge <jlerouge@apple.com>
 jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
 johannes                = Dale Johannesen <dalej@apple.com>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
