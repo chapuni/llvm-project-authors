@@ -13,6 +13,7 @@ buschard                = Cameron Buschardt <buschard@uiuc.edu>
 cfr                     = Chuck Rose III <cfr@adobe.com>
 chandlerc               = Chandler Carruth <chandlerc@gmail.com>
 clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
+cornedbee               = Sebastian Redl <sebastian.redl@getdesigned.at>
 criswell                = John Criswell <criswell@uiuc.edu>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 dannyb                  = Daniel Berlin <dberlin@dberlin.org>
