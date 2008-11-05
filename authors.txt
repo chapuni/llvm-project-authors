@@ -32,6 +32,7 @@ evancheng               = Evan Cheng <evan.cheng@apple.com>
 fjahanian               = Fariborz Jahanian <fjahanian@apple.com>
 foldr                   = Mikhail Glushenkov <foldr@codedgers.com>
 foo                     = Test Commit <nobody@llvm.org>
+friedgold               = Richard Osborne <richard@xmos.com>
 gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
 ggreif                  = Gabor Greif <ggreif@gmail.com>
