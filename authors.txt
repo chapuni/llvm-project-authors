@@ -82,6 +82,7 @@ sbishop                 = Sam Bishop <sam@bishop.dhs.org>
 sgupta                  = Sanjiv Gupta <sanjiv.gupta@microchip.com>
 sheng                   = Zhou Sheng <zhousheng00@gmail.com>
 snaroff                 = Steve Naroff <snaroff@apple.com>
+stuart                  = Stuart Hastings <stuart@apple.com>
 tbrethou                = Tanya Lattner <tonic@nondot.org>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 venet                   = Cedric Venet <cedric.venet@laposte.net>
