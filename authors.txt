@@ -84,6 +84,7 @@ sheng                   = Zhou Sheng <zhousheng00@gmail.com>
 snaroff                 = Steve Naroff <snaroff@apple.com>
 stuart                  = Stuart Hastings <stuart@apple.com>
 tbrethou                = Tanya Lattner <tonic@nondot.org>
+tilmann                 = Tilmann Scheller <tilmann.scheller@googlemail.com>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 venet                   = Cedric Venet <cedric.venet@laposte.net>
 void                    = Bill Wendling <isanbard@gmail.com>
