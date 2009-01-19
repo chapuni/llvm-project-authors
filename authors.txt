@@ -17,6 +17,7 @@ clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
 cornedbee               = Sebastian Redl <sebastian.redl@getdesigned.at>
 criswell                = John Criswell <criswell@uiuc.edu>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
+danchr                  = Dan Villiom Podlaski Christiansen <danchr@gmail.com>
 dannyb                  = Daniel Berlin <dberlin@dberlin.org>
 ddunbar                 = Daniel Dunbar <daniel@zuster.org>
 dgregor                 = Douglas Gregor <dgregor@apple.com>
