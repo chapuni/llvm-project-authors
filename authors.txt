@@ -44,6 +44,7 @@ gordon                  = Gordon Henriksen <gordonhenriksen@mac.com>
 greened                 = David Greene <greened@obbligato.org>
 grosbach                = Jim Grosbach <grosbach@apple.com>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
+hhinnant                = Howard Hinnant <hhinnant@apple.com>
 hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
