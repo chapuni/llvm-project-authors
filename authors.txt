@@ -55,6 +55,7 @@ jlerouge                = Julien Lerouge <jlerouge@apple.com>
 jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
 johannes                = Dale Johannesen <dalej@apple.com>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
+jyasskin                = Jeffrey Yasskin <jyasskin@google.com>
 kevin                   = Kevin <ar18@comcast.net>
 kledzik                 = Nick Kledzik <kledzik@apple.com>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
