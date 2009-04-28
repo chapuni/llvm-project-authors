@@ -90,6 +90,7 @@ sdt                     = Stefanus Du Toit <stefanus.dutoit@rapidmind.com>
 sgupta                  = Sanjiv Gupta <sanjiv.gupta@microchip.com>
 sheng                   = Zhou Sheng <zhousheng00@gmail.com>
 snaroff                 = Steve Naroff <snaroff@apple.com>
+stoklund                = Jakob Stoklund Olesen <stoklund@2pi.dk>
 stuart                  = Stuart Hastings <stuart@apple.com>
 tbrethou                = Tanya Lattner <tonic@nondot.org>
 tilmann                 = Tilmann Scheller <tilmann.scheller@googlemail.com>
