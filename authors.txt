@@ -34,6 +34,7 @@ ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
 erickt                  = Erick Tryzelaar <idadesub@users.sourceforge.net>
 evancheng               = Evan Cheng <evan.cheng@apple.com>
 fjahanian               = Fariborz Jahanian <fjahanian@apple.com>
+foad                    = Jay Foad <jay.foad@gmail.com>
 foldr                   = Mikhail Glushenkov <foldr@codedgers.com>
 foo                     = Test Commit <nobody@llvm.org>
 friedgold               = Richard Osborne <richard@xmos.com>
