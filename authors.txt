@@ -16,6 +16,7 @@ cfr                     = Chuck Rose III <cfr@adobe.com>
 chandlerc               = Chandler Carruth <chandlerc@gmail.com>
 clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
 cornedbee               = Sebastian Redl <sebastian.redl@getdesigned.at>
+cristic                 = Cristian Cadar <cristic@cs.stanford.edu>
 criswell                = John Criswell <criswell@uiuc.edu>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 danchr                  = Dan Villiom Podlaski Christiansen <danchr@gmail.com>
