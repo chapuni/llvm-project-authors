@@ -1,3 +1,4 @@
+abolka                  = Andreas Bolka <a@bolka.at>
 akirtzidis              = Argyrios Kyrtzidis <akyrtzi@gmail.com>
 alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
 alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
