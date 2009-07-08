@@ -1,6 +1,7 @@
 abolka                  = Andreas Bolka <a@bolka.at>
 akirtzidis              = Argyrios Kyrtzidis <akyrtzi@gmail.com>
 alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
+alisdairm               = Alisdair Meredith <public@alisdairm.net>
 alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
 andersca                = Anders Carlsson <andersca@mac.com>
 arnolds                 = Arnold Schwaighofer <arnold.schwaighofer@gmail.com>
