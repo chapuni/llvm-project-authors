@@ -106,4 +106,5 @@ venet                   = Cedric Venet <cedric.venet@laposte.net>
 void                    = Bill Wendling <isanbard@gmail.com>
 wangmp                  = Mon P Wang <wangmp@apple.com>
 wmat                    = Wojciech Matyjewicz <wmatyjewicz@fastmail.fm>
+xranby                  = Xerxes Ranby <xerxes@zafena.se>
 zhongxingxu             = Zhongxing Xu <xuzhongxing@gmail.com>
