@@ -104,6 +104,7 @@ tbrethou                = Tanya Lattner <tonic@nondot.org>
 tilmann                 = Tilmann Scheller <tilmann.scheller@googlemail.com>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 venet                   = Cedric Venet <cedric.venet@laposte.net>
+vkutuzov                = Viktor Kutuzov <vkutuzov@accesssoftek.com>
 void                    = Bill Wendling <isanbard@gmail.com>
 wangmp                  = Mon P Wang <wangmp@apple.com>
 wmat                    = Wojciech Matyjewicz <wmatyjewicz@fastmail.fm>
