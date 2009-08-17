@@ -106,6 +106,7 @@ ssen                    = Shantonu Sen <ssen@apple.com>
 stoklund                = Jakob Stoklund Olesen <stoklund@2pi.dk>
 stuart                  = Stuart Hastings <stuart@apple.com>
 tbrethou                = Tanya Lattner <tonic@nondot.org>
+theraven                = David Chisnall <csdavec@swan.ac.uk>
 tilmann                 = Tilmann Scheller <tilmann.scheller@googlemail.com>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 venet                   = Cedric Venet <cedric.venet@laposte.net>
