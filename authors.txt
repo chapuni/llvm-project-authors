@@ -7,6 +7,7 @@ andersca                = Anders Carlsson <andersca@mac.com>
 arnolds                 = Arnold Schwaighofer <arnold.schwaighofer@gmail.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
 asl                     = Anton Korobeynikov <asl@math.spbu.ru>
+astifter                = Andreas Neustifter <astifter-llvm@gmx.at>
 baldrick                = Duncan Sands <baldrick@free.fr>
 ben                     = Ben Laurie <benl@google.com>
 bocchino                = Robert Bocchino <bocchino@illinois.edu>
