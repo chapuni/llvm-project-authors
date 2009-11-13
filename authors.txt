@@ -74,6 +74,7 @@ jtsoftware              = John Thompson <John.Thompson.JTSoftware@gmail.com>
 jyasskin                = Jeffrey Yasskin <jyasskin@google.com>
 kennethuil              = Kenneth Uildriks <kennethuil@gmail.com>
 kevin                   = Kevin <ar18@comcast.net>
+kjdyck                  = Ken Dyck <ken.dyck@onsemi.com>
 kledzik                 = Nick Kledzik <kledzik@apple.com>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
 kremenek                = Ted Kremenek <kremenek@apple.com>
