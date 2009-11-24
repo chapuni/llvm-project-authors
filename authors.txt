@@ -78,6 +78,7 @@ kjdyck                  = Ken Dyck <ken.dyck@onsemi.com>
 kledzik                 = Nick Kledzik <kledzik@apple.com>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
 kremenek                = Ted Kremenek <kremenek@apple.com>
+krj                     = Kovarththanan Rajaratnam <kovarththanan.rajaratnam@gmail.com>
 kuba                    = Jakub Staszak <kuba@gcc.gnu.org>
 lattner                 = Chris Lattner <sabre@nondot.org>
 laurov                  = Lauro Ramos Venancio <lauro.venancio@gmail.com>
