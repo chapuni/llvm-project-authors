@@ -72,6 +72,7 @@ johannes                = Dale Johannesen <dalej@apple.com>
 johnny                  = Johnny Chen <johnny.chen@apple.com>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
 jtsoftware              = John Thompson <John.Thompson.JTSoftware@gmail.com>
+jugu                    = Junjie Gu <jgu222@gmail.com>
 jyasskin                = Jeffrey Yasskin <jyasskin@google.com>
 kennethuil              = Kenneth Uildriks <kennethuil@gmail.com>
 kevin                   = Kevin <ar18@comcast.net>
