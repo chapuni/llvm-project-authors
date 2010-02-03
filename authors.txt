@@ -59,6 +59,7 @@ greened                 = David Greene <greened@obbligato.org>
 grosbach                = Jim Grosbach <grosbach@apple.com>
 grosser                 = Tobias Grosser <grosser@fim.uni-passau.de>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
+gvenn                   = Garrison Venn <gvenn.cfe.dev@gmail.com>
 hernande                = Victor Hernandez <vhernandez@apple.com>
 hhinnant                = Howard Hinnant <hhinnant@apple.com>
 hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
