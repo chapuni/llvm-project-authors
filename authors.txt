@@ -121,6 +121,7 @@ spyffe                  = Sean Callanan <scallanan@apple.com>
 ssen                    = Shantonu Sen <ssen@apple.com>
 stoklund                = Jakob Stoklund Olesen <stoklund@2pi.dk>
 stuart                  = Stuart Hastings <stuart@apple.com>
+talin                   = Talin <viridia@gmail.com>
 tbrethou                = Tanya Lattner <tonic@nondot.org>
 theraven                = David Chisnall <csdavec@swan.ac.uk>
 tilmann                 = Tilmann Scheller <tilmann.scheller@googlemail.com>
