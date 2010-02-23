@@ -98,6 +98,7 @@ nlopes                  = Nuno Lopes <nunoplopes@sapo.pt>
 ofv                     = Oscar Fuentes <ofv@wanadoo.es>
 oliver                  = Oliver Hunt <oliver@apple.com>
 patjenk                 = Patrick Jenkins <pjenkins@apple.com>
+peckw                   = Wesley Peck <peckw@wesleypeck.com>
 pingbak                 = Scott Michel <scottm@aero.org>
 pizza                   = Ryan Flynn <pizza@parseerror.com>
 pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
