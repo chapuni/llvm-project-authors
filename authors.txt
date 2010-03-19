@@ -11,6 +11,7 @@ astifter                = Andreas Neustifter <astifter-llvm@gmx.at>
 axel                    = Axel Naumann <Axel.Naumann@cern.ch>
 baldrick                = Duncan Sands <baldrick@free.fr>
 ben                     = Ben Laurie <benl@google.com>
+benholt                 = Ben Holt <bjh@apple.com>
 blaine                  = Blaine Garst <blaine@apple.com>
 bocchino                = Robert Bocchino <bocchino@illinois.edu>
 brukman                 = Misha Brukman <brukman+llvm@gmail.com>
