@@ -43,6 +43,7 @@ ed                      = Ed Schouten <ed@80386.nl>
 edwin                   = Torok Edwin <edwintorok@gmail.com>
 efriedma                = Eli Friedman <eli.friedman@gmail.com>
 enderby                 = Kevin Enderby <enderby@apple.com>
+enea                    = Enea Zaffanella <zaffanella@cs.unipr.it>
 ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
 erickt                  = Erick Tryzelaar <idadesub@users.sourceforge.net>
 evancheng               = Evan Cheng <evan.cheng@apple.com>
