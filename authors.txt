@@ -1,4 +1,5 @@
 abolka                  = Andreas Bolka <a@bolka.at>
+abramo                  = Abramo Bagnara <abramo.bagnara@gmail.com>
 akirtzidis              = Argyrios Kyrtzidis <akyrtzi@gmail.com>
 alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
 alisdairm               = Alisdair Meredith <public@alisdairm.net>
