@@ -25,6 +25,7 @@ chandlerc               = Chandler Carruth <chandlerc@gmail.com>
 clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
 coppro                  = Sean Hunt <rideau3@gmail.com>
 cornedbee               = Sebastian Redl <sebastian.redl@getdesigned.at>
+cristian.zamfir         = Cristian Zamfir <cristian.zamfir@epfl.ch>
 cristic                 = Cristian Cadar <cristic@cs.stanford.edu>
 criswell                = John Criswell <criswell@uiuc.edu>
 ctice                   = Caroline Tice <ctice@apple.com>
