@@ -93,6 +93,7 @@ lattner                 = Chris Lattner <sabre@nondot.org>
 laurov                  = Lauro Ramos Venancio <lauro.venancio@gmail.com>
 lhames                  = Lang Hames <lhames@gmail.com>
 matthijs                = Matthijs Kooijman <matthijs@stdin.nl>
+mikem                   = mike-m <mikem.llvm@gmail.com>
 mrs                     = Mike Stump <mrs@apple.com>
 nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 neil                    = Neil Booth <neil@daikokuya.co.uk>
