@@ -100,6 +100,7 @@ nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 neil                    = Neil Booth <neil@daikokuya.co.uk>
 nicholas                = Nick Lewycky <nicholas@mxc.ca>
 nico                    = Nico Weber <nicolasweber@gmx.de>
+njeffords               = Nathan Jeffords <blunted2night@gmail.com>
 nkeynes                 = Nathan Keynes <nkeynes@deadcoderemoval.net>
 nlopes                  = Nuno Lopes <nunoplopes@sapo.pt>
 ofv                     = Oscar Fuentes <ofv@wanadoo.es>
