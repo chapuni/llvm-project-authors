@@ -77,6 +77,7 @@ jlerouge                = Julien Lerouge <jlerouge@apple.com>
 jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
 johannes                = Dale Johannesen <dalej@apple.com>
 johnny                  = Johnny Chen <johnny.chen@apple.com>
+jrose                   = Jordy Rose <jediknil@belkadan.com>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
 jtsoftware              = John Thompson <John.Thompson.JTSoftware@gmail.com>
 jugu                    = Junjie Gu <jgu222@gmail.com>
