@@ -58,6 +58,7 @@ foldr                   = Mikhail Glushenkov <foldr@codedgers.com>
 foo                     = Test Commit <nobody@llvm.org>
 friedgold               = Richard Osborne <richard@xmos.com>
 gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
+gclayton                = Greg Clayton <gclayton@apple.com>
 geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
 ggreif                  = Gabor Greif <ggreif@gmail.com>
 ghost                   = Vladimir Prus <ghost@cs.msu.su>
