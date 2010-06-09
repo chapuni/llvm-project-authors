@@ -21,6 +21,7 @@ buschard                = Cameron Buschardt <buschard@uiuc.edu>
 bwilson                 = Bob Wilson <bob.wilson@apple.com>
 cdavis                  = Charles Davis <cdavis@mines.edu>
 cfr                     = Chuck Rose III <cfr@adobe.com>
+cfriesen                = Christopher Friesen <friesen@apple.com>
 chandlerc               = Chandler Carruth <chandlerc@gmail.com>
 clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
 coppro                  = Sean Hunt <rideau3@gmail.com>
