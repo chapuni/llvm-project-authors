@@ -154,6 +154,7 @@ void                    = Bill Wendling <isanbard@gmail.com>
 wan                     = Zhanyong Wan <wan@google.com>
 wangmp                  = Mon P Wang <wangmp@apple.com>
 weinig                  = Sam Weinig <sam.weinig@gmail.com>
+wilsons                 = Stephen Wilson <wilsons@start.ca>
 wmat                    = Wojciech Matyjewicz <wmatyjewicz@fastmail.fm>
 xranby                  = Xerxes Ranby <xerxes@zafena.se>
 zhongxingxu             = Zhongxing Xu <xuzhongxing@gmail.com>
