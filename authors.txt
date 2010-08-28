@@ -24,6 +24,7 @@ cdavis                  = Charles Davis <cdavis@mines.edu>
 cfr                     = Chuck Rose III <cfr@adobe.com>
 cfriesen                = Christopher Friesen <friesen@apple.com>
 chandlerc               = Chandler Carruth <chandlerc@gmail.com>
+chapuni                 = NAKAMURA Takumi <geek4civic@gmail.com>
 clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
 coppro                  = Sean Hunt <scshunt@csclub.uwaterloo.ca>
 cornedbee               = Sebastian Redl <sebastian.redl@getdesigned.at>
