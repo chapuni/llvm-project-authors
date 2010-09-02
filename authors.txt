@@ -43,6 +43,7 @@ dgregor                 = Douglas Gregor <dgregor@apple.com>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
 djg                     = Dan Gohman <gohman@apple.com>
 dpatel                  = Devang Patel <dpatel@apple.com>
+dperchik                = Dawn Perchik <dawn@burble.org>
 duraid                  = Duraid Madina <duraid@octopus.com.au>
 echristo                = Eric Christopher <echristo@apple.com>
 ed                      = Ed Schouten <ed@80386.nl>
