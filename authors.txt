@@ -60,6 +60,7 @@ fjahanian               = Fariborz Jahanian <fjahanian@apple.com>
 foad                    = Jay Foad <jay.foad@gmail.com>
 foldr                   = Mikhail Glushenkov <foldr@codedgers.com>
 foo                     = Test Commit <nobody@llvm.org>
+fpichet                 = Francois Pichet <pichet2000@gmail.com>
 friedgold               = Richard Osborne <richard@xmos.com>
 gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 gclayton                = Greg Clayton <gclayton@apple.com>
