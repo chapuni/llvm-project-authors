@@ -144,6 +144,7 @@ sliao                   = Shih-wei Liao <sliao@google.com>
 snaroff                 = Steve Naroff <snaroff@apple.com>
 spyffe                  = Sean Callanan <scallanan@apple.com>
 ssen                    = Shantonu Sen <ssen@apple.com>
+steven_watanabe         = Steven Watanabe <steven@providere-consulting.com>
 stoklund                = Jakob Stoklund Olesen <stoklund@2pi.dk>
 stuart                  = Stuart Hastings <stuart@apple.com>
 talin                   = Talin <viridia@gmail.com>
