@@ -41,6 +41,7 @@ david_goodwin           = David Goodwin <david_goodwin@apple.com>
 ddunbar                 = Daniel Dunbar <daniel@zuster.org>
 dgregor                 = Douglas Gregor <dgregor@apple.com>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
+dirty                   = Cameron Esfahani <dirty@apple.com>
 djg                     = Dan Gohman <gohman@apple.com>
 dpatel                  = Devang Patel <dpatel@apple.com>
 dperchik                = Dawn Perchik <dawn@burble.org>
