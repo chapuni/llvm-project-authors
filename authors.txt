@@ -27,6 +27,7 @@ cfriesen                = Christopher Friesen <friesen@apple.com>
 chandlerc               = Chandler Carruth <chandlerc@gmail.com>
 chapuni                 = NAKAMURA Takumi <geek4civic@gmail.com>
 clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
+clchiou                 = Che-Liang Chiou <clchiou@gmail.com>
 coppro                  = Sean Hunt <scshunt@csclub.uwaterloo.ca>
 cornedbee               = Sebastian Redl <sebastian.redl@getdesigned.at>
 cristian.zamfir         = Cristian Zamfir <cristian.zamfir@epfl.ch>
