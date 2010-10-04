@@ -120,6 +120,7 @@ nico                    = Nico Weber <nicolasweber@gmx.de>
 njeffords               = Nathan Jeffords <blunted2night@gmail.com>
 nkeynes                 = Nathan Keynes <nkeynes@deadcoderemoval.net>
 nlopes                  = Nuno Lopes <nunoplopes@sapo.pt>
+nobled                  = Dylan Noblesmith <nobled@dreamwidth.org>
 ofv                     = Oscar Fuentes <ofv@wanadoo.es>
 oliver                  = Oliver Hunt <oliver@apple.com>
 patjenk                 = Patrick Jenkins <pjenkins@apple.com>
