@@ -108,6 +108,7 @@ kuba                    = Jakub Staszak <kuba@gcc.gnu.org>
 lattner                 = Chris Lattner <sabre@nondot.org>
 laurov                  = Lauro Ramos Venancio <lauro.venancio@gmail.com>
 lhames                  = Lang Hames <lhames@gmail.com>
+matthewbg               = Matt Beaumont-Gay <matthewbg@google.com>
 matthijs                = Matthijs Kooijman <matthijs@stdin.nl>
 mfleming                = Matt Fleming <matt@console-pimps.org>
 mikem                   = mike-m <mikem.llvm@gmail.com>
