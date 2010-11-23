@@ -175,3 +175,4 @@ wmat                    = Wojciech Matyjewicz <wmatyjewicz@fastmail.fm>
 xranby                  = Xerxes Ranby <xerxes@zafena.se>
 zhongxingxu             = Zhongxing Xu <xuzhongxing@gmail.com>
 zonr                    = Zonr Chang <zonr.xchg@gmail.com>
+zwarich                 = Cameron Zwarich <zwarich@apple.com>
