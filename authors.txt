@@ -136,6 +136,7 @@ rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
 raulherbster            = Raul Herbster <raulherbster@gmail.com>
 rdivacky                = Roman Divacky <rdivacky@freebsd.org>
 reid                    = Reid Spencer <rspencer@reidspencer.com>
+rengolin                = Renato Golin <renato.golin@arm.com>
 resistor                = Owen Anderson <resistor@mac.com>
 rich                    = Richard Pennington <rich@pennware.com>
 rjmccall                = John McCall <rjmccall@apple.com>
