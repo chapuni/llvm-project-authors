@@ -21,6 +21,7 @@ brukman                 = Misha Brukman <brukman+llvm@gmail.com>
 bruno                   = Bruno Cardoso Lopes <bruno.cardoso@gmail.com>
 buschard                = Cameron Buschardt <buschard@uiuc.edu>
 bwilson                 = Bob Wilson <bob.wilson@apple.com>
+carl                    = Carl Norum <carl.norum@apple.com>
 cdavis                  = Charles Davis <cdavis@mines.edu>
 cfr                     = Chuck Rose III <cfr@adobe.com>
 cfriesen                = Christopher Friesen <friesen@apple.com>
