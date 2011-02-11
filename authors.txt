@@ -117,6 +117,7 @@ mfleming                = Matt Fleming <matt@console-pimps.org>
 mikem                   = mike-m <mikem.llvm@gmail.com>
 mrs                     = Mike Stump <mrs@apple.com>
 mspencer                = Michael J. Spencer <bigcheesegs@gmail.com>
+nadav                   = Nadav Rotem <nadav.rotem@intel.com>
 nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 neil                    = Neil Booth <neil@daikokuya.co.uk>
 nicholas                = Nick Lewycky <nicholas@mxc.ca>
