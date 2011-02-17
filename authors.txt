@@ -90,6 +90,7 @@ jlaskey                 = Jim Laskey <jlaskey@mac.com>
 jlerouge                = Julien Lerouge <jlerouge@apple.com>
 jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
 jmolenda                = Jason Molenda <jmolenda@apple.com>
+joerg                   = Joerg Sonnenberger <joerg@bec.de>
 johannes                = Dale Johannesen <dalej@apple.com>
 johnny                  = Johnny Chen <johnny.chen@apple.com>
 jrose                   = Jordy Rose <jediknil@belkadan.com>
