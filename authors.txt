@@ -145,6 +145,7 @@ rich                    = Richard Pennington <rich@pennware.com>
 rjmccall                = John McCall <rjmccall@apple.com>
 rnk                     = Reid Kleckner <reid@kleckner.net>
 romix                   = Roman Levenstein <romix.llvm@googlemail.com>
+rsmith                  = Richard Smith <richard-llvm@metafoo.co.uk>
 sampo                   = Nate Begeman <natebegeman@mac.com>
 sandeep                 = Sandeep Patel <deeppatel1987@gmail.com>
 sanxiyn                 = Seo Sanghyeon <sanxiyn@gmail.com>
