@@ -85,6 +85,7 @@ hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 jasonwkim               = Jason W Kim <jason.w.kim.2009@gmail.com>
 jdm                     = John Mosby <ojomojo@gmail.com>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
+jholewinski             = Justin Holewinski <justin.holewinski@gmail.com>
 jingham                 = Jim Ingham <jingham@apple.com>
 jlaskey                 = Jim Laskey <jlaskey@mac.com>
 jlerouge                = Julien Lerouge <jlerouge@apple.com>
