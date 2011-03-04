@@ -90,6 +90,7 @@ jingham                 = Jim Ingham <jingham@apple.com>
 jlaskey                 = Jim Laskey <jlaskey@mac.com>
 jlerouge                = Julien Lerouge <jlerouge@apple.com>
 jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
+jmcilree                = James McIlree <jmcilree@apple.com>
 jmolenda                = Jason Molenda <jmolenda@apple.com>
 joerg                   = Joerg Sonnenberger <joerg@bec.de>
 johannes                = Dale Johannesen <dalej@apple.com>
