@@ -83,6 +83,7 @@ hhinnant                = Howard Hinnant <hhinnant@apple.com>
 hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 jasonwkim               = Jason W Kim <jason.w.kim.2009@gmail.com>
+jaykang10               = Jin-Gu Kang <jaykang10@imrc.kist.re.kr>
 jdm                     = John Mosby <ojomojo@gmail.com>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
 jholewinski             = Justin Holewinski <justin.holewinski@gmail.com>
