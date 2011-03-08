@@ -96,6 +96,7 @@ jmolenda                = Jason Molenda <jmolenda@apple.com>
 joerg                   = Joerg Sonnenberger <joerg@bec.de>
 johannes                = Dale Johannesen <dalej@apple.com>
 johnny                  = Johnny Chen <johnny.chen@apple.com>
+johnw                   = John Wiegley <johnw@boostpro.com>
 jrose                   = Jordy Rose <jediknil@belkadan.com>
 jsjodin                 = Jan Sjödin <jan_sjodin@yahoo.com>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
