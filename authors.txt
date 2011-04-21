@@ -109,6 +109,7 @@ kennethuil              = Kenneth Uildriks <kennethuil@gmail.com>
 kevin                   = Kevin <ar18@comcast.net>
 kjdyck                  = Ken Dyck <kd@kendyck.com>
 kledzik                 = Nick Kledzik <kledzik@apple.com>
+klimek                  = Manuel Klimek <klimek@google.com>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
 kraiskil                = Kalle Raiskila <kalle.raiskila@nokia.com>
 kremenek                = Ted Kremenek <kremenek@apple.com>
