@@ -58,6 +58,7 @@ enderby                 = Kevin Enderby <enderby@apple.com>
 enea                    = Enea Zaffanella <zaffanella@cs.unipr.it>
 ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
 erickt                  = Erick Tryzelaar <idadesub@users.sourceforge.net>
+ether                   = Hongbin Zheng <etherzhhb@gmail.com>
 evancheng               = Evan Cheng <evan.cheng@apple.com>
 evanphx                 = Evan Phoenix <evan@fallingsnow.net>
 evocallaghan            = Edward O'Callaghan <eocallaghan@auroraux.org>
