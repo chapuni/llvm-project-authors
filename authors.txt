@@ -123,6 +123,7 @@ lhames                  = Lang Hames <lhames@gmail.com>
 marshall                = Marshall Clow <mclow@qualcomm.com>
 matthewbg               = Matt Beaumont-Gay <matthewbg@google.com>
 matthijs                = Matthijs Kooijman <matthijs@stdin.nl>
+mcrosier                = Chad Rosier <mcrosier@apple.com>
 mfleming                = Matt Fleming <matt@console-pimps.org>
 mikem                   = mike-m <mikem.llvm@gmail.com>
 mrs                     = Mike Stump <mrs@apple.com>
