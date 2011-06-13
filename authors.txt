@@ -123,6 +123,7 @@ lattner                 = Chris Lattner <sabre@nondot.org>
 laurov                  = Lauro Ramos Venancio <lauro.venancio@gmail.com>
 lenny                   = Lenny Maiorani <lenny@colorado.edu>
 lhames                  = Lang Hames <lhames@gmail.com>
+majnemer                = David Majnemer <david.majnemer@gmail.com>
 marshall                = Marshall Clow <mclow@qualcomm.com>
 matthewbg               = Matt Beaumont-Gay <matthewbg@google.com>
 matthijs                = Matthijs Kooijman <matthijs@stdin.nl>
