@@ -150,6 +150,7 @@ pingbak                 = Scott Michel <scottm@aero.org>
 pizza                   = Ryan Flynn <pizza@parseerror.com>
 pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
 rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
+raghesh                 = Raghesh Aloor <raghesh.a@gmail.com>
 raulherbster            = Raul Herbster <raulherbster@gmail.com>
 rdivacky                = Roman Divacky <rdivacky@freebsd.org>
 reid                    = Reid Spencer <rspencer@reidspencer.com>
