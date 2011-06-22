@@ -49,6 +49,7 @@ dirty                   = Cameron Esfahani <dirty@apple.com>
 djg                     = Dan Gohman <gohman@apple.com>
 dpatel                  = Devang Patel <dpatel@apple.com>
 dperchik                = Dawn Perchik <dawn@burble.org>
+drb                     = Dan Bailey <dan@dneg.com>
 duraid                  = Duraid Madina <duraid@octopus.com.au>
 echristo                = Eric Christopher <echristo@apple.com>
 ed                      = Ed Schouten <ed@80386.nl>
