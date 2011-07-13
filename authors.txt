@@ -40,6 +40,7 @@ ctice                   = Caroline Tice <ctice@apple.com>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 d0k                     = Benjamin Kramer <benny.kra@googlemail.com>
 danchr                  = Dan Villiom Podlaski Christiansen <danchr@gmail.com>
+danil                   = Danil Malyshev <dmalyshev@accesssoftek.com>
 dannyb                  = Daniel Berlin <dberlin@dberlin.org>
 david_goodwin           = David Goodwin <david_goodwin@apple.com>
 ddunbar                 = Daniel Dunbar <daniel@zuster.org>
