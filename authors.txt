@@ -184,6 +184,7 @@ ssen                    = Shantonu Sen <ssen@apple.com>
 steven_watanabe         = Steven Watanabe <steven@providere-consulting.com>
 stoklund                = Jakob Stoklund Olesen <stoklund@2pi.dk>
 stuart                  = Stuart Hastings <stuart@apple.com>
+supertri                = Caitlin Sadowski <supertri@google.com>
 talin                   = Talin <viridia@gmail.com>
 tbrethou                = Tanya Lattner <tonic@nondot.org>
 tcare                   = Tom Care <tom.care@uqconnect.edu.au>
