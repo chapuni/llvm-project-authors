@@ -202,6 +202,7 @@ wilsons                 = Stephen Wilson <wilsons@start.ca>
 wmat                    = Wojciech Matyjewicz <wmatyjewicz@fastmail.fm>
 xranby                  = Xerxes Ranby <xerxes@zafena.se>
 zaks                    = Anna Zaks <ganna@apple.com>
+zarzycki                = Dave Zarzycki <zarzycki@apple.com>
 zhongxingxu             = Zhongxing Xu <xuzhongxing@foxmail.com>
 zonr                    = Zonr Chang <zonr.xchg@gmail.com>
 zwarich                 = Cameron Zwarich <zwarich@apple.com>
