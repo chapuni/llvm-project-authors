@@ -160,6 +160,7 @@ reid                    = Reid Spencer <rspencer@reidspencer.com>
 rengolin                = Renato Golin <renato.golin@linaro.org>
 resistor                = Owen Anderson <resistor@mac.com>
 rich                    = Richard Pennington <rich@pennware.com>
+rikka                   = Kaelyn Uhrain <rikka@google.com>
 rjmccall                = John McCall <rjmccall@apple.com>
 rnk                     = Reid Kleckner <reid@kleckner.net>
 romix                   = Roman Levenstein <romix.llvm@googlemail.com>
