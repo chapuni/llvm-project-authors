@@ -37,6 +37,7 @@ cristic                 = Cristian Cadar <cristic@cs.stanford.edu>
 criswell                = John Criswell <criswell@uiuc.edu>
 csilvers                = Craig Silverstein <csilvers2000@yahoo.com>
 ctice                   = Caroline Tice <ctice@apple.com>
+ctopper                 = Craig Topper <craig.topper@gmail.com>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 d0k                     = Benjamin Kramer <benny.kra@googlemail.com>
 danchr                  = Dan Villiom Podlaski Christiansen <danchr@gmail.com>
