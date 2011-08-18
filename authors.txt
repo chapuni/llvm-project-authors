@@ -90,6 +90,7 @@ hernande                = Victor Hernandez <vhernandez@apple.com>
 hhinnant                = Howard Hinnant <hhinnant@apple.com>
 hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
+jamesm                  = James Molloy <james.molloy@arm.com>
 jasonwkim               = Jason W Kim <jason.w.kim.2009@gmail.com>
 jaykang10               = Jin-Gu Kang <jaykang10@imrc.kist.re.kr>
 jdm                     = John Mosby <ojomojo@gmail.com>
