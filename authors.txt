@@ -46,6 +46,7 @@ dannyb                  = Daniel Berlin <dberlin@dberlin.org>
 david_goodwin           = David Goodwin <david_goodwin@apple.com>
 dblaikie                = David Blaikie <dblaikie@gmail.com>
 ddunbar                 = Daniel Dunbar <daniel@zuster.org>
+delesley                = DeLesley Hutchins <delesley@google.com>
 dgregor                 = Douglas Gregor <dgregor@apple.com>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
 dirty                   = Cameron Esfahani <dirty@apple.com>
