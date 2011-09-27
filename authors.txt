@@ -1,6 +1,6 @@
 abolka                  = Andreas Bolka <a@bolka.at>
 abramo                  = Abramo Bagnara <abramo.bagnara@gmail.com>
-ahatanak                = Akira Hatanaka <ahatanak@gmail.com>
+ahatanak                = Akira Hatanaka <ahatanaka@mips.com>
 akirtzidis              = Argyrios Kyrtzidis <akyrtzi@gmail.com>
 alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
 alisdairm               = Alisdair Meredith <public@alisdairm.net>
