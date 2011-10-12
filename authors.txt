@@ -100,6 +100,7 @@ jasonwkim               = Jason W Kim <jason.w.kim.2009@gmail.com>
 jaykang10               = Jin-Gu Kang <jaykang10@imrc.kist.re.kr>
 jdm                     = John Mosby <ojomojo@gmail.com>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
+jgoodnowii              = Jim Goodnow II <jim@thegoodnows.net>
 jholewinski             = Justin Holewinski <justin.holewinski@gmail.com>
 jingham                 = Jim Ingham <jingham@apple.com>
 jlaskey                 = Jim Laskey <jlaskey@mac.com>
