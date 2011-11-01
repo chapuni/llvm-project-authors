@@ -194,6 +194,7 @@ sheng                   = Zhou Sheng <zhousheng00@gmail.com>
 simbuerg                = Andreas Simbuerger <simbuerg@fim.uni-passau.de>
 sliao                   = Shih-wei Liao <sliao@google.com>
 snaroff                 = Steve Naroff <snaroff@apple.com>
+spop                    = Sebastian Pop <spop@codeaurora.org>
 spyffe                  = Sean Callanan <scallanan@apple.com>
 ssen                    = Shantonu Sen <ssen@apple.com>
 steven_watanabe         = Steven Watanabe <steven@providere-consulting.com>
