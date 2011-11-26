@@ -85,6 +85,7 @@ gclayton                = Greg Clayton <gclayton@apple.com>
 geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
 ggreif                  = Gabor Greif <ggreif@gmail.com>
 ghost                   = Vladimir Prus <ghost@cs.msu.su>
+gigabytes               = Nicola Gigante <nicola.gigante@gmail.com>
 gkistanova              = Galina Kistanova <gkistanova@gmail.com>
 gordon                  = Gordon Henriksen <gordonhenriksen@mac.com>
 greened                 = David Greene <greened@obbligato.org>
