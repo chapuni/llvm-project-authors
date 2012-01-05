@@ -63,6 +63,7 @@ echristo                = Eric Christopher <echristo@apple.com>
 ed                      = Ed Schouten <ed@80386.nl>
 edwin                   = Torok Edwin <edwintorok@gmail.com>
 efriedma                = Eli Friedman <eli.friedman@gmail.com>
+eliben                  = Eli Bendersky <eli.bendersky@intel.com>
 enderby                 = Kevin Enderby <enderby@apple.com>
 enea                    = Enea Zaffanella <zaffanella@cs.unipr.it>
 enrico                  = Enrico Granata <granata.enrico@gmail.com>
