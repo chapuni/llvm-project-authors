@@ -218,6 +218,7 @@ venet                   = Cedric Venet <cedric.venet@laposte.net>
 venkatra                = Venkatraman Govindaraju <venkatra@cs.wisc.edu>
 vkutuzov                = Viktor Kutuzov <vkutuzov@accesssoftek.com>
 void                    = Bill Wendling <isanbard@gmail.com>
+vumansky                = Victor Umansky <victor.umansky@intel.com>
 wan                     = Zhanyong Wan <wan@google.com>
 wangmp                  = Mon P Wang <wangmp@apple.com>
 weinig                  = Sam Weinig <sam.weinig@gmail.com>
