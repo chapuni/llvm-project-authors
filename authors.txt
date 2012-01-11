@@ -187,6 +187,7 @@ root                    = root <nothing@nowhere.org>
 rsmith                  = Richard Smith <richard-llvm@metafoo.co.uk>
 rtrieu                  = Richard Trieu <rtrieu@google.com>
 sampo                   = Nate Begeman <natebegeman@mac.com>
+samsonov                = Alexey Samsonov <samsonov@google.com>
 sandeep                 = Sandeep Patel <deeppatel1987@gmail.com>
 sanjoy                  = Sanjoy Das <sanjoy@playingwithpointers.com>
 sanxiyn                 = Seo Sanghyeon <sanxiyn@gmail.com>
