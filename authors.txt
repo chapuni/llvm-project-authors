@@ -89,6 +89,7 @@ ggreif                  = Gabor Greif <ggreif@gmail.com>
 ghost                   = Vladimir Prus <ghost@cs.msu.su>
 gigabytes               = Nicola Gigante <nicola.gigante@gmail.com>
 gkistanova              = Galina Kistanova <gkistanova@gmail.com>
+glider                  = Alexander Potapenko <glider@google.com>
 gordon                  = Gordon Henriksen <gordonhenriksen@mac.com>
 greened                 = David Greene <greened@obbligato.org>
 grosbach                = Jim Grosbach <grosbach@apple.com>
