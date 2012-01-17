@@ -106,6 +106,7 @@ jabbey                  = Joe Abbey <jabbey@arxan.com>
 jamesm                  = James Molloy <james.molloy@arm.com>
 jasonwkim               = Jason W Kim <jason.w.kim.2009@gmail.com>
 jaykang10               = Jin-Gu Kang <jaykang10@imrc.kist.re.kr>
+jddupas                 = Jean-Daniel Dupas <devlists@shadowlab.org>
 jdm                     = John Mosby <ojomojo@gmail.com>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
 jgoodnowii              = Jim Goodnow II <jim@thegoodnows.net>
