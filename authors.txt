@@ -15,6 +15,7 @@ atrick                  = Andrew Trick <atrick@apple.com>
 axel                    = Axel Naumann <Axel.Naumann@cern.ch>
 ayartsev                = Anton Yartsev <anton.yartsev@gmail.com>
 baldrick                = Duncan Sands <baldrick@free.fr>
+bcahoon                 = Brendon Cahoon <bcahoon@codeaurora.org>
 ben                     = Ben Laurie <benl@google.com>
 benholt                 = Ben Holt <bjh@apple.com>
 blaine                  = Blaine Garst <blaine@apple.com>
