@@ -98,6 +98,7 @@ grosser                 = Tobias Grosser <grosser@fim.uni-passau.de>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
 gvenn                   = Garrison Venn <gvenn.cfe.dev@gmail.com>
 hans                    = Hans Wennborg <hans@hanshq.net>
+helloqirun              = Qirun Zhang <helloqirun@gmail.com>
 hernande                = Victor Hernandez <vhernandez@apple.com>
 hfinkel                 = Hal Finkel <hfinkel@anl.gov>
 hhinnant                = Howard Hinnant <hhinnant@apple.com>
