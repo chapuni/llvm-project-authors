@@ -1,3 +1,4 @@
+AaronBallman            = Aaron Ballman <aaron@aaronballman.com>
 abolka                  = Andreas Bolka <a@bolka.at>
 abramo                  = Abramo Bagnara <abramo.bagnara@gmail.com>
 adasgupt                = Anshuman Dasgupta <adasgupt@codeaurora.org>
