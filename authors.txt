@@ -10,6 +10,7 @@ alisdairm               = Alisdair Meredith <public@alisdairm.net>
 alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
 andersca                = Anders Carlsson <andersca@mac.com>
 arnolds                 = Arnold Schwaighofer <arnold.schwaighofer@gmail.com>
+ashemer                 = Anat Shemer <anat.shemer@intel.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
 asl                     = Anton Korobeynikov <asl@math.spbu.ru>
 astifter                = Andreas Neustifter <astifter-llvm@gmx.at>
