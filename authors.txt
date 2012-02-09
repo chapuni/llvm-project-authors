@@ -209,6 +209,7 @@ sfider                  = Marcin Swiderski <marcin.sfider@gmail.com>
 sgupta                  = Sanjiv Gupta <sanjiv.gupta@microchip.com>
 sheng                   = Zhou Sheng <zhousheng00@gmail.com>
 simbuerg                = Andreas Simbuerger <simbuerg@fim.uni-passau.de>
+sirish                  = Sirish Pande <spande@codeaurora.org>
 sliao                   = Shih-wei Liao <sliao@google.com>
 snaroff                 = Steve Naroff <snaroff@apple.com>
 socantre                = Seth Cantrell <seth.cantrell@gmail.com>
