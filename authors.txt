@@ -225,6 +225,7 @@ tbrethou                = Tanya Lattner <tonic@nondot.org>
 tcare                   = Tom Care <tom.care@uqconnect.edu.au>
 theraven                = David Chisnall <csdavec@swan.ac.uk>
 tilmann                 = Tilmann Scheller <tilmann.scheller@googlemail.com>
+timurrrr                = Timur Iskhodzhanov <timurrrr@google.com>
 tlinth                  = Tony Linthicum <tlinth@codeaurora.org>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 venet                   = Cedric Venet <cedric.venet@laposte.net>
