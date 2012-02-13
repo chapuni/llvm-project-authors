@@ -99,6 +99,7 @@ glider                  = Alexander Potapenko <glider@google.com>
 gordon                  = Gordon Henriksen <gordonhenriksen@mac.com>
 gps                     = Gregory Szorc <gregory.szorc@gmail.com>
 greened                 = David Greene <greened@obbligato.org>
+gribozavr               = Dmitri Gribenko <gribozavr@gmail.com>
 grosbach                = Jim Grosbach <grosbach@apple.com>
 grosser                 = Tobias Grosser <grosser@fim.uni-passau.de>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
