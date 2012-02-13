@@ -2,6 +2,7 @@ AaronBallman            = Aaron Ballman <aaron@aaronballman.com>
 aaronballman            = Aaron Ballman <aaron@aaronballman.com>
 abolka                  = Andreas Bolka <a@bolka.at>
 abramo                  = Abramo Bagnara <abramo.bagnara@gmail.com>
+ace2001ac               = Ahmed Charles <ace2001ac@gmail.com>
 adasgupt                = Anshuman Dasgupta <adasgupt@codeaurora.org>
 ahatanak                = Akira Hatanaka <ahatanaka@mips.com>
 akirtzidis              = Argyrios Kyrtzidis <akyrtzi@gmail.com>
