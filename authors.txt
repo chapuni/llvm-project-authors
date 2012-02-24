@@ -139,6 +139,7 @@ jtsoftware              = John Thompson <John.Thompson.JTSoftware@gmail.com>
 jugu                    = Junjie Gu <jgu222@gmail.com>
 jvoung                  = Jan Wen Voung <jvoung@google.com>
 jyasskin                = Jeffrey Yasskin <jyasskin@google.com>
+kbeyls                  = Kristof Beyls <kristof.beyls@arm.com>
 kcc                     = Kostya Serebryany <kcc@google.com>
 kennethuil              = Kenneth Uildriks <kennethuil@gmail.com>
 kevin                   = Kevin <ar18@comcast.net>
