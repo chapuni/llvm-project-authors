@@ -184,6 +184,7 @@ pcc                     = Peter Collingbourne <peter@pcc.me.uk>
 pdox                    = David Meyer <pdox@google.com>
 peckw                   = Wesley Peck <peckw@wesleypeck.com>
 pete                    = Pete Cooper <peter_cooper@apple.com>
+pgurd                   = Preston Gurd <preston.gurd@intel.com>
 pingbak                 = Scott Michel <scottm@aero.org>
 pizza                   = Ryan Flynn <pizza@parseerror.com>
 pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
