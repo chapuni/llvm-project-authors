@@ -105,6 +105,7 @@ grosbach                = Jim Grosbach <grosbach@apple.com>
 grosser                 = Tobias Grosser <grosser@fim.uni-passau.de>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
 gvenn                   = Garrison Venn <gvenn.cfe.dev@gmail.com>
+hanm                    = Michael Han <Michael.Han@autodesk.com>
 hanming                 = Han Ming Ong <hanming@apple.com>
 hans                    = Hans Wennborg <hans@hanshq.net>
 helloqirun              = Qirun Zhang <helloqirun@gmail.com>
