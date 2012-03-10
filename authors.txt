@@ -147,6 +147,7 @@ kcc                     = Kostya Serebryany <kcc@google.com>
 kennethuil              = Kenneth Uildriks <kennethuil@gmail.com>
 kevin                   = Kevin <ar18@comcast.net>
 kjdyck                  = Ken Dyck <kd@kendyck.com>
+kkhoo                   = Kay Tiong Khoo <kkhoo@perfwizard.com>
 kledzik                 = Nick Kledzik <kledzik@apple.com>
 klimek                  = Manuel Klimek <klimek@google.com>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
