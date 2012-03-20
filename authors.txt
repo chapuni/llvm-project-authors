@@ -182,6 +182,7 @@ nobled                  = Dylan Noblesmith <nobled@dreamwidth.org>
 ofv                     = Oscar Fuentes <ofv@wanadoo.es>
 oliver                  = Oliver Hunt <oliver@apple.com>
 patjenk                 = Patrick Jenkins <pjenkins@apple.com>
+pcbeard                 = Patrick Beard <pcbeard@mac.com>
 pcc                     = Peter Collingbourne <peter@pcc.me.uk>
 pdox                    = David Meyer <pdox@google.com>
 peckw                   = Wesley Peck <peckw@wesleypeck.com>
