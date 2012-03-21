@@ -10,6 +10,7 @@ alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
 alisdairm               = Alisdair Meredith <public@alisdairm.net>
 alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
 andersca                = Anders Carlsson <andersca@mac.com>
+andersg                 = Anders Waldenborg <anders@0x63.nu>
 arnolds                 = Arnold Schwaighofer <arnold.schwaighofer@gmail.com>
 ashemer                 = Anat Shemer <anat.shemer@intel.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
