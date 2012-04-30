@@ -173,6 +173,7 @@ matthijs                = Matthijs Kooijman <matthijs@stdin.nl>
 mcrosier                = Chad Rosier <mcrosier@apple.com>
 mfleming                = Matt Fleming <matt@console-pimps.org>
 mikem                   = mike-m <mikem.llvm@gmail.com>
+mren                    = Manman Ren <mren@apple.com>
 mrs                     = Mike Stump <mrs@apple.com>
 mspencer                = Michael J. Spencer <bigcheesegs@gmail.com>
 nadav                   = Nadav Rotem <nadav.rotem@intel.com>
