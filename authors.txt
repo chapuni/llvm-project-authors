@@ -85,6 +85,7 @@ eugenis                 = Evgeniy Stepanov <eugeni.stepanov@gmail.com>
 evancheng               = Evan Cheng <evan.cheng@apple.com>
 evanphx                 = Evan Phoenix <evan@fallingsnow.net>
 evocallaghan            = Edward O'Callaghan <eocallaghan@auroraux.org>
+filcab                  = Filipe Cabecinhas <me@filcab.net>
 fjahanian               = Fariborz Jahanian <fjahanian@apple.com>
 foad                    = Jay Foad <jay.foad@gmail.com>
 foldr                   = Mikhail Glushenkov <foldr@codedgers.com>
