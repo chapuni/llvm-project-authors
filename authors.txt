@@ -67,6 +67,7 @@ dperchik                = Dawn Perchik <dawn@burble.org>
 drb                     = Dan Bailey <dan@dneg.com>
 dschuff                 = Derek Schuff <dschuff@google.com>
 duraid                  = Duraid Madina <duraid@octopus.com.au>
+dvyukov                 = Dmitry Vyukov <dvyukov@google.com>
 dyatkovskiy             = Stepan Dyatkovskiy <stpworld@narod.ru>
 echristo                = Eric Christopher <echristo@apple.com>
 ed                      = Ed Schouten <ed@80386.nl>
