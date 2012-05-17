@@ -249,6 +249,7 @@ theraven                = David Chisnall <csdavec@swan.ac.uk>
 tilmann                 = Tilmann Scheller <tilmann.scheller@googlemail.com>
 timurrrr                = Timur Iskhodzhanov <timurrrr@google.com>
 tlinth                  = Tony Linthicum <tlinth@codeaurora.org>
+tnorthover              = Tim Northover <Tim.Northover@arm.com>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 venet                   = Cedric Venet <cedric.venet@laposte.net>
 venkatra                = Venkatraman Govindaraju <venkatra@cs.wisc.edu>
