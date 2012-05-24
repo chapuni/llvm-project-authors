@@ -173,6 +173,7 @@ marshall                = Marshall Clow <mclow@qualcomm.com>
 matthewbg               = Matt Beaumont-Gay <matthewbg@google.com>
 matthijs                = Matthijs Kooijman <matthijs@stdin.nl>
 mcrosier                = Chad Rosier <mcrosier@apple.com>
+meadori                 = Meador Inge <meadori@gmail.com>
 mfleming                = Matt Fleming <matt@console-pimps.org>
 mikem                   = mike-m <mikem.llvm@gmail.com>
 mren                    = Manman Ren <mren@apple.com>
