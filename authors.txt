@@ -62,6 +62,7 @@ delesley                = DeLesley Hutchins <delesley@google.com>
 dgregor                 = Douglas Gregor <dgregor@apple.com>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
 dirty                   = Cameron Esfahani <dirty@apple.com>
+djasper                 = Daniel Jasper <djasper@google.com>
 djg                     = Dan Gohman <gohman@apple.com>
 dpatel                  = Devang Patel <dpatel@apple.com>
 dperchik                = Dawn Perchik <dawn@burble.org>
