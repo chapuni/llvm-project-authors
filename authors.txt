@@ -127,6 +127,7 @@ jamesm                  = James Molloy <james.molloy@arm.com>
 jasonwkim               = Jason W Kim <jason.w.kim.2009@gmail.com>
 jaykang10               = Jin-Gu Kang <jaykang10@imrc.kist.re.kr>
 jddupas                 = Jean-Daniel Dupas <devlists@shadowlab.org>
+jdennett                = James Dennett <jdennett@google.com>
 jdm                     = John Mosby <ojomojo@gmail.com>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
 jgoodnowii              = Jim Goodnow II <jim@thegoodnows.net>
