@@ -122,6 +122,7 @@ hhinnant                = Howard Hinnant <hhinnant@apple.com>
 hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 jabbey                  = Joe Abbey <jabbey@arxan.com>
+jacksprat               = Jack Carter <jcarter@mips.com>
 jamesm                  = James Molloy <james.molloy@arm.com>
 jasonwkim               = Jason W Kim <jason.w.kim.2009@gmail.com>
 jaykang10               = Jin-Gu Kang <jaykang10@imrc.kist.re.kr>
