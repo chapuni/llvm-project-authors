@@ -151,6 +151,7 @@ jsjodin                 = Jan Sjödin <jan_sjodin@yahoo.com>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
 jtsoftware              = John Thompson <John.Thompson.JTSoftware@gmail.com>
 jugu                    = Junjie Gu <jgu222@gmail.com>
+jush                    = Jush Lu <jush.msn@gmail.com>
 jvoung                  = Jan Wen Voung <jvoung@google.com>
 jyasskin                = Jeffrey Yasskin <jyasskin@google.com>
 kbeyls                  = Kristof Beyls <kristof.beyls@arm.com>
