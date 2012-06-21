@@ -1,5 +1,6 @@
 AaronBallman            = Aaron Ballman <aaron@aaronballman.com>
 TNorthover              = Tim Northover <Tim.Northover@arm.com>
+aadg                    = Arnaud A. de Grandmaison <arnaud.adegm@gmail.com>
 aaronballman            = Aaron Ballman <aaron@aaronballman.com>
 abolka                  = Andreas Bolka <a@bolka.at>
 abramo                  = Abramo Bagnara <abramo.bagnara@gmail.com>
