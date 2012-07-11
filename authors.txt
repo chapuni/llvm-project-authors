@@ -258,6 +258,7 @@ tilmann                 = Tilmann Scheller <tilmann.scheller@googlemail.com>
 timurrrr                = Timur Iskhodzhanov <timurrrr@google.com>
 tlinth                  = Tony Linthicum <tlinth@codeaurora.org>
 tnorthover              = Tim Northover <Tim.Northover@arm.com>
+tstellar                = Tom Stellard <thomas.stellard@amd.com>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 venet                   = Cedric Venet <cedric.venet@laposte.net>
 venkatra                = Venkatraman Govindaraju <venkatra@cs.wisc.edu>
