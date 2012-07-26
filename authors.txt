@@ -266,6 +266,7 @@ vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 venet                   = Cedric Venet <cedric.venet@laposte.net>
 venkatra                = Venkatraman Govindaraju <venkatra@cs.wisc.edu>
 victorm                 = Victor Oliveira <Victor.Oliveira@amd.com>
+villmow                 = Micah Villmow <villmow@gmail.com>
 vkutuzov                = Viktor Kutuzov <vkutuzov@accesssoftek.com>
 void                    = Bill Wendling <isanbard@gmail.com>
 vumansky                = Victor Umansky <victor.umansky@intel.com>
