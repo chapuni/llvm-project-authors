@@ -7,6 +7,7 @@ abramo                  = Abramo Bagnara <abramo.bagnara@gmail.com>
 ace2001ac               = Ahmed Charles <ace2001ac@gmail.com>
 adasgupt                = Anshuman Dasgupta <adasgupt@codeaurora.org>
 ahatanak                = Akira Hatanaka <ahatanaka@mips.com>
+akaylor                 = Andrew Kaylor <andrew.kaylor@intel.com>
 akirtzidis              = Argyrios Kyrtzidis <akyrtzi@gmail.com>
 alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
 alexfh                  = Alexander Kornienko <alexfh@google.com>
