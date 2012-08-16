@@ -200,6 +200,7 @@ nlopes                  = Nuno Lopes <nunoplopes@sapo.pt>
 nobled                  = Dylan Noblesmith <nobled@dreamwidth.org>
 ofv                     = Oscar Fuentes <ofv@wanadoo.es>
 oliver                  = Oliver Hunt <oliver@apple.com>
+panzer                  = Sam Panzer <espanz@gmail.com>
 patha                   = Patrik Hägglund <patrik.h.hagglund@ericsson.com>
 patjenk                 = Patrick Jenkins <pjenkins@apple.com>
 pcbeard                 = Patrick Beard <pcbeard@mac.com>
