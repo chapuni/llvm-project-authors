@@ -15,6 +15,7 @@ alisdairm               = Alisdair Meredith <public@alisdairm.net>
 alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
 andersca                = Anders Carlsson <andersca@mac.com>
 andersg                 = Anders Waldenborg <anders@0x63.nu>
+anithab                 = Anitha Boyapati <anitha.boyapati@gmail.com>
 arnolds                 = Arnold Schwaighofer <arnolds@codeaurora.org>
 ashemer                 = Anat Shemer <anat.shemer@intel.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
