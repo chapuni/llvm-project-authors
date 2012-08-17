@@ -213,6 +213,7 @@ pgurd                   = Preston Gurd <preston.gurd@intel.com>
 pingbak                 = Scott Michel <scottm@aero.org>
 pizza                   = Ryan Flynn <pizza@parseerror.com>
 pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
+pranavb                 = Pranav Bhandarkar <pranavb@codeaurora.org>
 rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
 raghesh                 = Raghesh Aloor <raghesh.a@gmail.com>
 raulherbster            = Raul Herbster <raulherbster@gmail.com>
