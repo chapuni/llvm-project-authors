@@ -185,6 +185,7 @@ matthijs                = Matthijs Kooijman <matthijs@stdin.nl>
 mcrosier                = Chad Rosier <mcrosier@apple.com>
 meadori                 = Meador Inge <meadori@codesourcery.com>
 mfleming                = Matt Fleming <matt@console-pimps.org>
+mgottesman              = Michael Gottesman <mgottesman@apple.com>
 mikem                   = mike-m <mikem.llvm@gmail.com>
 milseman                = Michael Ilseman <milseman@apple.com>
 mren                    = Manman Ren <mren@apple.com>
