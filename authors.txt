@@ -186,6 +186,7 @@ mcrosier                = Chad Rosier <mcrosier@apple.com>
 meadori                 = Meador Inge <meadori@codesourcery.com>
 mfleming                = Matt Fleming <matt@console-pimps.org>
 mikem                   = mike-m <mikem.llvm@gmail.com>
+milseman                = Michael Ilseman <milseman@apple.com>
 mren                    = Manman Ren <mren@apple.com>
 mrs                     = Mike Stump <mrs@apple.com>
 mspencer                = Michael J. Spencer <bigcheesegs@gmail.com>
