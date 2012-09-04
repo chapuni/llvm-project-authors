@@ -250,6 +250,7 @@ sheng                   = Zhou Sheng <zhousheng00@gmail.com>
 sidneym                 = Sid Manning <sidneym@codeaurora.org>
 simbuerg                = Andreas Simbuerger <simbuerg@fim.uni-passau.de>
 sirish                  = Sirish Pande <spande@codeaurora.org>
+slarin                  = Sergei Larin <slarin@codeaurora.org>
 sliao                   = Shih-wei Liao <sliao@google.com>
 snaroff                 = Steve Naroff <snaroff@apple.com>
 socantre                = Seth Cantrell <seth.cantrell@gmail.com>
