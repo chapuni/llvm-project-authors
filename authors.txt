@@ -250,6 +250,7 @@ sfider                  = Marcin Swiderski <marcin.sfider@gmail.com>
 sgupta                  = Sanjiv Gupta <sanjiv.gupta@microchip.com>
 sheng                   = Zhou Sheng <zhousheng00@gmail.com>
 sidneym                 = Sid Manning <sidneym@codeaurora.org>
+silvas                  = Sean Silva <silvas@purdue.edu>
 simbuerg                = Andreas Simbuerger <simbuerg@fim.uni-passau.de>
 sirish                  = Sirish Pande <spande@codeaurora.org>
 slarin                  = Sergei Larin <slarin@codeaurora.org>
