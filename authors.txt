@@ -289,6 +289,7 @@ wdietz2                 = Will Dietz <wdietz2@illinois.edu>
 weinig                  = Sam Weinig <sam.weinig@gmail.com>
 wilsons                 = Stephen Wilson <wilsons@start.ca>
 wmat                    = Wojciech Matyjewicz <wmatyjewicz@fastmail.fm>
+wschmidt                = Bill Schmidt <wschmidt@linux.vnet.ibm.com>
 xranby                  = Xerxes Ranby <xerxes@zafena.se>
 yulin                   = Yuan Lin <yulin@nvidia.com>
 zaks                    = Anna Zaks <ganna@apple.com>
