@@ -278,6 +278,7 @@ tlinth                  = Tony Linthicum <tlinth@codeaurora.org>
 tnorthover              = Tim Northover <Tim.Northover@arm.com>
 triton                  = Joao Matos <ripzonetriton@gmail.com>
 tstellar                = Tom Stellard <thomas.stellard@amd.com>
+uweigand                = Ulrich Weigand <ulrich.weigand@de.ibm.com>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 venet                   = Cedric Venet <cedric.venet@laposte.net>
 venkatra                = Venkatraman Govindaraju <venkatra@cs.wisc.edu>
