@@ -60,6 +60,7 @@ danchr                  = Dan Villiom Podlaski Christiansen <danchr@gmail.com>
 danil                   = Danil Malyshev <dmalyshev@accesssoftek.com>
 dannyb                  = Daniel Berlin <dberlin@dberlin.org>
 david_goodwin           = David Goodwin <david_goodwin@apple.com>
+davidtweed              = David Tweed <david.tweed@arm.com>
 dblaikie                = David Blaikie <dblaikie@gmail.com>
 ddean                   = David Dean <david_dean@apple.com>
 ddunbar                 = Daniel Dunbar <daniel@zuster.org>
