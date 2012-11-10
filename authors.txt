@@ -72,6 +72,7 @@ dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
 dirty                   = Cameron Esfahani <dirty@apple.com>
 djasper                 = Daniel Jasper <djasper@google.com>
 djg                     = Dan Gohman <gohman@apple.com>
+dmalea                  = Daniel Malea <daniel.malea@intel.com>
 dpatel                  = Devang Patel <dpatel@apple.com>
 dperchik                = Dawn Perchik <dawn@burble.org>
 drb                     = Dan Bailey <dan@dneg.com>
