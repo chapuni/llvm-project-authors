@@ -106,6 +106,7 @@ fpichet                 = Francois Pichet <pichet2000@gmail.com>
 friedgold               = Richard Osborne <richard@xmos.com>
 fvbommel                = Frits van Bommel <fvbommel@gmail.com>
 gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
+gbenyei                 = Guy Benyei <guy.benyei@intel.com>
 gclayton                = Greg Clayton <gclayton@apple.com>
 geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
 ggreif                  = Gabor Greif <ggreif@gmail.com>
