@@ -231,6 +231,7 @@ pingbak                 = Scott Michel <scottm@aero.org>
 pizza                   = Ryan Flynn <pizza@parseerror.com>
 pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
 pranavb                 = Pranav Bhandarkar <pranavb@codeaurora.org>
+predmond                = Paul Redmond <paul.redmond@intel.com>
 prestonbriggs           = Preston Briggs <preston.briggs@gmail.com>
 qcolombet               = Quentin Colombet <qcolombet@apple.com>
 rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
