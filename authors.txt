@@ -125,6 +125,7 @@ gvenn                   = Garrison Venn <gvenn.cfe.dev@gmail.com>
 hanm                    = Michael Han <Michael.Han@autodesk.com>
 hanming                 = Han Ming Ong <hanming@apple.com>
 hans                    = Hans Wennborg <hans@hanshq.net>
+haoliu                  = Hao Liu <Hao.Liu@arm.com>
 helloqirun              = Qirun Zhang <helloqirun@gmail.com>
 hernande                = Victor Hernandez <vhernandez@apple.com>
 hfinkel                 = Hal Finkel <hfinkel@anl.gov>
