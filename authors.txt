@@ -233,6 +233,7 @@ pete                    = Pete Cooper <peter_cooper@apple.com>
 pgurd                   = Preston Gurd <preston.gurd@intel.com>
 pingbak                 = Scott Michel <scottm@aero.org>
 pizza                   = Ryan Flynn <pizza@parseerror.com>
+pjaaskel                = Pekka Jaaskelainen <pekka.jaaskelainen@tut.fi>
 pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
 pranavb                 = Pranav Bhandarkar <pranavb@codeaurora.org>
 predmond                = Paul Redmond <paul.redmond@intel.com>
