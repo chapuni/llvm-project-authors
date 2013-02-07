@@ -58,6 +58,7 @@ ctice                   = Caroline Tice <ctice@apple.com>
 ctopper                 = Craig Topper <craig.topper@gmail.com>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 d0k                     = Benjamin Kramer <benny.kra@googlemail.com>
+daenzer                 = Michel Danzer <michel.daenzer@amd.com>
 danchr                  = Dan Villiom Podlaski Christiansen <danchr@gmail.com>
 danil                   = Danil Malyshev <dmalyshev@accesssoftek.com>
 dannyb                  = Daniel Berlin <dberlin@dberlin.org>
