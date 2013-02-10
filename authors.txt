@@ -311,6 +311,7 @@ venkatra                = Venkatraman Govindaraju <venkatra@cs.wisc.edu>
 victorm                 = Victor Oliveira <Victor.Oliveira@amd.com>
 villmow                 = Micah Villmow <villmow@gmail.com>
 vkutuzov                = Viktor Kutuzov <vkutuzov@accesssoftek.com>
+vljn                    = Vincent Lejeune <vljn@ovi.com>
 void                    = Bill Wendling <isanbard@gmail.com>
 vumansky                = Victor Umansky <victor.umansky@intel.com>
 wan                     = Zhanyong Wan <wan@google.com>
