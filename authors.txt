@@ -181,6 +181,7 @@ kkhoo                   = Kay Tiong Khoo <kkhoo@perfwizard.com>
 kledzik                 = Nick Kledzik <kledzik@apple.com>
 klimek                  = Manuel Klimek <klimek@google.com>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
+kparzysz                = Krzysztof Parzyszek <kparzysz@codeaurora.org>
 kraiskil                = Kalle Raiskila <kalle.raiskila@nokia.com>
 krasin                  = Ivan Krasin <krasin@chromium.org>
 kremenek                = Ted Kremenek <kremenek@apple.com>
