@@ -20,6 +20,7 @@ andersg                 = Anders Waldenborg <anders@0x63.nu>
 andyg                   = Andy Gibbs <andyg1001@hotmail.co.uk>
 anithab                 = Anitha Boyapati <anitha.boyapati@gmail.com>
 arnolds                 = Arnold Schwaighofer <aschwaighofer@apple.com>
+arsenm                  = Matt Arsenault <Matthew.Arsenault@amd.com>
 ashemer                 = Anat Shemer <anat.shemer@intel.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
 asl                     = Anton Korobeynikov <asl@math.spbu.ru>
