@@ -6,6 +6,7 @@ abolka                  = Andreas Bolka <a@bolka.at>
 abramo                  = Abramo Bagnara <abramo.bagnara@bugseng.com>
 ace2001ac               = Ahmed Charles <ace2001ac@gmail.com>
 adasgupt                = Anshuman Dasgupta <adasgupt@codeaurora.org>
+adrian                  = Adrian Prantl <aprantl@apple.com>
 aemerson                = Amara Emerson <amara.emerson@arm.com>
 ahatanak                = Akira Hatanaka <ahatanaka@mips.com>
 akaylor                 = Andrew Kaylor <andrew.kaylor@intel.com>
