@@ -308,6 +308,7 @@ timurrrr                = Timur Iskhodzhanov <timurrrr@google.com>
 tlinth                  = Tony Linthicum <tlinth@codeaurora.org>
 tnorthover              = Tim Northover <Tim.Northover@arm.com>
 triton                  = Joao Matos <ripzonetriton@gmail.com>
+tsiou                   = Yiannis Tsiouris <gtsiour@softlab.ntua.gr>
 tstellar                = Tom Stellard <thomas.stellard@amd.com>
 uweigand                = Ulrich Weigand <ulrich.weigand@de.ibm.com>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
