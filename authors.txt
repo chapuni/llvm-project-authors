@@ -148,6 +148,7 @@ jaykang10               = Jin-Gu Kang <jaykang10@imrc.kist.re.kr>
 jddupas                 = Jean-Daniel Dupas <devlists@shadowlab.org>
 jdennett                = James Dennett <jdennett@google.com>
 jdm                     = John Mosby <ojomojo@gmail.com>
+jduprat                 = Jean-Luc Duprat <jduprat@apple.com>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
 jgoodnowii              = Jim Goodnow II <jim@thegoodnows.net>
 jholewinski             = Justin Holewinski <jholewinski@nvidia.com>
