@@ -29,6 +29,7 @@ ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
 asl                     = Anton Korobeynikov <asl@math.spbu.ru>
 astifter                = Andreas Neustifter <astifter-llvm@gmx.at>
 atanasyan               = Simon Atanasyan <simon@atanasyan.com>
+athirumu                = Ashok Thirumurthi <ashok.thirumurthi@intel.com>
 atrick                  = Andrew Trick <atrick@apple.com>
 axel                    = Axel Naumann <Axel.Naumann@cern.ch>
 ayartsev                = Anton Yartsev <anton.yartsev@gmail.com>
