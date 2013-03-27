@@ -10,6 +10,7 @@ adasgupt                = Anshuman Dasgupta <adasgupt@codeaurora.org>
 adrian                  = Adrian Prantl <aprantl@apple.com>
 aemerson                = Amara Emerson <amara.emerson@arm.com>
 ahatanak                = Akira Hatanaka <ahatanaka@mips.com>
+ajbernal                = Ariel J. Bernal <ariel.j.bernal@intel.com>
 akaylor                 = Andrew Kaylor <andrew.kaylor@intel.com>
 akirtzidis              = Argyrios Kyrtzidis <akyrtzi@gmail.com>
 alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
