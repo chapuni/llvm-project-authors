@@ -122,6 +122,7 @@ geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
 ggreif                  = Gabor Greif <ggreif@gmail.com>
 ghost                   = Vladimir Prus <ghost@cs.msu.su>
 gigabytes               = Nicola Gigante <nicola.gigante@gmail.com>
+gkeiser                 = Gordon Keiser <gkeiser@arxan.com>
 gkistanova              = Galina Kistanova <gkistanova@gmail.com>
 glider                  = Alexander Potapenko <glider@google.com>
 gordon                  = Gordon Henriksen <gordonhenriksen@mac.com>
