@@ -232,6 +232,7 @@ njeffords               = Nathan Jeffords <blunted2night@gmail.com>
 nkeynes                 = Nathan Keynes <nkeynes@deadcoderemoval.net>
 nlopes                  = Nuno Lopes <nunoplopes@sapo.pt>
 nobled                  = Dylan Noblesmith <nobled@dreamwidth.org>
+nrieck                  = Nico Rieck <nico.rieck@gmail.com>
 ofv                     = Oscar Fuentes <ofv@wanadoo.es>
 oliver                  = Oliver Hunt <oliver@apple.com>
 panzer                  = Sam Panzer <espanz@gmail.com>
