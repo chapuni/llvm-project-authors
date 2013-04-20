@@ -303,6 +303,7 @@ socantre                = Seth Cantrell <seth.cantrell@gmail.com>
 spop                    = Sebastian Pop <spop@codeaurora.org>
 spyffe                  = Sean Callanan <scallanan@apple.com>
 ssen                    = Shantonu Sen <ssen@apple.com>
+stephenwlin             = Stephen Lin <stephenwlin@gmail.com>
 steven_watanabe         = Steven Watanabe <steven@providere-consulting.com>
 stoklund                = Jakob Stoklund Olesen <stoklund@2pi.dk>
 stuart                  = Stuart Hastings <stuart@apple.com>
