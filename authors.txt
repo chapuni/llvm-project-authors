@@ -220,6 +220,7 @@ mikem                   = mike-m <mikem.llvm@gmail.com>
 milseman                = Michael Ilseman <milseman@apple.com>
 mkopec                  = Matt Kopec <Matt.Kopec@intel.com>
 mkuper                  = Michael Kuperstein <michael.m.kuperstein@intel.com>
+mpopa                   = Mihai Popa <mihail.popa@gmail.com>
 mren                    = Manman Ren <mren@apple.com>
 mrs                     = Mike Stump <mrs@apple.com>
 mspencer                = Michael J. Spencer <bigcheesegs@gmail.com>
