@@ -276,6 +276,7 @@ rnk                     = Reid Kleckner <reid@kleckner.net>
 romix                   = Roman Levenstein <romix.llvm@googlemail.com>
 root                    = root <nothing@nowhere.org>
 rrelph                  = Richard Relph <Richard.Relph@amd.com>
+rsandifo                = Richard Sandiford <rsandifo@linux.vnet.ibm.com>
 rsmith                  = Richard Smith <richard-llvm@metafoo.co.uk>
 rtrieu                  = Richard Trieu <rtrieu@google.com>
 sameerds                = Sameer Sahasrabuddhe <sameer.sahasrabuddhe@amd.com>
