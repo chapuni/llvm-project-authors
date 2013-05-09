@@ -263,6 +263,7 @@ raghesh                 = Raghesh Aloor <raghesh.a@gmail.com>
 raulherbster            = Raul Herbster <raulherbster@gmail.com>
 rbarton                 = Richard Barton <richard.barton@arm.com>
 rdivacky                = Roman Divacky <rdivacky@freebsd.org>
+redstar                 = Kai Nacke <kai.nacke@redstar.de>
 reid                    = Reid Spencer <rspencer@reidspencer.com>
 rengolin                = Renato Golin <renato.golin@linaro.org>
 resistor                = Owen Anderson <resistor@mac.com>
