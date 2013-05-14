@@ -2,6 +2,7 @@ AaronBallman            = Aaron Ballman <aaron@aaronballman.com>
 TNorthover              = Tim Northover <Tim.Northover@arm.com>
 aadg                    = Arnaud A. de Grandmaison <arnaud.adegm@gmail.com>
 aaronballman            = Aaron Ballman <aaron@aaronballman.com>
+ab                      = Ahmed Bougacha <ahmed.bougacha@gmail.com>
 abataev                 = Alexey Bataev <a.bataev@hotmail.com>
 abolka                  = Andreas Bolka <a@bolka.at>
 abramo                  = Abramo Bagnara <abramo.bagnara@bugseng.com>
