@@ -290,6 +290,7 @@ sanjoy                  = Sanjoy Das <sanjoy@playingwithpointers.com>
 sanxiyn                 = Seo Sanghyeon <sanxiyn@gmail.com>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
 sbaranga                = Silviu Baranga <silviu.baranga@arm.com>
+sbenza                  = Samuel Benzaquen <sbenza@google.com>
 sbishop                 = Sam Bishop <sam@bishop.dhs.org>
 scanon                  = Stephen Canon <scanon@apple.com>
 sdt                     = Stefanus Du Toit <stefanus.du.toit@intel.com>
