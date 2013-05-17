@@ -159,6 +159,7 @@ jdennett                = James Dennett <jdennett@google.com>
 jdm                     = John Mosby <ojomojo@gmail.com>
 jduprat                 = Jean-Luc Duprat <jduprat@apple.com>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
+jfb                     = JF Bastien <jfb@google.com>
 jgoodnowii              = Jim Goodnow II <jim@thegoodnows.net>
 jholewinski             = Justin Holewinski <jholewinski@nvidia.com>
 jialiu                  = Jia Liu <proljc@gmail.com>
