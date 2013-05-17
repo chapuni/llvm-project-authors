@@ -220,6 +220,7 @@ meadori                 = Meador Inge <meadori@codesourcery.com>
 mfleming                = Matt Fleming <matt@console-pimps.org>
 mgottesman              = Michael Gottesman <mgottesman@apple.com>
 mikem                   = mike-m <mikem.llvm@gmail.com>
+mikesart                = Michael Sartain <mikesart@valvesoftware.com>
 milseman                = Michael Ilseman <milseman@apple.com>
 mkopec                  = Matt Kopec <Matt.Kopec@intel.com>
 mkuper                  = Michael Kuperstein <michael.m.kuperstein@intel.com>
