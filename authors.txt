@@ -85,6 +85,7 @@ dirty                   = Cameron Esfahani <dirty@apple.com>
 djasper                 = Daniel Jasper <djasper@google.com>
 djg                     = Dan Gohman <dan433584@gmail.com>
 dmalea                  = Daniel Malea <daniel.malea@intel.com>
+dnovillo                = Diego Novillo <dnovillo@google.com>
 dpatel                  = Devang Patel <dpatel@apple.com>
 dpeixott                = David Peixotto <dpeixott@codeaurora.org>
 dperchik                = Dawn Perchik <dawn@burble.org>
