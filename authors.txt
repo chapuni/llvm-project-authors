@@ -214,6 +214,7 @@ lenny                   = Lenny Maiorani <lenny@colorado.edu>
 lhames                  = Lang Hames <lhames@gmail.com>
 llvm                    = llvm <nothing@nowhere.org>
 logan                   = Logan Chien <tzuhsiang.chien@gmail.com>
+lvoufo                  = Larisse Voufo <lvoufo@google.com>
 mahesha                 = Mahesha S <mahesha.llvm@gmail.com>
 majnemer                = David Majnemer <david.majnemer@gmail.com>
 marshall                = Marshall Clow <mclow@qualcomm.com>
