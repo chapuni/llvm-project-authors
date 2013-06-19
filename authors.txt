@@ -361,6 +361,7 @@ wilsons                 = Stephen Wilson <wilsons@start.ca>
 wmat                    = Wojciech Matyjewicz <wmatyjewicz@fastmail.fm>
 wpan                    = Wei Pan <wei.pan@intel.com>
 wschmidt                = Bill Schmidt <wschmidt@linux.vnet.ibm.com>
+xiaofei.wan             = Wan Xiaofei <xiaofei.wan@intel.com>
 xranby                  = Xerxes Ranby <xerxes@zafena.se>
 yulin                   = Yuan Lin <yulin@nvidia.com>
 zaks                    = Anna Zaks <ganna@apple.com>
