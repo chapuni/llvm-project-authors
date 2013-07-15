@@ -177,6 +177,7 @@ jlerouge                = Julien Lerouge <jlerouge@apple.com>
 jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
 jmcilree                = James McIlree <jmcilree@apple.com>
 jmolenda                = Jason Molenda <jmolenda@apple.com>
+job                     = Job Noorman <jobnoorman@gmail.com>
 joe                     = Joe Groff <arcata@gmail.com>
 joel_k_jones            = Joel Jones <joel_k_jones@apple.com>
 joerg                   = Joerg Sonnenberger <joerg@bec.de>
