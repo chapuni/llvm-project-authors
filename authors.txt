@@ -282,6 +282,7 @@ rengolin                = Renato Golin <renato.golin@linaro.org>
 resistor                = Owen Anderson <resistor@mac.com>
 revane                  = Edwin Vane <edwin.vane@intel.com>
 rgov                    = Ryan Govostes <rzg@apple.com>
+ributzka                = Juergen Ributzka <juergen@apple.com>
 rich                    = Richard Pennington <rich@pennware.com>
 rikka                   = Kaelyn Uhrain <rikka@google.com>
 rjmccall                = John McCall <rjmccall@apple.com>
