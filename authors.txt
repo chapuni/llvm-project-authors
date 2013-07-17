@@ -290,6 +290,7 @@ rkotler                 = Reed Kotler <rkotler@mips.com>
 rnk                     = Reid Kleckner <reid@kleckner.net>
 romix                   = Roman Levenstein <romix.llvm@googlemail.com>
 root                    = root <nothing@nowhere.org>
+row                     = Robert Wilhelm <robert.wilhelm@gmx.net>
 rrelph                  = Richard Relph <Richard.Relph@amd.com>
 rsandifo                = Richard Sandiford <rsandifo@linux.vnet.ibm.com>
 rsmith                  = Richard Smith <richard-llvm@metafoo.co.uk>
