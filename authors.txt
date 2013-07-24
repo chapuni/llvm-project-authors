@@ -254,6 +254,7 @@ nrieck                  = Nico Rieck <nico.rieck@gmail.com>
 ofv                     = Oscar Fuentes <ofv@wanadoo.es>
 oliver                  = Oliver Hunt <oliver@apple.com>
 panzer                  = Sam Panzer <espanz@gmail.com>
+papin_g                 = Guillaume Papin <guillaume.papin@epitech.eu>
 partigas                = Pedro Artigas <partigas@apple.com>
 patha                   = Patrik Hagglund <patrik.h.hagglund@ericsson.com>
 patjenk                 = Patrick Jenkins <pjenkins@apple.com>
