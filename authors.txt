@@ -238,6 +238,7 @@ mkuper                  = Michael Kuperstein <michael.m.kuperstein@intel.com>
 mpopa                   = Mihai Popa <mihail.popa@gmail.com>
 mren                    = Manman Ren <manman.ren@gmail.com>
 mrs                     = Mike Stump <mrs@apple.com>
+mseaborn                = Mark Seaborn <mseaborn@chromium.org>
 mspencer                = Michael J. Spencer <bigcheesegs@gmail.com>
 mvillmow                = Micah Villmow <villmow@gmail.com>
 nadav                   = Nadav Rotem <nrotem@apple.com>
