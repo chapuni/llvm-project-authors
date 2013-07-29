@@ -291,6 +291,7 @@ rich                    = Richard Pennington <rich@pennware.com>
 rikka                   = Kaelyn Uhrain <rikka@google.com>
 rjmccall                = John McCall <rjmccall@apple.com>
 rkotler                 = Reed Kotler <rkotler@mips.com>
+rlytton                 = Robert Lytton <robert@xmos.com>
 rnk                     = Reid Kleckner <reid@kleckner.net>
 romix                   = Roman Levenstein <romix.llvm@googlemail.com>
 root                    = root <nothing@nowhere.org>
