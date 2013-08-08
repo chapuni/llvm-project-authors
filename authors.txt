@@ -254,6 +254,7 @@ nlopes                  = Nuno Lopes <nunoplopes@sapo.pt>
 nobled                  = Dylan Noblesmith <nobled@dreamwidth.org>
 nrieck                  = Nico Rieck <nico.rieck@gmail.com>
 ofv                     = Oscar Fuentes <ofv@wanadoo.es>
+olesalscheider          = Niels Ole Salscheider <niels_ole@salscheider-online.de>
 oliver                  = Oliver Hunt <oliver@apple.com>
 panzer                  = Sam Panzer <espanz@gmail.com>
 papin_g                 = Guillaume Papin <guillaume.papin@epitech.eu>
