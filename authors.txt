@@ -302,6 +302,7 @@ rrelph                  = Richard Relph <Richard.Relph@amd.com>
 rsandifo                = Richard Sandiford <rsandifo@linux.vnet.ibm.com>
 rsmith                  = Richard Smith <richard-llvm@metafoo.co.uk>
 rtrieu                  = Richard Trieu <rtrieu@google.com>
+rudkx                   = Mark Lacey <mark.lacey@apple.com>
 ruiu                    = Rui Ueyama <ruiu@google.com>
 sameerds                = Sameer Sahasrabuddhe <sameer.sahasrabuddhe@amd.com>
 sampo                   = Nate Begeman <natebegeman@mac.com>
