@@ -377,6 +377,7 @@ wpan                    = Wei Pan <wei.pan@intel.com>
 wschmidt                = Bill Schmidt <wschmidt@linux.vnet.ibm.com>
 xiaofei.wan             = Wan Xiaofei <xiaofei.wan@intel.com>
 xranby                  = Xerxes Ranby <xerxes@zafena.se>
+ygao                    = Yunzhong Gao <Yunzhong_Gao@playstation.sony.com>
 yulin                   = Yuan Lin <yulin@nvidia.com>
 zaks                    = Anna Zaks <ganna@apple.com>
 zarzycki                = Dave Zarzycki <zarzycki@apple.com>
