@@ -4,6 +4,7 @@ aadg                    = Arnaud A. de Grandmaison <arnaud.adegm@gmail.com>
 aaronballman            = Aaron Ballman <aaron@aaronballman.com>
 ab                      = Ahmed Bougacha <ahmed.bougacha@gmail.com>
 abataev                 = Alexey Bataev <a.bataev@hotmail.com>
+abidh                   = Hafiz Abid Qadeer <hafiz_abid@mentor.com>
 abolka                  = Andreas Bolka <a@bolka.at>
 abramo                  = Abramo Bagnara <abramo.bagnara@bugseng.com>
 ace2001ac               = Ahmed Charles <ace2001ac@gmail.com>
