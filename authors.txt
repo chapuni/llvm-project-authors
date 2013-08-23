@@ -173,6 +173,7 @@ jgoodnowii              = Jim Goodnow II <jim@thegoodnows.net>
 jholewinski             = Justin Holewinski <jholewinski@nvidia.com>
 jialiu                  = Jia Liu <proljc@gmail.com>
 jiangning               = Jiangning Liu <jiangning.liu@arm.com>
+jimcownie               = Jim Cownie <james.h.cownie@intel.com>
 jingham                 = Jim Ingham <jingham@apple.com>
 jiwang                  = Jiong Wang <jiwang@tilera.com>
 jlaskey                 = Jim Laskey <jlaskey@mac.com>
