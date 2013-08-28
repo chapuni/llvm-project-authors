@@ -374,6 +374,7 @@ wangmp                  = Mon P Wang <wangmp@apple.com>
 wdietz2                 = Will Dietz <wdietz2@illinois.edu>
 weimingz                = Weiming Zhao <weimingz@codeaurora.org>
 weinig                  = Sam Weinig <sam.weinig@gmail.com>
+whunt                   = Warren Hunt <whunt@google.com>
 willschm                = Will Schmidt <will_schmidt@vnet.ibm.com>
 wilsons                 = Stephen Wilson <wilsons@start.ca>
 wmat                    = Wojciech Matyjewicz <wmatyjewicz@fastmail.fm>
