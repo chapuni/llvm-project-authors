@@ -231,6 +231,7 @@ majnemer                = David Majnemer <david.majnemer@gmail.com>
 marshall                = Marshall Clow <mclow.lists@gmail.com>
 matthewbg               = Matt Beaumont-Gay <matthewbg@google.com>
 matthijs                = Matthijs Kooijman <matthijs@stdin.nl>
+matze                   = Matthias Braun <matze@braunis.de>
 mcrosier                = Chad Rosier <chad.rosier@gmail.com>
 mcurtis                 = Matthew Curtis <mcurtis@codeaurora.org>
 meadori                 = Meador Inge <meadori@codesourcery.com>
