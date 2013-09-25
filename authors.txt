@@ -179,6 +179,7 @@ jingham                 = Jim Ingham <jingham@apple.com>
 jiwang                  = Jiong Wang <jiwang@tilera.com>
 jlaskey                 = Jim Laskey <jlaskey@mac.com>
 jlerouge                = Julien Lerouge <jlerouge@apple.com>
+jmagee                  = Josh Magee <joshua_magee@playstation.sony.com>
 jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
 jmcilree                = James McIlree <jmcilree@apple.com>
 jmolenda                = Jason Molenda <jmolenda@apple.com>
