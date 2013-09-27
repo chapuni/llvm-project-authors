@@ -393,6 +393,7 @@ yjiang                  = Yi Jiang <yjiang@apple.com>
 yulin                   = Yuan Lin <yulin@nvidia.com>
 zaks                    = Anna Zaks <ganna@apple.com>
 zarzycki                = Dave Zarzycki <zarzycki@apple.com>
+zer0                    = Puyan Lotfi <puyan@puyan.org>
 zhongxingxu             = Zhongxing Xu <xuzhongxing@foxmail.com>
 zjovanovic              = Zoran Jovanovic <zoran.jovanovic@imgtec.com>
 zonr                    = Zonr Chang <zonr.xchg@gmail.com>
