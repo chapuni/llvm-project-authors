@@ -360,6 +360,7 @@ theraven                = David Chisnall <csdavec@swan.ac.uk>
 tilmann                 = Tilmann Scheller <tilmann.scheller@googlemail.com>
 timurrrr                = Timur Iskhodzhanov <timurrrr@google.com>
 tlinth                  = Tony Linthicum <tlinth@codeaurora.org>
+tmroeder                = Tom Roeder <tmroeder@google.com>
 tnorthover              = Tim Northover <tnorthover@apple.com>
 triton                  = Joao Matos <ripzonetriton@gmail.com>
 tschwinge               = Thomas Schwinge <thomas@schwinge.name>
