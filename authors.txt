@@ -162,6 +162,7 @@ hhinnant                = Howard Hinnant <hhinnant@apple.com>
 hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 hliao                   = Michael Liao <michael.liao@intel.com>
+ismailp                 = Ismail Pazarbasi <ismail.pazarbasi@gmail.com>
 jabbey                  = Joe Abbey <jabbey@arxan.com>
 jacksprat               = Jack Carter <jack.carter@imgtec.com>
 jamesm                  = James Molloy <james.molloy@arm.com>
