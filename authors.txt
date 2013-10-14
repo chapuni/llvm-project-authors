@@ -48,6 +48,7 @@ benholt                 = Ben Holt <bjh@apple.com>
 benlangmuir             = Ben Langmuir <ben.langmuir@intel.com>
 blaine                  = Blaine Garst <blaine@apple.com>
 bocchino                = Robert Bocchino <bocchino@illinois.edu>
+bogden                  = Bernard Ogden <bogden@arm.com>
 bogner                  = Justin Bogner <mail@justinbogner.com>
 brukman                 = Misha Brukman <brukman+llvm@gmail.com>
 bruno                   = Bruno Cardoso Lopes <bruno.cardoso@gmail.com>
