@@ -62,6 +62,7 @@ cfriesen                = Christopher Friesen <friesen@apple.com>
 chandlerc               = Chandler Carruth <chandlerc@gmail.com>
 chapuni                 = NAKAMURA Takumi <geek4civic@gmail.com>
 chp                     = Peng Cheng <gm4cheng@gmail.com>
+chris.wailes            = Chris Wailes <chris.wailes@gmail.com>
 ckoenig                 = Christian Konig <christian.koenig@amd.com>
 clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
 clchiou                 = Che-Liang Chiou <clchiou@gmail.com>
