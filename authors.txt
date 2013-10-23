@@ -402,6 +402,7 @@ ygao                    = Yunzhong Gao <Yunzhong_Gao@playstation.sony.com>
 yjiang                  = Yi Jiang <yjiang@apple.com>
 yrnkrn                  = Yaron Keren <yaron.keren@gmail.com>
 yulin                   = Yuan Lin <yulin@nvidia.com>
+ywu                     = Yuchen Wu <yuchenericwu@hotmail.com>
 zaks                    = Anna Zaks <ganna@apple.com>
 zarzycki                = Dave Zarzycki <zarzycki@apple.com>
 zer0                    = Puyan Lotfi <puyan@puyan.org>
