@@ -32,6 +32,7 @@ arnolds                 = Arnold Schwaighofer <aschwaighofer@apple.com>
 arsenm                  = Matt Arsenault <Matthew.Arsenault@amd.com>
 ashemer                 = Anat Shemer <anat.shemer@intel.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
+askrobov                = Artyom Skrobov <Artyom.Skrobov@arm.com>
 asl                     = Anton Korobeynikov <asl@math.spbu.ru>
 astifter                = Andreas Neustifter <astifter-llvm@gmx.at>
 atanasyan               = Simon Atanasyan <simon@atanasyan.com>
