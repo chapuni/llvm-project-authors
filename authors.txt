@@ -51,6 +51,7 @@ blaine                  = Blaine Garst <blaine@apple.com>
 bocchino                = Robert Bocchino <bocchino@illinois.edu>
 bogden                  = Bernard Ogden <bogden@arm.com>
 bogner                  = Justin Bogner <mail@justinbogner.com>
+brasmi01                = Bradley Smith <bradley.smith@arm.com>
 brukman                 = Misha Brukman <brukman+llvm@gmail.com>
 bruno                   = Bruno Cardoso Lopes <bruno.cardoso@gmail.com>
 buschard                = Cameron Buschardt <buschard@uiuc.edu>
