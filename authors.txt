@@ -11,6 +11,7 @@ ace2001ac               = Ahmed Charles <ace2001ac@gmail.com>
 achurbanov              = Andrey Churbanov <Andrey.Churbanov@intel.com>
 adasgupt                = Anshuman Dasgupta <adasgupt@codeaurora.org>
 adibiagio               = Andrea Di Biagio <Andrea_DiBiagio@sn.scee.net>
+aditya_nandakumar       = Aditya Nandakumar <aditya_nandakumar@apple.com>
 adrian                  = Adrian Prantl <aprantl@apple.com>
 aemerson                = Amara Emerson <amara.emerson@arm.com>
 ahatanak                = Akira Hatanaka <ahatanaka@mips.com>
