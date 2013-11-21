@@ -230,6 +230,7 @@ kraiskil                = Kalle Raiskila <kalle.raiskila@nokia.com>
 krasin                  = Ivan Krasin <krasin@chromium.org>
 kremenek                = Ted Kremenek <kremenek@apple.com>
 krj                     = Kovarththanan Rajaratnam <kovarththanan.rajaratnam@gmail.com>
+kromanova               = Ekaterina Romanova <katya_romanova@playstation.sony.com>
 kuba                    = Jakub Staszak <kubastaszak@gmail.com>
 labath                  = Pavel Labath <labath@google.com>
 lattner                 = Chris Lattner <sabre@nondot.org>
