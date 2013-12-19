@@ -234,6 +234,7 @@ krj                     = Kovarththanan Rajaratnam <kovarththanan.rajaratnam@gma
 kromanova               = Ekaterina Romanova <katya_romanova@playstation.sony.com>
 kuba                    = Jakub Staszak <kubastaszak@gmail.com>
 labath                  = Pavel Labath <labath@google.com>
+lantictac               = Will Wilson <will@indefiant.com>
 lattner                 = Chris Lattner <sabre@nondot.org>
 laurov                  = Lauro Ramos Venancio <lauro.venancio@gmail.com>
 lenny                   = Lenny Maiorani <lenny@colorado.edu>
