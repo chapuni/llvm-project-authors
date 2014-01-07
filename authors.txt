@@ -413,6 +413,7 @@ wpan                    = Wei Pan <wei.pan@intel.com>
 wschmidt                = Bill Schmidt <wschmidt@linux.vnet.ibm.com>
 xen2                    = Virgile Bello <virgile.bello@gmail.com>
 xiaofei.wan             = Wan Xiaofei <xiaofei.wan@intel.com>
+xmj                     = Mingjie Xing <mingjie.xing@gmail.com>
 xranby                  = Xerxes Ranby <xerxes@zafena.se>
 ygao                    = Yunzhong Gao <Yunzhong_Gao@playstation.sony.com>
 yjiang                  = Yi Jiang <yjiang@apple.com>
