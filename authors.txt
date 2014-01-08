@@ -110,6 +110,7 @@ dsanders                = Daniel Sanders <daniel.sanders@imgtec.com>
 dschuff                 = Derek Schuff <dschuff@google.com>
 duraid                  = Duraid Madina <duraid@octopus.com.au>
 dvyukov                 = Dmitry Vyukov <dvyukov@google.com>
+dwmw2                   = David Woodhouse <dwmw2@infradead.org>
 dyatkovskiy             = Stepan Dyatkovskiy <stpworld@narod.ru>
 echristo                = Eric Christopher <echristo@gmail.com>
 ed                      = Ed Schouten <ed@80386.nl>
