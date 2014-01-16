@@ -364,6 +364,7 @@ smatveev                = Sergey Matveev <earthdok@google.com>
 snaroff                 = Steve Naroff <snaroff@apple.com>
 socantre                = Seth Cantrell <seth.cantrell@gmail.com>
 spop                    = Sebastian Pop <spop@codeaurora.org>
+spucci                  = Steve Pucci <spucci@google.com>
 spyffe                  = Sean Callanan <scallanan@apple.com>
 srhines                 = Stephen Hines <srhines@google.com>
 sriram87                = Sriram Murali <sriram87@gmail.com>
