@@ -146,6 +146,7 @@ gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 garious                 = Greg Fitzgerald <gregf@codeaurora.org>
 gbedwell                = Greg Bedwell <greg_bedwell@sn.scee.net>
 gbenyei                 = Guy Benyei <guy.benyei@intel.com>
+gchakrabarti            = Gautam Chakrabarti <gchakrabarti@nvidia.com>
 gclayton                = Greg Clayton <gclayton@apple.com>
 geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
 ggreif                  = Gabor Greif <ggreif@gmail.com>
