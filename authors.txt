@@ -284,6 +284,7 @@ nobled                  = Dylan Noblesmith <nobled@dreamwidth.org>
 nrieck                  = Nico Rieck <nico.rieck@gmail.com>
 ofv                     = Oscar Fuentes <ofv@wanadoo.es>
 olesalscheider          = Niels Ole Salscheider <niels_ole@salscheider-online.de>
+olista01                = Oliver Stannard <oliver.stannard@arm.com>
 oliver                  = Oliver Hunt <oliver@apple.com>
 panickal                = Deepak Panickal <deepak@codeplay.com>
 panzer                  = Sam Panzer <espanz@gmail.com>
