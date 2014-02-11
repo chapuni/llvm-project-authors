@@ -210,6 +210,7 @@ johannes                = Dale Johannesen <dalej@apple.com>
 johnny                  = Johnny Chen <johnny.chen@apple.com>
 johnw                   = John Wiegley <johnw@boostpro.com>
 jonturner               = Jonathan D. Turner <jonathan.d.turner@gmail.com>
+jroelofs                = Jonathan Roelofs <jonathan@codesourcery.com>
 jrose                   = Jordan Rose <jordan_rose@apple.com>
 jsjodin                 = Jan Sjödin <jan_sjodin@yahoo.com>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
