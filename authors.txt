@@ -151,6 +151,7 @@ gchakrabarti            = Gautam Chakrabarti <gchakrabarti@nvidia.com>
 gclayton                = Greg Clayton <gclayton@apple.com>
 geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
 ggreif                  = Gabor Greif <ggreif@gmail.com>
+ghoflehner              = Gerolf Hoflehner <ghoflehner@apple.com>
 ghost                   = Vladimir Prus <ghost@cs.msu.su>
 gigabytes               = Nicola Gigante <nicola.gigante@gmail.com>
 gkeiser                 = Gordon Keiser <gkeiser@arxan.com>
