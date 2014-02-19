@@ -74,6 +74,7 @@ clchiou                 = Che-Liang Chiou <clchiou@gmail.com>
 compnerd                = Saleem Abdulrasool <compnerd@compnerd.org>
 coppro                  = Sean Hunt <scshunt@csclub.uwaterloo.ca>
 cornedbee               = Sebastian Redl <sebastian.redl@getdesigned.at>
+cpirker                 = Christian Pirker <cpirker@a-bix.com>
 cristian.zamfir         = Cristian Zamfir <cristian.zamfir@epfl.ch>
 cristic                 = Cristian Cadar <cristic@cs.stanford.edu>
 criswell                = John Criswell <criswell@uiuc.edu>
