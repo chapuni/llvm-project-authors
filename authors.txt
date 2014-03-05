@@ -29,6 +29,7 @@ amaury.dlv              = Amaury de la Vieuville <amaury.dlv@gmail.com>
 amishne                 = Alon Mishne <alon.mishne@intel.com>
 andersca                = Anders Carlsson <andersca@mac.com>
 andersg                 = Anders Waldenborg <anders@0x63.nu>
+andrewmacp              = Andrew MacPherson <andrew.macp@gmail.com>
 andyg                   = Andy Gibbs <andyg1001@hotmail.co.uk>
 anemet                  = Adam Nemet <anemet@apple.com>
 anithab                 = Anitha Boyapati <anitha.boyapati@gmail.com>
