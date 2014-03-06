@@ -225,6 +225,7 @@ jush                    = Jush Lu <jush.msn@gmail.com>
 jverma                  = Jyotsna Verma <jverma@codeaurora.org>
 jvoung                  = Jan Wen Voung <jvoung@google.com>
 jyasskin                = Jeffrey Yasskin <jyasskin@google.com>
+karthik                 = Karthik Bhat <kv.bhat@samsung.com>
 kbeyls                  = Kristof Beyls <kristof.beyls@arm.com>
 kcc                     = Kostya Serebryany <kcc@google.com>
 kennethuil              = Kenneth Uildriks <kennethuil@gmail.com>
