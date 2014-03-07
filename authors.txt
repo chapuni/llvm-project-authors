@@ -414,6 +414,7 @@ vkutuzov                = Viktor Kutuzov <vkutuzov@accesssoftek.com>
 vljn                    = Vincent Lejeune <vljn@ovi.com>
 vmedic                  = Vladimir Medic <Vladimir.Medic@imgtec.com>
 void                    = Bill Wendling <isanbard@gmail.com>
+volkalex                = Alexey Volkov <avolkov.intel@gmail.com>
 vumansky                = Victor Umansky <victor.umansky@intel.com>
 wan                     = Zhanyong Wan <wan@google.com>
 wangmp                  = Mon P Wang <wangmp@apple.com>
