@@ -280,6 +280,7 @@ mrs                     = Mike Stump <mrs@apple.com>
 mseaborn                = Mark Seaborn <mseaborn@chromium.org>
 mspencer                = Michael J. Spencer <bigcheesegs@gmail.com>
 mvillmow                = Micah Villmow <villmow@gmail.com>
+mzolotukhin             = Michael Zolotukhin <mzolotukhin@apple.com>
 nadav                   = Nadav Rotem <nrotem@apple.com>
 nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 neil                    = Neil Booth <neil@daikokuya.co.uk>
