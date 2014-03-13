@@ -385,6 +385,7 @@ srhines                 = Stephen Hines <srhines@google.com>
 sriram87                = Sriram Murali <sriram87@gmail.com>
 ssen                    = Shantonu Sen <ssen@apple.com>
 sstankovic              = Sasa Stankovic <Sasa.Stankovic@imgtec.com>
+stephant                = Stephan Tolksdorf <st@quanttec.com>
 stephenwlin             = Stephen Lin <stephenwlin@gmail.com>
 steven_watanabe         = Steven Watanabe <steven@providere-consulting.com>
 stoklund                = Jakob Stoklund Olesen <stoklund@2pi.dk>
