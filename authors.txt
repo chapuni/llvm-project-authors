@@ -27,6 +27,7 @@ alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
 alp                     = Alp Toker <alp@nuanti.com>
 amaury.dlv              = Amaury de la Vieuville <amaury.dlv@gmail.com>
 amishne                 = Alon Mishne <alon.mishne@intel.com>
+amusman                 = Alexander Musman <alexander.musman@gmail.com>
 andersca                = Anders Carlsson <andersca@mac.com>
 andersg                 = Anders Waldenborg <anders@0x63.nu>
 andrewmacp              = Andrew MacPherson <andrew.macp@gmail.com>
