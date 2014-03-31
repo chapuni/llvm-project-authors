@@ -335,6 +335,7 @@ ributzka                = Juergen Ributzka <juergen@apple.com>
 rich                    = Richard Pennington <rich@pennware.com>
 rikka                   = Kaelyn Uhrain <rikka@google.com>
 rjmccall                = John McCall <rjmccall@apple.com>
+rkhasanov               = Robert Khasanov <rob.khasanov@gmail.com>
 rkotler                 = Reed Kotler <rkotler@mips.com>
 rlougher                = Robert Lougher <rob.lougher@gmail.com>
 rlytton                 = Robert Lytton <robert@xmos.com>
