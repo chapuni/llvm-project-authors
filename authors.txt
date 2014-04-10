@@ -254,6 +254,7 @@ lhames                  = Lang Hames <lhames@gmail.com>
 llunak                  = Lubos Lunak <l.lunak@centrum.cz>
 llvm                    = llvm <nothing@nowhere.org>
 logan                   = Logan Chien <tzuhsiang.chien@gmail.com>
+louis                   = Louis Gerbarg <lgg@apple.com>
 lvoufo                  = Larisse Voufo <lvoufo@google.com>
 mahesha                 = Mahesha S <mahesha.llvm@gmail.com>
 majnemer                = David Majnemer <david.majnemer@gmail.com>
