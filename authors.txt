@@ -139,6 +139,7 @@ evanphx                 = Evan Phoenix <evan@fallingsnow.net>
 evocallaghan            = Edward O'Callaghan <eocallaghan@auroraux.org>
 faisalv                 = Faisal Vali <faisalv@yahoo.com>
 fangism                 = David Fang <fang@csl.cornell.edu>
+fcormack                = Fraser Cormack <fraser@codeplay.com>
 filcab                  = Filipe Cabecinhas <me@filcab.net>
 fjahanian               = Fariborz Jahanian <fjahanian@apple.com>
 foad                    = Jay Foad <jay.foad@gmail.com>
