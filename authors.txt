@@ -451,6 +451,7 @@ zaks                    = Anna Zaks <ganna@apple.com>
 zarzycki                = Dave Zarzycki <zarzycki@apple.com>
 zer0                    = Puyan Lotfi <puyan@puyan.org>
 zhongxingxu             = Zhongxing Xu <xuzhongxing@foxmail.com>
+zinovy.nis              = Zinovy Nis <zinovy.nis@gmail.com>
 zjovanovic              = Zoran Jovanovic <zoran.jovanovic@imgtec.com>
 zonr                    = Zonr Chang <zonr.xchg@gmail.com>
 zwarich                 = Cameron Zwarich <zwarich@apple.com>
