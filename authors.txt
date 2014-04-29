@@ -21,6 +21,7 @@ akaylor                 = Andrew Kaylor <andrew.kaylor@intel.com>
 akirtzidis              = Argyrios Kyrtzidis <akyrtzi@gmail.com>
 alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
 alexfh                  = Alexander Kornienko <alexfh@google.com>
+alexmc                  = Alex McCarthy <alexmc@google.com>
 alexr                   = Alex Rosenberg <alexr@leftfield.org>
 alisdairm               = Alisdair Meredith <public@alisdairm.net>
 alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
