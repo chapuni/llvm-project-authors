@@ -105,6 +105,7 @@ delesley                = DeLesley Hutchins <delesley@google.com>
 dexonsmith              = Duncan P. N. Exon Smith <dexonsmith@apple.com>
 dgregor                 = Douglas Gregor <dgregor@apple.com>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
+dinesh                  = Dinesh Dwivedi <dinesh.d@samsung.com>
 dirty                   = Cameron Esfahani <dirty@apple.com>
 djasper                 = Daniel Jasper <djasper@google.com>
 djg                     = Dan Gohman <dan433584@gmail.com>
