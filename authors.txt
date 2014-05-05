@@ -265,6 +265,7 @@ louis                   = Louis Gerbarg <lgg@apple.com>
 lvoufo                  = Larisse Voufo <lvoufo@google.com>
 mahesha                 = Mahesha S <mahesha.llvm@gmail.com>
 majnemer                = David Majnemer <david.majnemer@gmail.com>
+mareko                  = Marek Olsak <marek.olsak@amd.com>
 marshall                = Marshall Clow <mclow.lists@gmail.com>
 martignlo               = Lorenzo Martignoni <martignlo@google.com>
 matheusalmeida          = Matheus Almeida <matheus.almeida@imgtec.com>
