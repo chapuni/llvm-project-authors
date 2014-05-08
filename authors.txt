@@ -98,6 +98,7 @@ david_goodwin           = David Goodwin <david_goodwin@apple.com>
 davidtweed              = David Tweed <david.tweed@arm.com>
 dblaikie                = David Blaikie <dblaikie@gmail.com>
 ddean                   = David Dean <david_dean@apple.com>
+ddomizioli              = Dario Domizioli <dario.domizioli@gmail.com>
 ddunbar                 = Daniel Dunbar <daniel@zuster.org>
 delcypher               = Dan Liew <dan@su-root.co.uk>
 delena                  = Elena Demikhovsky <elena.demikhovsky@intel.com>
