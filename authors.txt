@@ -67,6 +67,7 @@ bwilson                 = Bob Wilson <bob.wilson@apple.com>
 carl                    = Carl Norum <carl.norum@apple.com>
 carlokok                = Carlo Kok <ck@remobjects.com>
 cdavis                  = Charles Davis <cdavis5x@gmail.com>
+cestes                  = Dave Estes <cestes@codeaurora.org>
 cfr                     = Chuck Rose III <cfr@adobe.com>
 cfriesen                = Christopher Friesen <friesen@apple.com>
 chandlerc               = Chandler Carruth <chandlerc@gmail.com>
