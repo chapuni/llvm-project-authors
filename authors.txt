@@ -198,6 +198,7 @@ jaykang10               = Jin-Gu Kang <jaykang10@gmail.com>
 jddupas                 = Jean-Daniel Dupas <devlists@shadowlab.org>
 jdennett                = James Dennett <jdennett@google.com>
 jdm                     = John Mosby <ojomojo@gmail.com>
+jdoerfert               = Johannes Doerfert <jdoerfert@codeaurora.org>
 jduprat                 = Jean-Luc Duprat <jduprat@apple.com>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
 jfb                     = JF Bastien <jfb@google.com>
