@@ -393,6 +393,7 @@ sliao                   = Shih-wei Liao <sliao@google.com>
 smatveev                = Sergey Matveev <earthdok@google.com>
 snaroff                 = Steve Naroff <snaroff@apple.com>
 socantre                = Seth Cantrell <seth.cantrell@gmail.com>
+spatel                  = Sanjay Patel <spatel@rotateright.com>
 spop                    = Sebastian Pop <spop@codeaurora.org>
 spucci                  = Steve Pucci <spucci@google.com>
 spyffe                  = Sean Callanan <scallanan@apple.com>
