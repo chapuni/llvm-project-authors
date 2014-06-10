@@ -464,4 +464,5 @@ zhongxingxu             = Zhongxing Xu <xuzhongxing@foxmail.com>
 zinovy.nis              = Zinovy Nis <zinovy.nis@gmail.com>
 zjovanovic              = Zoran Jovanovic <zoran.jovanovic@imgtec.com>
 zonr                    = Zonr Chang <zonr.xchg@gmail.com>
+zturner                 = Zachary Turner <zturner@google.com>
 zwarich                 = Cameron Zwarich <zwarich@apple.com>
