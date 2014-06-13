@@ -235,6 +235,7 @@ jtsoftware              = John Thompson <John.Thompson.JTSoftware@gmail.com>
 jugu                    = Junjie Gu <jgu222@gmail.com>
 jush                    = Jush Lu <jush.msn@gmail.com>
 jverma                  = Jyotsna Verma <jverma@codeaurora.org>
+jvesely                 = Jan Vesely <jan.vesely@rutgers.edu>
 jvoung                  = Jan Wen Voung <jvoung@google.com>
 jyasskin                = Jeffrey Yasskin <jyasskin@google.com>
 kanheim                 = Konrad Anheim <kanheim@a-bix.com>
