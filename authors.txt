@@ -421,6 +421,7 @@ timurrrr                = Timur Iskhodzhanov <timurrrr@google.com>
 tlinth                  = Tony Linthicum <tlinth@codeaurora.org>
 tmroeder                = Tom Roeder <tmroeder@google.com>
 tnorthover              = Tim Northover <tnorthover@apple.com>
+tnowicki                = Tyler Nowicki <tnowicki@apple.com>
 triton                  = Joao Matos <ripzonetriton@gmail.com>
 tschwinge               = Thomas Schwinge <thomas@schwinge.name>
 tsiou                   = Yiannis Tsiouris <gtsiour@softlab.ntua.gr>
