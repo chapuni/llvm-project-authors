@@ -258,6 +258,7 @@ kremenek                = Ted Kremenek <kremenek@apple.com>
 krj                     = Kovarththanan Rajaratnam <kovarththanan.rajaratnam@gmail.com>
 kromanova               = Ekaterina Romanova <katya_romanova@playstation.sony.com>
 kuba                    = Jakub Staszak <kubastaszak@gmail.com>
+kuba.brecka             = Kuba Brecka <kuba.brecka@gmail.com>
 kwalker                 = Keith Walker <kwalker@arm.com>
 labath                  = Pavel Labath <labath@google.com>
 lantictac               = Will Wilson <will@indefiant.com>
