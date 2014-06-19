@@ -237,6 +237,7 @@ jush                    = Jush Lu <jush.msn@gmail.com>
 jverma                  = Jyotsna Verma <jverma@codeaurora.org>
 jvesely                 = Jan Vesely <jan.vesely@rutgers.edu>
 jvoung                  = Jan Wen Voung <jvoung@google.com>
+jwolfe                  = John Wolfe <jlw@xinuos.com>
 jyasskin                = Jeffrey Yasskin <jyasskin@google.com>
 kanheim                 = Konrad Anheim <kanheim@a-bix.com>
 karthik                 = Karthik Bhat <kv.bhat@samsung.com>
