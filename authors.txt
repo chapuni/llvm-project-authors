@@ -252,6 +252,7 @@ kjdyck                  = Ken Dyck <kd@kendyck.com>
 kkhoo                   = Kay Tiong Khoo <kkhoo@perfwizard.com>
 kledzik                 = Nick Kledzik <kledzik@apple.com>
 klimek                  = Manuel Klimek <klimek@google.com>
+kongyi                  = Yi Kong <Yi.Kong@arm.com>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
 kparzysz                = Krzysztof Parzyszek <kparzysz@codeaurora.org>
 kraiskil                = Kalle Raiskila <kalle.raiskila@nokia.com>
