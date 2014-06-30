@@ -384,6 +384,7 @@ sbaranga                = Silviu Baranga <silviu.baranga@arm.com>
 sbenza                  = Samuel Benzaquen <sbenza@google.com>
 sbishop                 = Sam Bishop <sam@bishop.dhs.org>
 scanon                  = Stephen Canon <scanon@apple.com>
+scott-0                 = Scott Douglass <sdouglass@arm.com>
 sdt                     = Stefanus Du Toit <stefanus.du.toit@intel.com>
 sehr                    = David Sehr <sehr@google.com>
 sepavloff               = Serge Pavlov <sepavloff@gmail.com>
