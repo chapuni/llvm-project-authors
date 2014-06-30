@@ -131,6 +131,7 @@ ed                      = Ed Schouten <ed@80386.nl>
 edwin                   = Torok Edwin <edwintorok@gmail.com>
 eeckstein               = Erik Eckstein <eeckstein@apple.com>
 efriedma                = Eli Friedman <eli.friedman@gmail.com>
+ehsan                   = Ehsan Akhgari <ehsan.akhgari@gmail.com>
 eliben                  = Eli Bendersky <eliben@google.com>
 emaste                  = Ed Maste <emaste@freebsd.org>
 emenezes                = Evandro Menezes <emenezes@codeaurora.org>
