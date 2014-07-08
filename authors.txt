@@ -1,6 +1,6 @@
 AaronBallman            = Aaron Ballman <aaron@aaronballman.com>
 TNorthover              = Tim Northover <Tim.Northover@arm.com>
-aadg                    = Arnaud A. de Grandmaison <arnaud.adegm@gmail.com>
+aadg                    = Arnaud A. de Grandmaison <arnaud.degrandmaison@arm.com>
 aaronballman            = Aaron Ballman <aaron@aaronballman.com>
 ab                      = Ahmed Bougacha <ahmed.bougacha@gmail.com>
 abataev                 = Alexey Bataev <a.bataev@hotmail.com>
