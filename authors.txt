@@ -343,6 +343,7 @@ pranavb                 = Pranav Bhandarkar <pranavb@codeaurora.org>
 predmond                = Paul Redmond <paul.redmond@intel.com>
 prestonbriggs           = Preston Briggs <preston.briggs@gmail.com>
 probinson               = Paul Robinson <paul_robinson@playstation.sony.com>
+pvchupin                = Pavel Chupin <pavel.v.chupin@intel.com>
 qcolombet               = Quentin Colombet <qcolombet@apple.com>
 rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
 raghesh                 = Raghesh Aloor <raghesh.a@gmail.com>
