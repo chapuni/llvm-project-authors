@@ -68,6 +68,7 @@ buschard                = Cameron Buschardt <buschard@uiuc.edu>
 bwilson                 = Bob Wilson <bob.wilson@apple.com>
 carl                    = Carl Norum <carl.norum@apple.com>
 carlokok                = Carlo Kok <ck@remobjects.com>
+cbieneman               = Chris Bieneman <beanz@apple.com>
 cdavis                  = Charles Davis <cdavis5x@gmail.com>
 cestes                  = Dave Estes <cestes@codeaurora.org>
 cfr                     = Chuck Rose III <cfr@adobe.com>
