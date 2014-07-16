@@ -64,6 +64,7 @@ brasmi01                = Bradley Smith <bradley.smith@arm.com>
 brucem                  = Bruce Mitchener <bruce.mitchener@gmail.com>
 brukman                 = Misha Brukman <brukman+llvm@gmail.com>
 bruno                   = Bruno Cardoso Lopes <bruno.cardoso@gmail.com>
+bubbles231              = Arthur Marble <arthur@info9.net>
 buschard                = Cameron Buschardt <buschard@uiuc.edu>
 bwilson                 = Bob Wilson <bob.wilson@apple.com>
 carl                    = Carl Norum <carl.norum@apple.com>
