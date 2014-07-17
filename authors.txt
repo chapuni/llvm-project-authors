@@ -142,6 +142,7 @@ enea                    = Enea Zaffanella <zaffanella@cs.unipr.it>
 enrico                  = Enrico Granata <egranata@apple.com>
 ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
 erickt                  = Erick Tryzelaar <idadesub@users.sourceforge.net>
+ericwf                  = Eric Fiselier <eric@efcs.ca>
 erikjv                  = Erik Verbruggen <erikjv@me.com>
 eschnett                = Erik Schnetter <schnetter@gmail.com>
 ether                   = Hongbin Zheng <etherzhhb@gmail.com>
