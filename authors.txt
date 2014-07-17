@@ -423,6 +423,7 @@ steven_watanabe         = Steven Watanabe <steven@providere-consulting.com>
 stoklund                = Jakob Stoklund Olesen <stoklund@2pi.dk>
 stuart                  = Stuart Hastings <stuart@apple.com>
 supertri                = Caitlin Sadowski <supertri@google.com>
+suyog                   = Suyog Sarda <suyog.sarda@samsung.com>
 sylvestre               = Sylvestre Ledru <sylvestre@debian.org>
 talin                   = Talin <viridia@gmail.com>
 tasiraj                 = Tareq A. Siraj <tareq.a.siraj@intel.com>
