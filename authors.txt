@@ -296,6 +296,7 @@ mcurtis                 = Matthew Curtis <mcurtis@codeaurora.org>
 meadori                 = Meador Inge <meadori@codesourcery.com>
 meheff                  = Mark Heffernan <meheff@google.com>
 mfleming                = Matt Fleming <matt@console-pimps.org>
+mg11                    = Matthew Gardiner <mg11@csr.com>
 mggm                    = Marcello Maggioni <hayarms@gmail.com>
 mgottesman              = Michael Gottesman <mgottesman@apple.com>
 mikem                   = mike-m <mikem.llvm@gmail.com>
