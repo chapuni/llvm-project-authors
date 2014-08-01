@@ -356,6 +356,7 @@ raghesh                 = Raghesh Aloor <raghesh.a@gmail.com>
 raulherbster            = Raul Herbster <raulherbster@gmail.com>
 rbarton                 = Richard Barton <richard.barton@arm.com>
 rdivacky                = Roman Divacky <rdivacky@freebsd.org>
+reames                  = Philip Reames <listmail@philipreames.com>
 redstar                 = Kai Nacke <kai.nacke@redstar.de>
 reid                    = Reid Spencer <rspencer@reidspencer.com>
 rengolin                = Renato Golin <renato.golin@linaro.org>
