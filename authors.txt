@@ -162,6 +162,7 @@ foo                     = Test Commit <nobody@llvm.org>
 fpichet                 = Francois Pichet <pichet2000@gmail.com>
 fpizlo                  = Filip Pizlo <fpizlo@apple.com>
 friedgold               = Richard Osborne <richard@xmos.com>
+friss                   = Frederic Riss <friss@apple.com>
 fvbommel                = Frits van Bommel <fvbommel@gmail.com>
 gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 garious                 = Greg Fitzgerald <gregf@codeaurora.org>
