@@ -220,6 +220,7 @@ jingham                 = Jim Ingham <jingham@apple.com>
 jingyue                 = Jingyue Wu <jingyue@google.com>
 jiwang                  = Jiong Wang <jiwang@tilera.com>
 jketema                 = Jeroen Ketema <j.ketema@imperial.ac.uk>
+jklontz                 = Josh Klontz <josh.klontz@gmail.com>
 jlaskey                 = Jim Laskey <jlaskey@mac.com>
 jlerouge                = Julien Lerouge <jlerouge@apple.com>
 jmagee                  = Josh Magee <joshua_magee@playstation.sony.com>
