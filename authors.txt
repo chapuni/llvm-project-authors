@@ -56,6 +56,7 @@ bcahoon                 = Brendon Cahoon <bcahoon@codeaurora.org>
 ben                     = Ben Laurie <benl@google.com>
 benholt                 = Ben Holt <bjh@apple.com>
 benlangmuir             = Ben Langmuir <blangmuir@apple.com>
+bfoster                 = Benjamin Foster <benjamin.foster@arm.com>
 blaine                  = Blaine Garst <blaine@apple.com>
 bocchino                = Robert Bocchino <bocchino@illinois.edu>
 bogden                  = Bernard Ogden <bogden@arm.com>
