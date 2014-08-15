@@ -310,6 +310,7 @@ milseman                = Michael Ilseman <milseman@apple.com>
 mjacob                  = Manuel Jacob <me@manueljacob.de>
 mkopec                  = Matt Kopec <Matt.Kopec@intel.com>
 mkuper                  = Michael Kuperstein <michael.m.kuperstein@intel.com>
+morisset                = Robin Morisset <morisset@google.com>
 mpopa                   = Mihai Popa <mihail.popa@gmail.com>
 mren                    = Manman Ren <manman.ren@gmail.com>
 mroth                   = Moritz Roth <moritz.roth@arm.com>
