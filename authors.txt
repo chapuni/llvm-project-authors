@@ -213,6 +213,7 @@ jduprat                 = Jean-Luc Duprat <jduprat@apple.com>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
 jfb                     = JF Bastien <jfb@google.com>
 jgoodnowii              = Jim Goodnow II <jim@thegoodnows.net>
+jhibbits                = Justin Hibbits <jrh29@alumni.cwru.edu>
 jholewinski             = Justin Holewinski <jholewinski@nvidia.com>
 jialiu                  = Jia Liu <proljc@gmail.com>
 jiangning               = Jiangning Liu <jiangning.liu@arm.com>
