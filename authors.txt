@@ -101,6 +101,7 @@ danalbert               = Dan Albert <danalbert@google.com>
 danchr                  = Dan Villiom Podlaski Christiansen <danchr@gmail.com>
 danil                   = Danil Malyshev <dmalyshev@accesssoftek.com>
 dannyb                  = Daniel Berlin <dberlin@dberlin.org>
+david.xu                = David Xu <David.Xu@arm.com>
 david_goodwin           = David Goodwin <david_goodwin@apple.com>
 davidtweed              = David Tweed <david.tweed@arm.com>
 dblaikie                = David Blaikie <dblaikie@gmail.com>
