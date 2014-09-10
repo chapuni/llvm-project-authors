@@ -41,6 +41,7 @@ arphaman                = Alex Lorenz <arphaman@gmail.com>
 arsenm                  = Matt Arsenault <Matthew.Arsenault@amd.com>
 ashemer                 = Anat Shemer <anat.shemer@intel.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
+asiri                   = Asiri Rathnayake <asiri.rathnayake@arm.com>
 askrobov                = Artyom Skrobov <Artyom.Skrobov@arm.com>
 asl                     = Anton Korobeynikov <asl@math.spbu.ru>
 astifter                = Andreas Neustifter <astifter-llvm@gmx.at>
