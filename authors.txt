@@ -438,6 +438,7 @@ sstankovic              = Sasa Stankovic <Sasa.Stankovic@imgtec.com>
 stephant                = Stephan Tolksdorf <st@quanttec.com>
 stephenwlin             = Stephen Lin <stephenwlin@gmail.com>
 steven_watanabe         = Steven Watanabe <steven@providere-consulting.com>
+steven_wu               = Steven Wu <stevenwu@apple.com>
 stoklund                = Jakob Stoklund Olesen <stoklund@2pi.dk>
 stuart                  = Stuart Hastings <stuart@apple.com>
 supertri                = Caitlin Sadowski <supertri@google.com>
