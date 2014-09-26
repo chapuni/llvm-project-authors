@@ -253,6 +253,7 @@ jvesely                 = Jan Vesely <jan.vesely@rutgers.edu>
 jvoung                  = Jan Wen Voung <jvoung@google.com>
 jwolfe                  = John Wolfe <jlw@xinuos.com>
 jyasskin                = Jeffrey Yasskin <jyasskin@google.com>
+jyoti.allur             = Jyoti Allur <jyoti.allur@samsung.com>
 kanheim                 = Konrad Anheim <kanheim@a-bix.com>
 karthik                 = Karthik Bhat <kv.bhat@samsung.com>
 kate                    = Kate Stone <katherine.stone@apple.com>
