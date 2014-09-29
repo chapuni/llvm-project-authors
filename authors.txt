@@ -366,6 +366,7 @@ probinson               = Paul Robinson <paul_robinson@playstation.sony.com>
 pvchupin                = Pavel Chupin <pavel.v.chupin@intel.com>
 qcolombet               = Quentin Colombet <qcolombet@apple.com>
 rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
+rafauler                = Rafael Auler <rafaelauler@gmail.com>
 raghesh                 = Raghesh Aloor <raghesh.a@gmail.com>
 raulherbster            = Raul Herbster <raulherbster@gmail.com>
 rbarton                 = Richard Barton <richard.barton@arm.com>
