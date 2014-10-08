@@ -408,6 +408,7 @@ sanxiyn                 = Seo Sanghyeon <sanxiyn@gmail.com>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
 sbaranga                = Silviu Baranga <silviu.baranga@arm.com>
 sbenza                  = Samuel Benzaquen <sbenza@google.com>
+sbest                   = Shawn Best <sbest@blueshiftinc.com>
 sbishop                 = Sam Bishop <sam@bishop.dhs.org>
 scanon                  = Stephen Canon <scanon@apple.com>
 scott-0                 = Scott Douglass <sdouglass@arm.com>
