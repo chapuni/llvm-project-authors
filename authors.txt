@@ -384,6 +384,7 @@ rikka                   = Kaelyn Takata <rikka@google.com>
 rjmccall                = John McCall <rjmccall@apple.com>
 rkhasanov               = Robert Khasanov <rob.khasanov@gmail.com>
 rkotler                 = Reed Kotler <rkotler@mips.com>
+rksimon                 = Simon Pilgrim <lvm-dev@redking.me.uk>
 rlougher                = Robert Lougher <rob.lougher@gmail.com>
 rlytton                 = Robert Lytton <robert@xmos.com>
 rmitton                 = Richard Mitton <richard@codersnotes.com>
