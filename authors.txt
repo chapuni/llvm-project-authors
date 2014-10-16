@@ -473,6 +473,7 @@ venet                   = Cedric Venet <cedric.venet@laposte.net>
 venkatra                = Venkatraman Govindaraju <venkatra@cs.wisc.edu>
 victorm                 = Victor Oliveira <Victor.Oliveira@amd.com>
 villmow                 = Micah Villmow <villmow@gmail.com>
+vkalintiris             = Vasileios Kalintiris <Vasileios.Kalintiris@imgtec.com>
 vkutuzov                = Viktor Kutuzov <vkutuzov@accesssoftek.com>
 vljn                    = Vincent Lejeune <vljn@ovi.com>
 vmedic                  = Vladimir Medic <Vladimir.Medic@imgtec.com>
