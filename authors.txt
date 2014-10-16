@@ -23,6 +23,7 @@ alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
 alexfh                  = Alexander Kornienko <alexfh@google.com>
 alexmc                  = Alex McCarthy <alexmc@google.com>
 alexr                   = Alex Rosenberg <alexr@leftfield.org>
+alhazred                = Alexander Eremin <alexander.r.eremin@gmail.com>
 alisdairm               = Alisdair Meredith <public@alisdairm.net>
 alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
 alp                     = Alp Toker <alp@nuanti.com>
