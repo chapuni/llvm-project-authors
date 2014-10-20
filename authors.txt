@@ -134,6 +134,7 @@ duraid                  = Duraid Madina <duraid@octopus.com.au>
 dvyukov                 = Dmitry Vyukov <dvyukov@google.com>
 dwmw2                   = David Woodhouse <dwmw2@infradead.org>
 dyatkovskiy             = Stepan Dyatkovskiy <stpworld@narod.ru>
+eastig                  = Evgeny Astigeevich <evgeny.astigeevich@arm.com>
 echristo                = Eric Christopher <echristo@gmail.com>
 ed                      = Ed Schouten <ed@80386.nl>
 edwin                   = Torok Edwin <edwintorok@gmail.com>
