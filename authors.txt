@@ -103,6 +103,7 @@ d0k                     = Benjamin Kramer <benny.kra@googlemail.com>
 daenzer                 = Michel Danzer <michel.daenzer@amd.com>
 danalbert               = Dan Albert <danalbert@google.com>
 danchr                  = Dan Villiom Podlaski Christiansen <danchr@gmail.com>
+danielmarjamaki         = Daniel Marjamaki <daniel.marjamaki@evidente.se>
 danil                   = Danil Malyshev <dmalyshev@accesssoftek.com>
 dannyb                  = Daniel Berlin <dberlin@dberlin.org>
 david.xu                = David Xu <David.Xu@arm.com>
