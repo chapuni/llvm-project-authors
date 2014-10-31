@@ -410,6 +410,7 @@ samsonov                = Alexey Samsonov <vonosmas@gmail.com>
 sandeep                 = Sandeep Patel <deeppatel1987@gmail.com>
 sanjoy                  = Sanjoy Das <sanjoy@playingwithpointers.com>
 sanxiyn                 = Seo Sanghyeon <sanxiyn@gmail.com>
+sas                     = Stephane Sezer <sas@cd80.net>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
 sbaranga                = Silviu Baranga <silviu.baranga@arm.com>
 sbenza                  = Samuel Benzaquen <sbenza@google.com>
