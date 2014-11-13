@@ -346,6 +346,7 @@ ogoffart                = Olivier Goffart <ogoffart@woboq.com>
 olesalscheider          = Niels Ole Salscheider <niels_ole@salscheider-online.de>
 olista01                = Oliver Stannard <oliver.stannard@arm.com>
 oliver                  = Oliver Hunt <oliver@apple.com>
+ovyalov                 = Oleksiy Vyalov <ovyalov@google.com>
 panickal                = Deepak Panickal <deepak@codeplay.com>
 panzer                  = Sam Panzer <espanz@gmail.com>
 papin_g                 = Guillaume Papin <guillaume.papin@epitech.eu>
