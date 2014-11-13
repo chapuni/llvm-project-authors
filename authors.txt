@@ -505,6 +505,7 @@ xranby                  = Xerxes Ranby <xerxes@zafena.se>
 yabin                   = Yabin Hu <yabin.hwu@gmail.com>
 ygao                    = Yunzhong Gao <Yunzhong_Gao@playstation.sony.com>
 ygorshenin              = Yuri Gorshenin <ygorshenin@google.com>
+ygribov                 = Yury Gribov <y.gribov@samsung.com>
 yjiang                  = Yi Jiang <yjiang@apple.com>
 yrnkrn                  = Yaron Keren <yaron.keren@gmail.com>
 yulin                   = Yuan Lin <yulin@nvidia.com>
