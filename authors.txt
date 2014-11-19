@@ -311,6 +311,7 @@ mcinally                = Cameron McInally <cameron.mcinally@nyu.edu>
 mcrosier                = Chad Rosier <mcrosier@codeaurora.org>
 mcurtis                 = Matthew Curtis <mcurtis@codeaurora.org>
 meadori                 = Meador Inge <meadori@codesourcery.com>
+mehdi_amini             = Mehdi Amini <mehdi.amini@apple.com>
 meheff                  = Mark Heffernan <meheff@google.com>
 mfleming                = Matt Fleming <matt@console-pimps.org>
 mg11                    = Matthew Gardiner <mg11@csr.com>
