@@ -454,6 +454,7 @@ steven_watanabe         = Steven Watanabe <steven@providere-consulting.com>
 steven_wu               = Steven Wu <stevenwu@apple.com>
 stoklund                = Jakob Stoklund Olesen <stoklund@2pi.dk>
 stuart                  = Stuart Hastings <stuart@apple.com>
+stulova                 = Anastasia Stulova <anastasia.stulova@arm.com>
 supertri                = Caitlin Sadowski <supertri@google.com>
 suyog                   = Suyog Sarda <suyog.sarda@samsung.com>
 sylvestre               = Sylvestre Ledru <sylvestre@debian.org>
