@@ -435,6 +435,7 @@ sidneym                 = Sid Manning <sidneym@codeaurora.org>
 silvas                  = Sean Silva <chisophugis@gmail.com>
 simbuerg                = Andreas Simbuerger <simbuerg@fim.uni-passau.de>
 sirish                  = Sirish Pande <spande@codeaurora.org>
+sivachandra             = Siva Chandra <sivachandra@google.com>
 slarin                  = Sergei Larin <slarin@codeaurora.org>
 sliao                   = Shih-wei Liao <sliao@google.com>
 smatveev                = Sergey Matveev <earthdok@google.com>
