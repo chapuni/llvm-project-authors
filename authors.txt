@@ -502,6 +502,7 @@ whunt                   = Warren Hunt <whunt@google.com>
 willschm                = Will Schmidt <will_schmidt@vnet.ibm.com>
 wilsons                 = Stephen Wilson <wilsons@start.ca>
 wmat                    = Wojciech Matyjewicz <wmatyjewicz@fastmail.fm>
+wnewton                 = Will Newton <will.newton@linaro.org>
 wpan                    = Wei Pan <wei.pan@intel.com>
 wschmidt                = Bill Schmidt <wschmidt@linux.vnet.ibm.com>
 xen2                    = Virgile Bello <virgile.bello@gmail.com>
