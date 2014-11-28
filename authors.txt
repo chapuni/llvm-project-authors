@@ -36,6 +36,7 @@ andrewmacp              = Andrew MacPherson <andrew.macp@gmail.com>
 andyg                   = Andy Gibbs <andyg1001@hotmail.co.uk>
 anemet                  = Adam Nemet <anemet@apple.com>
 anithab                 = Anitha Boyapati <anitha.boyapati@gmail.com>
+ankur29.garg            = Ankur Garg <ankur29.garg@samsung.com>
 apazos                  = Ana Pazos <apazos@codeaurora.org>
 arnolds                 = Arnold Schwaighofer <aschwaighofer@apple.com>
 arphaman                = Alex Lorenz <arphaman@gmail.com>
