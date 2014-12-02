@@ -88,6 +88,7 @@ chris.wailes            = Chris Wailes <chris.wailes@gmail.com>
 ckoenig                 = Christian Konig <christian.koenig@amd.com>
 clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
 clchiou                 = Che-Liang Chiou <clchiou@gmail.com>
+cmatthews               = Chris Matthews <cmatthews5@apple.com>
 colinl                  = Colin LeMahieu <colinl@codeaurora.org>
 compnerd                = Saleem Abdulrasool <compnerd@compnerd.org>
 coppro                  = Sean Hunt <scshunt@csclub.uwaterloo.ca>
