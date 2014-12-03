@@ -58,6 +58,7 @@ baldrick                = Duncan Sands <baldrick@free.fr>
 bcahoon                 = Brendon Cahoon <bcahoon@codeaurora.org>
 ben                     = Ben Laurie <benl@google.com>
 benholt                 = Ben Holt <bjh@apple.com>
+benjamin                = Benjamin Poulain <benjamin@webkit.org>
 benlangmuir             = Ben Langmuir <blangmuir@apple.com>
 bfoster                 = Benjamin Foster <benjamin.foster@arm.com>
 blaine                  = Blaine Garst <blaine@apple.com>
