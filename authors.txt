@@ -355,6 +355,7 @@ nobled                  = Dylan Noblesmith <nobled@dreamwidth.org>
 nrieck                  = Nico Rieck <nico.rieck@gmail.com>
 ofv                     = Oscar Fuentes <ofv@wanadoo.es>
 ogoffart                = Olivier Goffart <ogoffart@woboq.com>
+ohsallen                = Olivier Sallenave <ohsallen@us.ibm.com>
 olesalscheider          = Niels Ole Salscheider <niels_ole@salscheider-online.de>
 olista01                = Oliver Stannard <oliver.stannard@arm.com>
 oliver                  = Oliver Hunt <oliver@apple.com>
