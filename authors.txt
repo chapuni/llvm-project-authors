@@ -442,6 +442,7 @@ sepavloff               = Serge Pavlov <sepavloff@gmail.com>
 seurer                  = Bill Seurer <seurer@linux.vnet.ibm.com>
 sfantao                 = Samuel Antao <sfantao@us.ibm.com>
 sfider                  = Marcin Swiderski <marcin.sfider@gmail.com>
+sgundapa                = Sumanth Gundapaneni <sgundapa@codeaurora.org>
 sgupta                  = Sanjiv Gupta <sanjiv.gupta@microchip.com>
 shankare                = Shankar Easwaran <shankare@codeaurora.org>
 sheng                   = Zhou Sheng <zhousheng00@gmail.com>
