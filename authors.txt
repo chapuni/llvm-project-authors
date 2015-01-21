@@ -183,6 +183,7 @@ gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 garious                 = Greg Fitzgerald <garious@gmail.com>
 gbedwell                = Greg Bedwell <greg_bedwell@sn.scee.net>
 gbenyei                 = Guy Benyei <guy.benyei@intel.com>
+gbiv                    = George Burgess IV <george.burgess.iv@gmail.com>
 gchakrabarti            = Gautam Chakrabarti <gchakrabarti@nvidia.com>
 gclayton                = Greg Clayton <gclayton@apple.com>
 geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
