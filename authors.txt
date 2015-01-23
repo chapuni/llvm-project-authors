@@ -122,6 +122,7 @@ ddunbar                 = Daniel Dunbar <daniel@zuster.org>
 delcypher               = Dan Liew <dan@su-root.co.uk>
 delena                  = Elena Demikhovsky <elena.demikhovsky@intel.com>
 delesley                = DeLesley Hutchins <delesley@google.com>
+denis-protivensky       = Denis Protivensky <dprotivensky@accesssoftek.com>
 dexonsmith              = Duncan P. N. Exon Smith <dexonsmith@apple.com>
 dgregor                 = Douglas Gregor <dgregor@apple.com>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
