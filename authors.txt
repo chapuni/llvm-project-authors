@@ -480,6 +480,7 @@ suyog                   = Suyog Sarda <suyog.sarda@samsung.com>
 sylvestre               = Sylvestre Ledru <sylvestre@debian.org>
 talin                   = Talin <viridia@gmail.com>
 tasiraj                 = Tareq A. Siraj <tareq.a.siraj@intel.com>
+tberghammer             = Tamas Berghammer <tberghammer@google.com>
 tbrethou                = Tanya Lattner <tonic@nondot.org>
 tcare                   = Tom Care <tom.care@uqconnect.edu.au>
 tfiala                  = Todd Fiala <todd.fiala@gmail.com>
