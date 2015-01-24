@@ -105,6 +105,7 @@ crowl                   = Lawrence Crowl <crowl@google.com>
 csilvers                = Craig Silverstein <csilvers2000@yahoo.com>
 ctice                   = Caroline Tice <ctice@apple.com>
 ctopper                 = Craig Topper <craig.topper@gmail.com>
+cturner                 = Charlie Turner <charlesturner7c5@gmail.com>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 d0k                     = Benjamin Kramer <benny.kra@googlemail.com>
 daenzer                 = Michel Danzer <michel.daenzer@amd.com>
