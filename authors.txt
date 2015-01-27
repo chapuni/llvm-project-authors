@@ -85,6 +85,7 @@ cestes                  = Dave Estes <cestes@codeaurora.org>
 cfr                     = Chuck Rose III <cfr@adobe.com>
 cfriesen                = Christopher Friesen <friesen@apple.com>
 chandlerc               = Chandler Carruth <chandlerc@gmail.com>
+chaoren                 = Chaoren Lin <chaorenl@google.com>
 chapuni                 = NAKAMURA Takumi <geek4civic@gmail.com>
 chatur01                = Charlie Turner <charlie.turner@arm.com>
 chp                     = Peng Cheng <gm4cheng@gmail.com>
