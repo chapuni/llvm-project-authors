@@ -130,6 +130,7 @@ denis-protivensky       = Denis Protivensky <dprotivensky@accesssoftek.com>
 dexonsmith              = Duncan P. N. Exon Smith <dexonsmith@apple.com>
 dgregor                 = Douglas Gregor <dgregor@apple.com>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
+dim                     = Dimitry Andric <dimitry@andric.com>
 dinesh                  = Dinesh Dwivedi <dinesh.d@samsung.com>
 dirty                   = Cameron Esfahani <dirty@apple.com>
 djasper                 = Daniel Jasper <djasper@google.com>
