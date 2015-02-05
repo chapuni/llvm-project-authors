@@ -286,6 +286,7 @@ kevin                   = Kevin <ar18@comcast.net>
 kevinqin                = Kevin Qin <Kevin.Qin@arm.com>
 kfischer                = Keno Fischer <kfischer@college.harvard.edu>
 khemant                 = Hemant Kulkarni <khemant@codeaurora.org>
+ki.stfu                 = Ilia K <ki.stfu@gmail.com>
 kjdyck                  = Ken Dyck <kd@kendyck.com>
 kkhoo                   = Kay Tiong Khoo <kkhoo@perfwizard.com>
 kledzik                 = Nick Kledzik <kledzik@apple.com>
