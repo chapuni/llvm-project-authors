@@ -531,6 +531,7 @@ wmat                    = Wojciech Matyjewicz <wmatyjewicz@fastmail.fm>
 wnewton                 = Will Newton <will.newton@linaro.org>
 wpan                    = Wei Pan <wei.pan@intel.com>
 wschmidt                = Bill Schmidt <wschmidt@linux.vnet.ibm.com>
+xazax                   = Gabor Horvath <xazax.hun@gmail.com>
 xen2                    = Virgile Bello <virgile.bello@gmail.com>
 xiaofei.wan             = Wan Xiaofei <xiaofei.wan@intel.com>
 xmj                     = Mingjie Xing <mingjie.xing@gmail.com>
