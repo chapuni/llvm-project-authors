@@ -279,6 +279,7 @@ jyoti.allur             = Jyoti Allur <jyoti.allur@samsung.com>
 kanheim                 = Konrad Anheim <kanheim@a-bix.com>
 karthik                 = Karthik Bhat <kv.bhat@samsung.com>
 kate                    = Kate Stone <katherine.stone@apple.com>
+kbarton                 = Kit Barton <kbarton@ca.ibm.com>
 kbeyls                  = Kristof Beyls <kristof.beyls@arm.com>
 kcc                     = Kostya Serebryany <kcc@google.com>
 kennethuil              = Kenneth Uildriks <kennethuil@gmail.com>
