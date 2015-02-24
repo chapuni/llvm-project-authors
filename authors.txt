@@ -13,6 +13,7 @@ adasgupt                = Anshuman Dasgupta <adasgupt@codeaurora.org>
 adibiagio               = Andrea Di Biagio <Andrea_DiBiagio@sn.scee.net>
 aditya_nandakumar       = Aditya Nandakumar <aditya_nandakumar@apple.com>
 adrian                  = Adrian Prantl <aprantl@apple.com>
+adrobiso                = Arch D. Robison <arch.robison@intel.com>
 aemerson                = Amara Emerson <amara.emerson@arm.com>
 ahatanak                = Akira Hatanaka <ahatanaka@apple.com>
 ajbernal                = Ariel J. Bernal <ariel.j.bernal@intel.com>
