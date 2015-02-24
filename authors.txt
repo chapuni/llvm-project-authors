@@ -182,6 +182,7 @@ foldr                   = Mikhail Glushenkov <foldr@codedgers.com>
 foo                     = Test Commit <nobody@llvm.org>
 fpichet                 = Francois Pichet <pichet2000@gmail.com>
 fpizlo                  = Filip Pizlo <fpizlo@apple.com>
+fraggamuffin            = Michael Wong <fraggamuffin@gmail.com>
 francisco.lopes         = Francisco Lopes da Silva <oblita@gmail.com>
 friedgold               = Richard Osborne <richard@xmos.com>
 friss                   = Frederic Riss <friss@apple.com>
