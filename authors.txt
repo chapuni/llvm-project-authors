@@ -361,6 +361,7 @@ nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 nathan                  = Nathan Sidwell <nathan@acm.org>
 neerajbadlani           = Neeraj Badlani <neerajbadlani@gmail.com>
 neil                    = Neil Booth <neil@daikokuya.co.uk>
+nemanjai                = Nemanja Ivanovic <nemanja.i.ibm@gmail.com>
 nicholas                = Nick Lewycky <nicholas@mxc.ca>
 nico                    = Nico Weber <nicolasweber@gmx.de>
 nikola                  = Nikola Smiljanic <popizdeh@gmail.com>
