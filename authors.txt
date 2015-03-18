@@ -265,6 +265,7 @@ joel_k_jones            = Joel Jones <joel_k_jones@apple.com>
 joerg                   = Joerg Sonnenberger <joerg@bec.de>
 joey                    = Joey Gouly <joey.gouly@gmail.com>
 johannes                = Dale Johannesen <dalej@apple.com>
+john.brawn              = John Brawn <john.brawn@arm.com>
 johnny                  = Johnny Chen <johnny.chen@apple.com>
 johnw                   = John Wiegley <johnw@boostpro.com>
 jonpa                   = Jonas Paulsson <jonas.paulsson@ericsson.com>
