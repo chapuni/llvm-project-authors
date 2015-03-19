@@ -512,6 +512,7 @@ tnorthover              = Tim Northover <tnorthover@apple.com>
 tnowicki                = Tyler Nowicki <tyler.nowicki@gmail.com>
 tomatabacu              = Toma Tabacu <toma.tabacu@imgtec.com>
 tomc                    = Tom Coxon <tom.coxon@arm.com>
+tra                     = Artem Belevich <tra@google.com>
 triton                  = Joao Matos <ripzonetriton@gmail.com>
 tschwinge               = Thomas Schwinge <thomas@schwinge.name>
 tsiou                   = Yiannis Tsiouris <gtsiour@softlab.ntua.gr>
