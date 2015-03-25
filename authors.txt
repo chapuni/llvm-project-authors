@@ -94,6 +94,7 @@ chapuni                 = NAKAMURA Takumi <geek4civic@gmail.com>
 chatur01                = Charlie Turner <charlie.turner@arm.com>
 chp                     = Peng Cheng <gm4cheng@gmail.com>
 chris.wailes            = Chris Wailes <chris.wailes@gmail.com>
+chying                  = Ying Chen <chying@google.com>
 ckoenig                 = Christian Konig <christian.koenig@amd.com>
 clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
 clchiou                 = Che-Liang Chiou <clchiou@gmail.com>
