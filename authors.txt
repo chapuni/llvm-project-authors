@@ -319,6 +319,7 @@ laurov                  = Lauro Ramos Venancio <lauro.venancio@gmail.com>
 lenny                   = Lenny Maiorani <lenny@colorado.edu>
 lhames                  = Lang Hames <lhames@gmail.com>
 lifted                  = Roman Kashitsyn <romankashicin@gmail.com>
+lkholodov               = Leny Kholodov <lkholodov@accesssoftek.com>
 llunak                  = Lubos Lunak <l.lunak@centrum.cz>
 llvm                    = llvm <nothing@nowhere.org>
 logan                   = Logan Chien <tzuhsiang.chien@gmail.com>
