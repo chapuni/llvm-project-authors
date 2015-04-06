@@ -93,6 +93,7 @@ chandlerc               = Chandler Carruth <chandlerc@gmail.com>
 chaoren                 = Chaoren Lin <chaorenl@google.com>
 chapuni                 = NAKAMURA Takumi <geek4civic@gmail.com>
 chatur01                = Charlie Turner <charlie.turner@arm.com>
+chfast                  = Pawel Bylica <chfast@gmail.com>
 chp                     = Peng Cheng <gm4cheng@gmail.com>
 chris.wailes            = Chris Wailes <chris.wailes@gmail.com>
 chying                  = Ying Chen <chying@google.com>
