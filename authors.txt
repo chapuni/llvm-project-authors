@@ -236,6 +236,7 @@ jabbey                  = Joe Abbey <jabbey@arxan.com>
 jacksprat               = Jack Carter <jack.carter@imgtec.com>
 jamesm                  = James Molloy <james.molloy@arm.com>
 jasonwkim               = Jason W Kim <jason.w.kim.2009@gmail.com>
+javed.absar             = Javed Absar <javed.absar@arm.com>
 jaykang10               = Jin-Gu Kang <jaykang10@gmail.com>
 jddupas                 = Jean-Daniel Dupas <devlists@shadowlab.org>
 jdennett                = James Dennett <jdennett@google.com>
