@@ -400,6 +400,7 @@ peckw                   = Wesley Peck <peckw@wesleypeck.com>
 petarj                  = Petar Jovanovic <petar.jovanovic@imgtec.com>
 pete                    = Pete Cooper <peter_cooper@apple.com>
 pgurd                   = Preston Gurd <preston.gurd@intel.com>
+phosek                  = Petr Hosek <phosek@chromium.org>
 pingbak                 = Scott Michel <scottm@aero.org>
 pirama                  = Pirama Arumuga Nainar <pirama@google.com>
 pizza                   = Ryan Flynn <pizza@parseerror.com>
