@@ -17,6 +17,7 @@ adrian                  = Adrian Prantl <aprantl@apple.com>
 adrobiso                = Arch D. Robison <arch.robison@intel.com>
 aemerson                = Amara Emerson <amara.emerson@arm.com>
 ahatanak                = Akira Hatanaka <ahatanaka@apple.com>
+aidandodds              = Aidan Dodds <aidan@codeplay.com>
 ajbernal                = Ariel J. Bernal <ariel.j.bernal@intel.com>
 akadlec                 = Albrecht Kadlec <akadlec@a-bix.com>
 akaylor                 = Andrew Kaylor <andrew.kaylor@intel.com>
