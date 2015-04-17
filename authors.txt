@@ -484,6 +484,7 @@ sirish                  = Sirish Pande <spande@codeaurora.org>
 sivachandra             = Siva Chandra <sivachandra@google.com>
 slarin                  = Sergei Larin <slarin@codeaurora.org>
 sliao                   = Shih-wei Liao <sliao@google.com>
+slthakur                = Sagar Thakur <sagar.thakur@imgtec.com>
 smatveev                = Sergey Matveev <earthdok@google.com>
 snaroff                 = Steve Naroff <snaroff@apple.com>
 socantre                = Seth Cantrell <seth.cantrell@gmail.com>
