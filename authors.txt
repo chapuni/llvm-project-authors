@@ -173,6 +173,7 @@ ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
 erickt                  = Erick Tryzelaar <idadesub@users.sourceforge.net>
 ericwf                  = Eric Fiselier <eric@efcs.ca>
 erikjv                  = Erik Verbruggen <erikjv@me.com>
+escha                   = Fiona Glaser <escha@apple.com>
 eschnett                = Erik Schnetter <schnetter@gmail.com>
 eszasip                 = Szabolcs Sipos <szabolcs.sipos@ericsson.com>
 ether                   = Hongbin Zheng <etherzhhb@gmail.com>
