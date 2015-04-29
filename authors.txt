@@ -146,6 +146,7 @@ djg                     = Dan Gohman <dan433584@gmail.com>
 dmalea                  = Daniel Malea <daniel.malea@gmail.com>
 dnovillo                = Diego Novillo <dnovillo@google.com>
 domipheus               = Colin Riley <colin@codeplay.com>
+dougk                   = Douglas Katzman <dougk@google.com>
 dpatel                  = Devang Patel <dpatel@apple.com>
 dpeixott                = David Peixotto <dpeixott@codeaurora.org>
 dperchik                = Dawn Perchik <dawn@burble.org>
