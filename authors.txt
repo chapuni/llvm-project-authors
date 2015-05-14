@@ -266,6 +266,7 @@ jklontz                 = Josh Klontz <josh.klontz@gmail.com>
 jkolek                  = Jozef Kolek <jozef.kolek@imgtec.com>
 jlaskey                 = Jim Laskey <jlaskey@mac.com>
 jlerouge                = Julien Lerouge <jlerouge@apple.com>
+jlpeyton                = Jonathan Peyton <jonathan.l.peyton@intel.com>
 jmagee                  = Josh Magee <joshua_magee@playstation.sony.com>
 jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
 jmcilree                = James McIlree <jmcilree@apple.com>
