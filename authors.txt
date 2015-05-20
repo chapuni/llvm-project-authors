@@ -519,6 +519,7 @@ stulova                 = Anastasia Stulova <anastasia.stulova@arm.com>
 sundeepk                = Sundeep Kushwaha <sundeepk@codeaurora.org>
 supertri                = Caitlin Sadowski <supertri@google.com>
 suyog                   = Suyog Sarda <suyog.sarda@samsung.com>
+swaroops                = Swaroop Sridhar <Swaroop.Sridhar@microsoft.com>
 sylvestre               = Sylvestre Ledru <sylvestre@debian.org>
 talin                   = Talin <viridia@gmail.com>
 tasiraj                 = Tareq A. Siraj <tareq.a.siraj@intel.com>
