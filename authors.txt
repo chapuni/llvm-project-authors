@@ -44,6 +44,7 @@ anemet                  = Adam Nemet <anemet@apple.com>
 anithab                 = Anitha Boyapati <anitha.boyapati@gmail.com>
 ankur29.garg            = Ankur Garg <ankur29.garg@samsung.com>
 apazos                  = Ana Pazos <apazos@codeaurora.org>
+apilipenko              = Artur Pilipenko <apilipenko@azulsystems.com>
 arnolds                 = Arnold Schwaighofer <aschwaighofer@apple.com>
 arphaman                = Alex Lorenz <arphaman@gmail.com>
 arsenm                  = Matt Arsenault <Matthew.Arsenault@amd.com>
