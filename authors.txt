@@ -458,6 +458,7 @@ row                     = Robert Wilhelm <robert.wilhelm@gmx.net>
 rrelph                  = Richard Relph <Richard.Relph@amd.com>
 rsandifo                = Richard Sandiford <rsandifo@linux.vnet.ibm.com>
 rsilvera                = Raul E. Silvera <rsilvera@google.com>
+rsingh                  = Ranjeet Singh <Ranjeet.Singh@arm.com>
 rsmith                  = Richard Smith <richard-llvm@metafoo.co.uk>
 rtrieu                  = Richard Trieu <rtrieu@google.com>
 rudkx                   = Mark Lacey <mark.lacey@apple.com>
