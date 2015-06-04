@@ -205,6 +205,7 @@ francisco.lopes         = Francisco Lopes da Silva <oblita@gmail.com>
 friedgold               = Richard Osborne <richard@xmos.com>
 friss                   = Frederic Riss <friss@apple.com>
 fvbommel                = Frits van Bommel <fvbommel@gmail.com>
+gaborb                  = Gabor Ballabas <gaborb@inf.u-szeged.hu>
 gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 garious                 = Greg Fitzgerald <garious@gmail.com>
 gbedwell                = Greg Bedwell <greg_bedwell@sn.scee.net>
