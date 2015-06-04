@@ -240,6 +240,7 @@ hhinnant                = Howard Hinnant <hhinnant@apple.com>
 hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 hliao                   = Michael Liao <michael.liao@intel.com>
+hubert.reinterpretcast  = Hubert Tong <hubert.reinterpretcast@gmail.com>
 iains                   = Iain Sandoe <iain@codesourcery.com>
 iajbar                  = Ikhlas Ajbar <iajbar@codeaurora.org>
 ibreger                 = Igor Breger <igor.breger@intel.com>
