@@ -545,6 +545,7 @@ tlinth                  = Tony Linthicum <tlinth@codeaurora.org>
 tmroeder                = Tom Roeder <tmroeder@google.com>
 tnorthover              = Tim Northover <tnorthover@apple.com>
 tnowicki                = Tyler Nowicki <tyler.nowicki@gmail.com>
+tobiasvk                = Tobias Edler von Koch <tobias@codeaurora.org>
 tomatabacu              = Toma Tabacu <toma.tabacu@imgtec.com>
 tomc                    = Tom Coxon <tom.coxon@arm.com>
 tra                     = Artem Belevich <tra@google.com>
