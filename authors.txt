@@ -568,6 +568,7 @@ void                    = Bill Wendling <isanbard@gmail.com>
 volkalex                = Alexey Volkov <avolkov.intel@gmail.com>
 vsukharev               = Vladimir Sukharev <vladimir.sukharev@arm.com>
 vumansky                = Victor Umansky <victor.umansky@intel.com>
+wala                    = Matt Wala <wala@google.com>
 wan                     = Zhanyong Wan <wan@google.com>
 wangmp                  = Mon P Wang <wangmp@apple.com>
 wdietz2                 = Will Dietz <wdietz2@illinois.edu>
