@@ -363,6 +363,7 @@ mcurtis                 = Matthew Curtis <mcurtis@codeaurora.org>
 meadori                 = Meador Inge <meadori@codesourcery.com>
 mehdi_amini             = Mehdi Amini <mehdi.amini@apple.com>
 meheff                  = Mark Heffernan <meheff@google.com>
+meinersbur              = Michael Kruse <llvm@meinersbur.de>
 mfleming                = Matt Fleming <matt@console-pimps.org>
 mg11                    = Matthew Gardiner <mg11@csr.com>
 mggm                    = Marcello Maggioni <hayarms@gmail.com>
