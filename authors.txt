@@ -429,6 +429,7 @@ pirama                  = Pirama Arumuga Nainar <pirama@google.com>
 pizza                   = Ryan Flynn <pizza@parseerror.com>
 pjaaskel                = Pekka Jaaskelainen <pekka.jaaskelainen@tut.fi>
 pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
+poiru                   = Birunthan Mohanathas <birunthan@mohanathas.com>
 pranavb                 = Pranav Bhandarkar <pranavb@codeaurora.org>
 predmond                = Paul Redmond <paul.redmond@intel.com>
 prestonbriggs           = Preston Briggs <preston.briggs@gmail.com>
