@@ -23,6 +23,7 @@ ajbernal                = Ariel J. Bernal <ariel.j.bernal@intel.com>
 akadlec                 = Albrecht Kadlec <akadlec@a-bix.com>
 akaylor                 = Andrew Kaylor <andrew.kaylor@intel.com>
 akirtzidis              = Argyrios Kyrtzidis <akyrtzi@gmail.com>
+alelab01                = Alexandros Lamprineas <alexandros.lamprineas@arm.com>
 alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
 alexdenisov             = Alex Denisov <1101.debian@gmail.com>
 alexfh                  = Alexander Kornienko <alexfh@google.com>
