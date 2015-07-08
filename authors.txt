@@ -160,6 +160,7 @@ dperchik                = Dawn Perchik <dawn@burble.org>
 drb                     = Dan Bailey <dan@dneg.com>
 dsanders                = Daniel Sanders <daniel.sanders@imgtec.com>
 dschuff                 = Derek Schuff <dschuff@google.com>
+dsrbecky                = David Srbecky <dsrbecky@gmail.com>
 duraid                  = Duraid Madina <duraid@octopus.com.au>
 dvyukov                 = Dmitry Vyukov <dvyukov@google.com>
 dwmw2                   = David Woodhouse <dwmw2@infradead.org>
