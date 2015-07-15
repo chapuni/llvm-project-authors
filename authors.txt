@@ -110,6 +110,7 @@ clchiou                 = Che-Liang Chiou <clchiou@gmail.com>
 cmatthews               = Chris Matthews <cmatthews5@apple.com>
 colinl                  = Colin LeMahieu <colinl@codeaurora.org>
 compnerd                = Saleem Abdulrasool <compnerd@compnerd.org>
+conghou                 = Cong Hou <congh@google.com>
 coppro                  = Sean Hunt <scshunt@csclub.uwaterloo.ca>
 cornedbee               = Sebastian Redl <sebastian.redl@getdesigned.at>
 cpirker                 = Christian Pirker <cpirker@a-bix.com>
