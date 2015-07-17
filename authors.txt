@@ -52,6 +52,7 @@ arnolds                 = Arnold Schwaighofer <aschwaighofer@apple.com>
 arphaman                = Alex Lorenz <arphaman@gmail.com>
 arsenm                  = Matt Arsenault <Matthew.Arsenault@amd.com>
 artagnon                = Ramkumar Ramachandra <artagnon@gmail.com>
+asbokhan                = Andrey Bokhanko <andreybokhanko@gmail.com>
 ashemer                 = Anat Shemer <anat.shemer@intel.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
 asiri                   = Asiri Rathnayake <asiri.rathnayake@arm.com>
