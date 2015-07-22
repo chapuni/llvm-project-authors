@@ -251,6 +251,7 @@ iains                   = Iain Sandoe <iain@codesourcery.com>
 iajbar                  = Ikhlas Ajbar <iajbar@codeaurora.org>
 ibreger                 = Igor Breger <igor.breger@intel.com>
 igor.laevsky            = Igor Laevsky <igmyrj@gmail.com>
+inolen                  = Anthony Pesch <inolen@gmail.com>
 ismail                  = Ismail Donmez <ismail@donmez.ws>
 ismailp                 = Ismail Pazarbasi <ismail.pazarbasi@gmail.com>
 jabbey                  = Joe Abbey <jabbey@arxan.com>
