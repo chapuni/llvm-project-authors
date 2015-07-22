@@ -448,6 +448,7 @@ rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
 rafauler                = Rafael Auler <rafaelauler@gmail.com>
 raghesh                 = Raghesh Aloor <raghesh.a@gmail.com>
 raulherbster            = Raul Herbster <raulherbster@gmail.com>
+ravitheja               = Ravitheja Addepally <ravitheja.addepally@intel.com>
 rbarton                 = Richard Barton <richard.barton@arm.com>
 rdivacky                = Roman Divacky <rdivacky@freebsd.org>
 reames                  = Philip Reames <listmail@philipreames.com>
