@@ -346,6 +346,7 @@ labath                  = Pavel Labath <labath@google.com>
 lantictac               = Will Wilson <will@indefiant.com>
 lattner                 = Chris Lattner <sabre@nondot.org>
 laurov                  = Lauro Ramos Venancio <lauro.venancio@gmail.com>
+lawrence                = Lawrence Hu <lawrence@codeaurora.org>
 lenny                   = Lenny Maiorani <lenny@colorado.edu>
 lhames                  = Lang Hames <lhames@gmail.com>
 lifted                  = Roman Kashitsyn <romankashicin@gmail.com>
