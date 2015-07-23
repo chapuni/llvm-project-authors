@@ -146,6 +146,7 @@ delesley                = DeLesley Hutchins <delesley@google.com>
 denis-protivensky       = Denis Protivensky <dprotivensky@accesssoftek.com>
 dexonsmith              = Duncan P. N. Exon Smith <dexonsmith@apple.com>
 dgregor                 = Douglas Gregor <dgregor@apple.com>
+dgross                  = David Gross <dgross@google.com>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
 dim                     = Dimitry Andric <dimitry@andric.com>
 dinesh                  = Dinesh Dwivedi <dinesh.d@samsung.com>
