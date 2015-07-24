@@ -102,6 +102,7 @@ chapuni                 = NAKAMURA Takumi <geek4civic@gmail.com>
 chatur01                = Charlie Turner <charlie.turner@arm.com>
 chenli                  = Chen Li <meloli87@gmail.com>
 chfast                  = Pawel Bylica <chfast@gmail.com>
+chh                     = Chih-Hung Hsieh <chh@google.com>
 chp                     = Peng Cheng <gm4cheng@gmail.com>
 chris.wailes            = Chris Wailes <chris.wailes@gmail.com>
 chying                  = Ying Chen <chying@google.com>
