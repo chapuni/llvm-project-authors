@@ -442,6 +442,7 @@ pjaaskel                = Pekka Jaaskelainen <pekka.jaaskelainen@tut.fi>
 pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
 poiru                   = Birunthan Mohanathas <birunthan@mohanathas.com>
 pranavb                 = Pranav Bhandarkar <pranavb@codeaurora.org>
+prazek                  = Piotr Padlewski <prazek@google.com>
 predmond                = Paul Redmond <paul.redmond@intel.com>
 prestonbriggs           = Preston Briggs <preston.briggs@gmail.com>
 probinson               = Paul Robinson <paul_robinson@playstation.sony.com>
