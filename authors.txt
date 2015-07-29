@@ -82,6 +82,7 @@ bogden                  = Bernard Ogden <bogden@arm.com>
 bogner                  = Justin Bogner <mail@justinbogner.com>
 brad                    = Brad Smith <brad@comstyle.com>
 brasmi01                = Bradley Smith <bradley.smith@arm.com>
+broune                  = Bjarke Hammersholt Roune <broune@google.com>
 brucem                  = Bruce Mitchener <bruce.mitchener@gmail.com>
 brukman                 = Misha Brukman <brukman+llvm@gmail.com>
 bruno                   = Bruno Cardoso Lopes <bruno.cardoso@gmail.com>
