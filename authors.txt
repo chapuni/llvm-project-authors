@@ -538,6 +538,7 @@ spucci                  = Steve Pucci <spucci@google.com>
 spyffe                  = Sean Callanan <scallanan@apple.com>
 srhines                 = Stephen Hines <srhines@google.com>
 sriram87                = Sriram Murali <sriram87@gmail.com>
+srking                  = Steve King <steve@metrokings.com>
 ssen                    = Shantonu Sen <ssen@apple.com>
 ssrivastava             = Sunil Srivastava <sunil_srivastava@playstation.sony.com>
 sstankovic              = Sasa Stankovic <Sasa.Stankovic@imgtec.com>
