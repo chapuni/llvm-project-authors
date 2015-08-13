@@ -55,6 +55,7 @@ artagnon                = Ramkumar Ramachandra <artagnon@gmail.com>
 asbokhan                = Andrey Bokhanko <andreybokhanko@gmail.com>
 ashemer                 = Anat Shemer <anat.shemer@intel.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
+ashutosh                = Ashutosh Nema <ashu1212@gmail.com>
 asiri                   = Asiri Rathnayake <asiri.rathnayake@arm.com>
 askrobov                = Artyom Skrobov <Artyom.Skrobov@arm.com>
 asl                     = Anton Korobeynikov <asl@math.spbu.ru>
