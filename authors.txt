@@ -580,6 +580,7 @@ tsiou                   = Yiannis Tsiouris <gtsiour@softlab.ntua.gr>
 tstellar                = Tom Stellard <thomas.stellard@amd.com>
 uweigand                = Ulrich Weigand <ulrich.weigand@de.ibm.com>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
+vedantk                 = Vedant Kumar <vsk@apple.com>
 venet                   = Cedric Venet <cedric.venet@laposte.net>
 venkatra                = Venkatraman Govindaraju <venkatra@cs.wisc.edu>
 vharron                 = Vince Harron <vince@nethacker.com>
