@@ -482,6 +482,7 @@ rlougher                = Robert Lougher <rob.lougher@gmail.com>
 rlytton                 = Robert Lytton <robert@xmos.com>
 rmitton                 = Richard Mitton <richard@codersnotes.com>
 rnk                     = Reid Kleckner <rnk@google.com>
+romangareev             = Roman Gareev <gareevroman@gmail.com>
 romix                   = Roman Levenstein <romix.llvm@googlemail.com>
 rono                    = Ron Ofir <ron.ofir@gmail.com>
 root                    = root <nothing@nowhere.org>
