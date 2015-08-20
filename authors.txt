@@ -78,6 +78,7 @@ benlangmuir             = Ben Langmuir <blangmuir@apple.com>
 bfoster                 = Benjamin Foster <benjamin.foster@arm.com>
 bhushan.attarde         = Bhushan D. Attarde <Bhushan.Attarde@imgtec.com>
 blaine                  = Blaine Garst <blaine@apple.com>
+bmakam                  = Balaram Makam <bmakam@codeaurora.org>
 bocchino                = Robert Bocchino <bocchino@illinois.edu>
 bogden                  = Bernard Ogden <bogden@arm.com>
 bogner                  = Justin Bogner <mail@justinbogner.com>
