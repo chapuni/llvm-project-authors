@@ -293,6 +293,7 @@ jlpeyton                = Jonathan Peyton <jonathan.l.peyton@intel.com>
 jmagee                  = Josh Magee <joshua_magee@playstation.sony.com>
 jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
 jmcilree                = James McIlree <jmcilree@apple.com>
+jmgao                   = Josh Gao <jmgao@google.com>
 jmolenda                = Jason Molenda <jmolenda@apple.com>
 job                     = Job Noorman <jobnoorman@gmail.com>
 joe                     = Joe Groff <arcata@gmail.com>
