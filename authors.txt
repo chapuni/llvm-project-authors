@@ -53,6 +53,7 @@ arphaman                = Alex Lorenz <arphaman@gmail.com>
 arsenm                  = Matt Arsenault <Matthew.Arsenault@amd.com>
 artagnon                = Ramkumar Ramachandra <artagnon@gmail.com>
 asbokhan                = Andrey Bokhanko <andreybokhanko@gmail.com>
+ashahid                 = Mohammad Shahid <Asghar-ahmad.Shahid@amd.com>
 ashemer                 = Anat Shemer <anat.shemer@intel.com>
 ashukla                 = Anand Shukla <ashukla@cs.uiuc.edu>
 ashutosh                = Ashutosh Nema <ashu1212@gmail.com>
