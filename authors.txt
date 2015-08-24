@@ -406,6 +406,7 @@ mspencer                = Michael J. Spencer <bigcheesegs@gmail.com>
 mvillmow                = Micah Villmow <villmow@gmail.com>
 myatsina                = Marina Yatsina <marina.yatsina@intel.com>
 mzolotukhin             = Michael Zolotukhin <mzolotukhin@apple.com>
+mzuckerm                = Michael Zuckerman <Michael.zuckerman@intel.com>
 nadav                   = Nadav Rotem <nrotem@apple.com>
 nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 nathan                  = Nathan Sidwell <nathan@acm.org>
