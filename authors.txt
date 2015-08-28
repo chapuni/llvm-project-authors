@@ -404,6 +404,7 @@ mroth                   = Moritz Roth <moritz.roth@arm.com>
 mrs                     = Mike Stump <mrs@apple.com>
 mseaborn                = Mark Seaborn <mseaborn@chromium.org>
 mspencer                = Michael J. Spencer <bigcheesegs@gmail.com>
+mssimpso                = Matthew Simpson <mssimpso@codeaurora.org>
 mvillmow                = Micah Villmow <villmow@gmail.com>
 myatsina                = Marina Yatsina <marina.yatsina@intel.com>
 mzolotukhin             = Michael Zolotukhin <mzolotukhin@apple.com>
