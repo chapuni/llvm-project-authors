@@ -71,6 +71,7 @@ axel                    = Axel Naumann <Axel.Naumann@cern.ch>
 axw                     = Andrew Wilkins <axwalk@gmail.com>
 ayartsev                = Anton Yartsev <anton.yartsev@gmail.com>
 azanella                = Adhemerval Zanella <adhemerval.zanella@linaro.org>
+bader                   = Alexey Bader <aleksey.bader@mail.ru>
 baldrick                = Duncan Sands <baldrick@free.fr>
 bcahoon                 = Brendon Cahoon <bcahoon@codeaurora.org>
 ben                     = Ben Laurie <benl@google.com>
