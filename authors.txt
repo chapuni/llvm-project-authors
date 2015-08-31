@@ -349,6 +349,7 @@ krasin                  = Ivan Krasin <krasin@chromium.org>
 kremenek                = Ted Kremenek <kremenek@apple.com>
 krj                     = Kovarththanan Rajaratnam <kovarththanan.rajaratnam@gmail.com>
 kromanova               = Ekaterina Romanova <katya_romanova@playstation.sony.com>
+kschimpf                = Karl Schimpf <kschimpf@google.com>
 kuba                    = Jakub Staszak <kubastaszak@gmail.com>
 kuba.brecka             = Kuba Brecka <kuba.brecka@gmail.com>
 kwalker                 = Keith Walker <kwalker@arm.com>
