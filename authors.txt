@@ -318,6 +318,7 @@ jsjodin                 = Jan Sjödin <jan_sjodin@yahoo.com>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
 jtsoftware              = John Thompson <John.Thompson.JTSoftware@gmail.com>
 jugu                    = Junjie Gu <jgu222@gmail.com>
+junbuml                 = Jun Bum Lim <junbuml@codeaurora.org>
 jush                    = Jush Lu <jush.msn@gmail.com>
 jverma                  = Jyotsna Verma <jverma@codeaurora.org>
 jvesely                 = Jan Vesely <jan.vesely@rutgers.edu>
