@@ -353,6 +353,7 @@ kromanova               = Ekaterina Romanova <katya_romanova@playstation.sony.co
 kschimpf                = Karl Schimpf <kschimpf@google.com>
 kuba                    = Jakub Staszak <kubastaszak@gmail.com>
 kuba.brecka             = Kuba Brecka <kuba.brecka@gmail.com>
+kuhar                   = Jakub Kuderski <jakub.kuderski@arm.com>
 kwalker                 = Keith Walker <kwalker@arm.com>
 labath                  = Pavel Labath <labath@google.com>
 lantictac               = Will Wilson <will@indefiant.com>
