@@ -342,6 +342,7 @@ ki.stfu                 = Ilia K <ki.stfu@gmail.com>
 kjdyck                  = Ken Dyck <kd@kendyck.com>
 kkhoo                   = Kay Tiong Khoo <kkhoo@perfwizard.com>
 kledzik                 = Nick Kledzik <kledzik@apple.com>
+kli                     = Kelvin Li <kkwli0@gmail.com>
 klimek                  = Manuel Klimek <klimek@google.com>
 kongyi                  = Yi Kong <Yi.Kong@arm.com>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
