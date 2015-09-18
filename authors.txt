@@ -368,6 +368,7 @@ lenny                   = Lenny Maiorani <lenny@colorado.edu>
 lhames                  = Lang Hames <lhames@gmail.com>
 lifted                  = Roman Kashitsyn <romankashicin@gmail.com>
 lkholodov               = Leny Kholodov <lkholodov@accesssoftek.com>
+llarson                 = Luke Larson <llarson@apple.com>
 llunak                  = Lubos Lunak <l.lunak@centrum.cz>
 llvm                    = llvm <nothing@nowhere.org>
 logan                   = Logan Chien <tzuhsiang.chien@gmail.com>
