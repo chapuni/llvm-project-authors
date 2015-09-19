@@ -378,6 +378,7 @@ luqmana                 = Luqman Aden <me@luqman.ca>
 lvoufo                  = Larisse Voufo <lvoufo@google.com>
 mahesha                 = Mahesha S <mahesha.llvm@gmail.com>
 majnemer                = David Majnemer <david.majnemer@gmail.com>
+maks                    = Maksim Panchenko <maks@fb.com>
 mareko                  = Marek Olsak <marek.olsak@amd.com>
 marshall                = Marshall Clow <mclow.lists@gmail.com>
 martell                 = Martell Malone <martellmalone@gmail.com>
