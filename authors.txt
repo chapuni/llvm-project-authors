@@ -117,6 +117,7 @@ chying                  = Ying Chen <chying@google.com>
 ckoenig                 = Christian Konig <christian.koenig@amd.com>
 clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
 clchiou                 = Che-Liang Chiou <clchiou@gmail.com>
+clockman                = Piotr Zegar <me@piotrzegar.pl>
 cmatthews               = Chris Matthews <cmatthews5@apple.com>
 colinl                  = Colin LeMahieu <colinl@codeaurora.org>
 compnerd                = Saleem Abdulrasool <compnerd@compnerd.org>
