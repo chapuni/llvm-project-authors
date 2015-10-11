@@ -402,6 +402,7 @@ meheff                  = Mark Heffernan <meheff@google.com>
 meinersbur              = Michael Kruse <llvm@meinersbur.de>
 mfleming                = Matt Fleming <matt@console-pimps.org>
 mg11                    = Matthew Gardiner <mg11@csr.com>
+mgehre                  = Matthias Gehre <M.Gehre@gmx.de>
 mggm                    = Marcello Maggioni <hayarms@gmail.com>
 mgottesman              = Michael Gottesman <mgottesman@apple.com>
 mikem                   = mike-m <mikem.llvm@gmail.com>
