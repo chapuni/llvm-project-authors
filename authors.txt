@@ -655,6 +655,7 @@ ywu                     = Yuchen Wu <yuchenericwu@hotmail.com>
 zaks                    = Anna Zaks <ganna@apple.com>
 zansari                 = Zia Ansari <zia.ansari@intel.com>
 zarzycki                = Dave Zarzycki <zarzycki@apple.com>
+zbuljan                 = Zlatko Buljan <Zlatko.Buljan@imgtec.com>
 zer0                    = Puyan Lotfi <puyan@puyan.org>
 zhongxingxu             = Zhongxing Xu <xuzhongxing@foxmail.com>
 zinovy.nis              = Zinovy Nis <zinovy.nis@gmail.com>
