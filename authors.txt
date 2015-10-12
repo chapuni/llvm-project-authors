@@ -1,6 +1,7 @@
 AaronBallman            = Aaron Ballman <aaron@aaronballman.com>
 Bhushan.Attarde         = Bhushan D. Attarde <Bhushan.Attarde@imgtec.com>
 TNorthover              = Tim Northover <Tim.Northover@arm.com>
+aaboud                  = Amjad Aboud <amjad.aboud@intel.com>
 aadg                    = Arnaud A. de Grandmaison <arnaud.degrandmaison@arm.com>
 aaronballman            = Aaron Ballman <aaron@aaronballman.com>
 ab                      = Ahmed Bougacha <ahmed.bougacha@gmail.com>
