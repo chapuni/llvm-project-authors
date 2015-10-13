@@ -114,6 +114,7 @@ chfast                  = Pawel Bylica <chfast@gmail.com>
 chh                     = Chih-Hung Hsieh <chh@google.com>
 chp                     = Peng Cheng <gm4cheng@gmail.com>
 chris.wailes            = Chris Wailes <chris.wailes@gmail.com>
+christof                = Christof Douma <Christof.Douma@arm.com>
 chying                  = Ying Chen <chying@google.com>
 ckoenig                 = Christian Konig <christian.koenig@amd.com>
 clamb                   = Christopher Lamb <christopher.lamb@gmail.com>
