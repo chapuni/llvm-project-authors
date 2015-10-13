@@ -195,6 +195,7 @@ emaste                  = Ed Maste <emaste@freebsd.org>
 emenezes                = Evandro Menezes <emenezes@codeaurora.org>
 enderby                 = Kevin Enderby <enderby@apple.com>
 enea                    = Enea Zaffanella <zaffanella@cs.unipr.it>
+enlight                 = Vadim Macagon <vadim.macagon@gmail.com>
 enrico                  = Enrico Granata <egranata@apple.com>
 ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
 epertoso                = Enrico Pertoso <epertoso@google.com>
