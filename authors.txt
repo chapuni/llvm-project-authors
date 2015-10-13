@@ -147,6 +147,7 @@ david.xu                = David Xu <David.Xu@arm.com>
 david_goodwin           = David Goodwin <david_goodwin@apple.com>
 davide                  = Davide Italiano <davide@freebsd.org>
 davidtweed              = David Tweed <david.tweed@arm.com>
+davidxl                 = Xinliang David Li <davidxl@google.com>
 dblaikie                = David Blaikie <dblaikie@gmail.com>
 dcoughlin               = Devin Coughlin <dcoughlin@apple.com>
 ddean                   = David Dean <david_dean@apple.com>
