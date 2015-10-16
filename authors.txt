@@ -207,6 +207,7 @@ escha                   = Fiona Glaser <escha@apple.com>
 eschnett                = Erik Schnetter <schnetter@gmail.com>
 eszasip                 = Szabolcs Sipos <szabolcs.sipos@ericsson.com>
 ether                   = Hongbin Zheng <etherzhhb@gmail.com>
+eugenezelenko           = Eugene Zelenko <eugene.zelenko@gmail.com>
 eugenis                 = Evgeniy Stepanov <eugeni.stepanov@gmail.com>
 evancheng               = Evan Cheng <evan.cheng@apple.com>
 evanphx                 = Evan Phoenix <evan@fallingsnow.net>
