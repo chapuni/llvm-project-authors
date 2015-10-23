@@ -451,6 +451,7 @@ nwilson                 = Nathan Wilson <nwilson20@gmail.com>
 ofv                     = Oscar Fuentes <ofv@wanadoo.es>
 ogoffart                = Olivier Goffart <ogoffart@woboq.com>
 ohsallen                = Olivier Sallenave <ohsallen@us.ibm.com>
+oleg                    = Oleg Ranevskyy <oranevskyy@accesssoftek.com>
 olesalscheider          = Niels Ole Salscheider <niels_ole@salscheider-online.de>
 olista01                = Oliver Stannard <oliver.stannard@arm.com>
 oliver                  = Oliver Hunt <oliver@apple.com>
