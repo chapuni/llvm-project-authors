@@ -567,6 +567,7 @@ silvas                  = Sean Silva <chisophugis@gmail.com>
 simbuerg                = Andreas Simbuerger <simbuerg@fim.uni-passau.de>
 sirish                  = Sirish Pande <spande@codeaurora.org>
 sivachandra             = Siva Chandra <sivachandra@google.com>
+skalinichev             = Sergey Kalinichev <kalinichev.so.0@gmail.com>
 slarin                  = Sergei Larin <slarin@codeaurora.org>
 sliao                   = Shih-wei Liao <sliao@google.com>
 slingn                  = Nathan Slingerland <slingn@gmail.com>
