@@ -81,6 +81,7 @@ ben                     = Ben Laurie <benl@google.com>
 benholt                 = Ben Holt <bjh@apple.com>
 benjamin                = Benjamin Poulain <benjamin@webkit.org>
 benlangmuir             = Ben Langmuir <blangmuir@apple.com>
+betulb                  = Betul Buyukkurt <betulb@codeaurora.org>
 bfoster                 = Benjamin Foster <benjamin.foster@arm.com>
 bhushan.attarde         = Bhushan D. Attarde <Bhushan.Attarde@imgtec.com>
 blaine                  = Blaine Garst <blaine@apple.com>
