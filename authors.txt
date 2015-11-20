@@ -610,6 +610,7 @@ tfiala                  = Todd Fiala <todd.fiala@gmail.com>
 theraven                = David Chisnall <csdavec@swan.ac.uk>
 tilmann                 = Tilmann Scheller <t.scheller@samsung.com>
 timurrrr                = Timur Iskhodzhanov <timurrrr@google.com>
+tinti                   = Vinicius Tinti <viniciustinti@gmail.com>
 tlinth                  = Tony Linthicum <tlinth@codeaurora.org>
 tmroeder                = Tom Roeder <tmroeder@google.com>
 tnorthover              = Tim Northover <tnorthover@apple.com>
