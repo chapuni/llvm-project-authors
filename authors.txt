@@ -477,6 +477,7 @@ petarj                  = Petar Jovanovic <petar.jovanovic@imgtec.com>
 pete                    = Pete Cooper <peter_cooper@apple.com>
 petr.pavlu              = Petr Pavlu <petr.pavlu@arm.com>
 pgavlin                 = Pat Gavlin <pagavlin@microsoft.com>
+pgousseau               = Pierre Gousseau <pierregousseau14@gmail.com>
 pgurd                   = Preston Gurd <preston.gurd@intel.com>
 phosek                  = Petr Hosek <phosek@chromium.org>
 pingbak                 = Scott Michel <scottm@aero.org>
