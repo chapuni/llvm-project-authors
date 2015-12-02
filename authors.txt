@@ -280,6 +280,7 @@ ikudrin                 = Igor Kudrin <ikudrin.dev@gmail.com>
 inolen                  = Anthony Pesch <inolen@gmail.com>
 ismail                  = Ismail Donmez <ismail@i10z.com>
 ismailp                 = Ismail Pazarbasi <ismail.pazarbasi@gmail.com>
+iteratee                = Kyle Butt <kyle+llvm@iteratee.net>
 jabbey                  = Joe Abbey <jabbey@arxan.com>
 jacksprat               = Jack Carter <jack.carter@imgtec.com>
 jamesm                  = James Molloy <james.molloy@arm.com>
