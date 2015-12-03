@@ -203,6 +203,7 @@ enlight                 = Vadim Macagon <vadim.macagon@gmail.com>
 enrico                  = Enrico Granata <egranata@apple.com>
 ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
 epertoso                = Enrico Pertoso <epertoso@google.com>
+eraman                  = Easwaran Raman <eraman@google.com>
 erickt                  = Erick Tryzelaar <idadesub@users.sourceforge.net>
 ericwf                  = Eric Fiselier <eric@efcs.ca>
 erikjv                  = Erik Verbruggen <erikjv@me.com>
