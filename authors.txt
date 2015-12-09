@@ -632,6 +632,7 @@ triton                  = Joao Matos <ripzonetriton@gmail.com>
 tschwinge               = Thomas Schwinge <thomas@schwinge.name>
 tsiou                   = Yiannis Tsiouris <gtsiour@softlab.ntua.gr>
 tstellar                = Tom Stellard <thomas.stellard@amd.com>
+tvvikram                = Vikram TV <vikram.tarikere@gmail.com>
 uweigand                = Ulrich Weigand <ulrich.weigand@de.ibm.com>
 v_klochkov              = Vyacheslav Klochkov <vyacheslav.n.klochkov@gmail.com>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
