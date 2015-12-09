@@ -672,6 +672,7 @@ xmj                     = Mingjie Xing <mingjie.xing@gmail.com>
 xranby                  = Xerxes Ranby <xerxes@zafena.se>
 xur                     = Rong Xu <xur@google.com>
 yabin                   = Yabin Hu <yabin.hwu@gmail.com>
+yabinc                  = Yabin Cui <yabinc@google.com>
 ygao                    = Yunzhong Gao <Yunzhong_Gao@playstation.sony.com>
 ygorshenin              = Yuri Gorshenin <ygorshenin@google.com>
 ygribov                 = Yury Gribov <y.gribov@samsung.com>
