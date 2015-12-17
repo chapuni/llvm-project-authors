@@ -426,6 +426,7 @@ mgottesman              = Michael Gottesman <mgottesman@apple.com>
 mikem                   = mike-m <mikem.llvm@gmail.com>
 mikesart                = Michael Sartain <mikesart@valvesoftware.com>
 milseman                = Michael Ilseman <milseman@apple.com>
+minseongkim             = MinSeong Kim <min.s.kim@samsung.com>
 mjacob                  = Manuel Jacob <me@manueljacob.de>
 mkopec                  = Matt Kopec <Matt.Kopec@intel.com>
 mkuper                  = Michael Kuperstein <michael.m.kuperstein@intel.com>
