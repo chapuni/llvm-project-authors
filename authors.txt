@@ -114,6 +114,7 @@ chapuni                 = NAKAMURA Takumi <geek4civic@gmail.com>
 chatur01                = Charlie Turner <charlie.turner@arm.com>
 chefmax                 = Maxim Ostapenko <m.ostapenko@partner.samsung.com>
 chenli                  = Chen Li <meloli87@gmail.com>
+chfang                  = Changpeng Fang <changpeng.fang@gmail.com>
 chfast                  = Pawel Bylica <chfast@gmail.com>
 chh                     = Chih-Hung Hsieh <chh@google.com>
 chp                     = Peng Cheng <gm4cheng@gmail.com>
