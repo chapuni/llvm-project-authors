@@ -267,6 +267,7 @@ grosbach                = Jim Grosbach <grosbach@apple.com>
 grosser                 = Tobias Grosser <tobias@grosser.es>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
 gvenn                   = Garrison Venn <gvenn.cfe.dev@gmail.com>
+haicheng                = Haicheng Wu <haicheng@codeaurora.org>
 hanm                    = Michael Han <fragmentshaders@gmail.com>
 hanming                 = Han Ming Ong <hanming@apple.com>
 hans                    = Hans Wennborg <hans@hanshq.net>
