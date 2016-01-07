@@ -318,6 +318,7 @@ jketema                 = Jeroen Ketema <j.ketema@imperial.ac.uk>
 jklontz                 = Josh Klontz <josh.klontz@gmail.com>
 jkolek                  = Jozef Kolek <jozef.kolek@imgtec.com>
 jlaskey                 = Jim Laskey <jlaskey@mac.com>
+jlebar                  = Justin Lebar <jlebar@google.com>
 jlerouge                = Julien Lerouge <jlerouge@apple.com>
 jlpeyton                = Jonathan Peyton <jonathan.l.peyton@intel.com>
 jmagee                  = Josh Magee <joshua_magee@playstation.sony.com>
