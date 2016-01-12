@@ -68,6 +68,7 @@ astifter                = Andreas Neustifter <astifter-llvm@gmx.at>
 atanasyan               = Simon Atanasyan <simon@atanasyan.com>
 athirumu                = Ashok Thirumurthi <ashok.thirumurthi@intel.com>
 atrick                  = Andrew Trick <atrick@apple.com>
+aturetsk                = Andrey Turetskiy <andrey.turetskiy@gmail.com>
 awatry                  = Aaron Watry <awatry@gmail.com>
 axel                    = Axel Naumann <Axel.Naumann@cern.ch>
 axw                     = Andrew Wilkins <axwalk@gmail.com>
