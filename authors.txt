@@ -531,6 +531,7 @@ ribrdb                  = Ryan Brown <ribrdb@google.com>
 ributzka                = Juergen Ributzka <juergen@apple.com>
 rich                    = Richard Pennington <rich@pennware.com>
 rikka                   = Kaelyn Takata <rikka@google.com>
+rizsotto                = Laszlo Nagy <rizsotto.mailinglist@gmail.com>
 rjmccall                = John McCall <rjmccall@apple.com>
 rkhasanov               = Robert Khasanov <rob.khasanov@gmail.com>
 rkotler                 = Reed Kotler <rkotler@mips.com>
