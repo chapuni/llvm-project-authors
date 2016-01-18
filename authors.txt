@@ -198,6 +198,7 @@ dylanmckay              = Dylan McKay <dylanmckay34@gmail.com>
 eastig                  = Evgeny Astigeevich <evgeny.astigeevich@arm.com>
 echristo                = Eric Christopher <echristo@gmail.com>
 ed                      = Ed Schouten <ed@nuxi.nl>
+eddyb                   = Eduard Burtescu <edy.burt@gmail.com>
 edwin                   = Torok Edwin <edwintorok@gmail.com>
 eeckstein               = Erik Eckstein <eeckstein@apple.com>
 efriedma                = Eli Friedman <eli.friedman@gmail.com>
