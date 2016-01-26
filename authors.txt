@@ -302,6 +302,7 @@ jasonwkim               = Jason W Kim <jason.w.kim.2009@gmail.com>
 javed.absar             = Javed Absar <javed.absar@arm.com>
 jaydeep                 = Jaydeep Patil <jaydeep.patil@imgtec.com>
 jaykang10               = Jin-Gu Kang <jaykang10@gmail.com>
+jbcoe                   = Jonathan Coe <jbcoe@me.com>
 jddupas                 = Jean-Daniel Dupas <devlists@shadowlab.org>
 jdennett                = James Dennett <jdennett@google.com>
 jdm                     = John Mosby <ojomojo@gmail.com>
