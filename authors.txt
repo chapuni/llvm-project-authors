@@ -422,6 +422,7 @@ matthewbg               = Matt Beaumont-Gay <matthewbg@google.com>
 matthijs                = Matthijs Kooijman <matthijs@stdin.nl>
 matze                   = Matthias Braun <matze@braunis.de>
 mayurp                  = Mayur Pandey <mayur.p@samsung.com>
+mbodart                 = Mitch Bodart <mitch.l.bodart@intel.com>
 mcinally                = Cameron McInally <cameron.mcinally@nyu.edu>
 mcrosier                = Chad Rosier <mcrosier@codeaurora.org>
 mcurtis                 = Matthew Curtis <mcurtis@codeaurora.org>
