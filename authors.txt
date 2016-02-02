@@ -197,6 +197,7 @@ dvyukov                 = Dmitry Vyukov <dvyukov@google.com>
 dwmw2                   = David Woodhouse <dwmw2@infradead.org>
 dyatkovskiy             = Stepan Dyatkovskiy <stpworld@narod.ru>
 dylanmckay              = Dylan McKay <dylanmckay34@gmail.com>
+dzobnin                 = Denis Zobnin <d.zobnin.bugzilla@gmail.com>
 eastig                  = Evgeny Astigeevich <evgeny.astigeevich@arm.com>
 echristo                = Eric Christopher <echristo@gmail.com>
 ed                      = Ed Schouten <ed@nuxi.nl>
