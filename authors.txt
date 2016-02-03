@@ -286,6 +286,7 @@ hhinnant                = Howard Hinnant <hhinnant@apple.com>
 hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 hliao                   = Michael Liao <michael.liao@intel.com>
+hokein                  = Haojian Wu <hokein@google.com>
 hubert.reinterpretcast  = Hubert Tong <hubert.reinterpretcast@gmail.com>
 hvarga                  = Hrvoje Varga <Hrvoje.Varga@imgtec.com>
 iains                   = Iain Sandoe <iain@codesourcery.com>
