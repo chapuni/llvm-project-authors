@@ -188,6 +188,7 @@ dougk                   = Douglas Katzman <dougk@google.com>
 dpatel                  = Devang Patel <dpatel@apple.com>
 dpeixott                = David Peixotto <dpeixott@codeaurora.org>
 dperchik                = Dawn Perchik <dawn@burble.org>
+dpolukhin               = Dmitry Polukhin <dmitry.polukhin@gmail.com>
 drb                     = Dan Bailey <dan@dneg.com>
 dsanders                = Daniel Sanders <daniel.sanders@imgtec.com>
 dschuff                 = Derek Schuff <dschuff@google.com>
