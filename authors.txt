@@ -239,6 +239,7 @@ fcormack                = Fraser Cormack <fraser@codeplay.com>
 filcab                  = Filipe Cabecinhas <me@filcab.net>
 fjahanian               = Fariborz Jahanian <fjahanian@apple.com>
 flackr                  = Robert Flack <flackr@gmail.com>
+flx                     = Felix Berger <flx@google.com>
 flyingforyou            = Junmo Park <junmoz.park@samsung.com>
 foad                    = Jay Foad <jay.foad@gmail.com>
 foldr                   = Mikhail Glushenkov <foldr@codedgers.com>
