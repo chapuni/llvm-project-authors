@@ -455,6 +455,7 @@ mkurdej                 = Marek Kurdej <marek.kurdej@gmail.com>
 mohit.bhakkad           = Mohit K. Bhakkad <mohit.bhakkad@gmail.com>
 morisset                = Robin Morisset <morisset@google.com>
 mpopa                   = Mihai Popa <mihail.popa@gmail.com>
+mps                     = Mike Spertus <mike@spertus.com>
 mren                    = Manman Ren <manman.ren@gmail.com>
 mroth                   = Moritz Roth <moritz.roth@arm.com>
 mrs                     = Mike Stump <mrs@apple.com>
