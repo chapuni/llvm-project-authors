@@ -693,6 +693,7 @@ weimingz                = Weiming Zhao <weimingz@codeaurora.org>
 weinig                  = Sam Weinig <sam.weinig@gmail.com>
 whitequark              = Peter Zotov <whitequark@whitequark.org>
 whunt                   = Warren Hunt <whunt@google.com>
+wilfred                 = Wilfred Hughes <me@wilfred.me.uk>
 willschm                = Will Schmidt <will_schmidt@vnet.ibm.com>
 wilsons                 = Stephen Wilson <wilsons@start.ca>
 wmat                    = Wojciech Matyjewicz <wmatyjewicz@fastmail.fm>
