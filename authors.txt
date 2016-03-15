@@ -496,6 +496,7 @@ olista01                = Oliver Stannard <oliver.stannard@arm.com>
 oliver                  = Oliver Hunt <oliver@apple.com>
 omjavaid                = Omair Javaid <omair.javaid@linaro.org>
 ovyalov                 = Oleksiy Vyalov <ovyalov@google.com>
+pabbar01                = Pablo Barrio <pablo.barrio@arm.com>
 panickal                = Deepak Panickal <deepak@codeplay.com>
 panzer                  = Sam Panzer <espanz@gmail.com>
 papin_g                 = Guillaume Papin <guillaume.papin@epitech.eu>
