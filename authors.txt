@@ -38,6 +38,7 @@ alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
 alp                     = Alp Toker <alp@nuanti.com>
 amaury.dlv              = Amaury de la Vieuville <amaury.dlv@gmail.com>
 amccarth                = Adrian McCarthy <amccarth@google.com>
+amehsan                 = Ehsan Amiri <amehsan@ca.ibm.com>
 amishne                 = Alon Mishne <alon.mishne@intel.com>
 amusman                 = Alexander Musman <alexander.musman@gmail.com>
 andersca                = Anders Carlsson <andersca@mac.com>
