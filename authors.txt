@@ -303,6 +303,7 @@ ibreger                 = Igor Breger <igor.breger@intel.com>
 igor.laevsky            = Igor Laevsky <igmyrj@gmail.com>
 ikudrin                 = Igor Kudrin <ikudrin.dev@gmail.com>
 inolen                  = Anthony Pesch <inolen@gmail.com>
+ioeric                  = Eric Liu <ioeric@google.com>
 ismail                  = Ismail Donmez <ismail@i10z.com>
 ismailp                 = Ismail Pazarbasi <ismail.pazarbasi@gmail.com>
 iteratee                = Kyle Butt <kyle+llvm@iteratee.net>
