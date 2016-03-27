@@ -411,6 +411,7 @@ lattner                 = Chris Lattner <sabre@nondot.org>
 laurov                  = Lauro Ramos Venancio <lauro.venancio@gmail.com>
 lawrence                = Lawrence Hu <lawrence@codeaurora.org>
 lcharles                = Charles Li <charles_li@playstation.sony.com>
+legalize                = Richard Thomson <legalize@xmission.com>
 lenny                   = Lenny Maiorani <lenny@colorado.edu>
 lerochris               = Chris Dewhurst <chris.dewhurst@lero.ie>
 lhames                  = Lang Hames <lhames@gmail.com>
