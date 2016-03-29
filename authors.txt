@@ -406,6 +406,7 @@ kuba                    = Jakub Staszak <kubastaszak@gmail.com>
 kuba.brecka             = Kuba Brecka <kuba.brecka@gmail.com>
 kuhar                   = Jakub Kuderski <jakub.kuderski@arm.com>
 kwalker                 = Keith Walker <kwalker@arm.com>
+kzhuravl                = Konstantin Zhuravlyov <kzhuravl_dev@outlook.com>
 labath                  = Pavel Labath <labath@google.com>
 lantictac               = Will Wilson <will@indefiant.com>
 lattner                 = Chris Lattner <sabre@nondot.org>
