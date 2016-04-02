@@ -274,6 +274,7 @@ gkeiser                 = Gordon Keiser <gkeiser@arxan.com>
 gkistanova              = Galina Kistanova <gkistanova@gmail.com>
 glider                  = Alexander Potapenko <glider@google.com>
 gordon                  = Gordon Henriksen <gordonhenriksen@mac.com>
+gparker                 = Greg Parker <gparker@apple.com>
 gps                     = Gregory Szorc <gregory.szorc@gmail.com>
 greened                 = David Greene <greened@obbligato.org>
 gribozavr               = Dmitri Gribenko <gribozavr@gmail.com>
