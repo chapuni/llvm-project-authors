@@ -673,6 +673,7 @@ timurrrr                = Timur Iskhodzhanov <timurrrr@google.com>
 tinti                   = Vinicius Tinti <viniciustinti@gmail.com>
 tlinth                  = Tony Linthicum <tlinth@codeaurora.org>
 tmroeder                = Tom Roeder <tmroeder@google.com>
+tmsriram                = Sriraman Tallam <tmsriram@google.com>
 tnorthover              = Tim Northover <tnorthover@apple.com>
 tnowicki                = Tyler Nowicki <tyler.nowicki@gmail.com>
 tobiasvk                = Tobias Edler von Koch <tobias@codeaurora.org>
