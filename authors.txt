@@ -57,6 +57,7 @@ arphaman                = Alex Lorenz <arphaman@gmail.com>
 arpith                  = Arpith Chacko Jacob <acjacob@us.ibm.com>
 arsenm                  = Matt Arsenault <Matthew.Arsenault@amd.com>
 artagnon                = Ramkumar Ramachandra <artagnon@gmail.com>
+artem.tamazov           = Artem Tamazov <artem.tamazov@amd.com>
 asbokhan                = Andrey Bokhanko <andreybokhanko@gmail.com>
 ashahid                 = Mohammad Shahid <Asghar-ahmad.Shahid@amd.com>
 ashemer                 = Anat Shemer <anat.shemer@intel.com>
