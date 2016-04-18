@@ -638,6 +638,7 @@ snaroff                 = Steve Naroff <snaroff@apple.com>
 socantre                = Seth Cantrell <seth.cantrell@gmail.com>
 sonamkumari             = Sonam Kumari <sonam.kumari@samsung.com>
 spatel                  = Sanjay Patel <spatel@rotateright.com>
+spetrovic               = Strahinja Petrovic <strahinja.petrovic@rt-rk.com>
 spop                    = Sebastian Pop <spop@codeaurora.org>
 spucci                  = Steve Pucci <spucci@google.com>
 spyffe                  = Sean Callanan <scallanan@apple.com>
