@@ -246,6 +246,7 @@ fangism                 = David Fang <fang@csl.cornell.edu>
 fcormack                = Fraser Cormack <fraser@codeplay.com>
 filcab                  = Filipe Cabecinhas <me@filcab.net>
 fjahanian               = Fariborz Jahanian <fjahanian@apple.com>
+fjricci                 = Francis Ricci <francisjricci@gmail.com>
 flackr                  = Robert Flack <flackr@gmail.com>
 flx                     = Felix Berger <flx@google.com>
 flyingforyou            = Junmo Park <junmoz.park@samsung.com>
