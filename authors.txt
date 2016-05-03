@@ -525,6 +525,7 @@ patha                   = Patrik Hagglund <patrik.h.hagglund@ericsson.com>
 patjenk                 = Patrick Jenkins <pjenkins@apple.com>
 paulherman              = Paul Herman <paulherman@google.com>
 pawel                   = Pawel Wodnicki <pawel@32bitmicro.com>
+pawosm01                = Paul Osmialowski <pawel.osmialowski@arm.com>
 pcbeard                 = Patrick Beard <pcbeard@mac.com>
 pcc                     = Peter Collingbourne <peter@pcc.me.uk>
 pdox                    = David Meyer <pdox@google.com>
