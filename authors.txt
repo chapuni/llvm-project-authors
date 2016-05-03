@@ -428,6 +428,7 @@ lenny                   = Lenny Maiorani <lenny@colorado.edu>
 lerochris               = Chris Dewhurst <chris.dewhurst@lero.ie>
 lhames                  = Lang Hames <lhames@gmail.com>
 lifted                  = Roman Kashitsyn <romankashicin@gmail.com>
+liu12295                = Jack Liu <jack.liu@intel.com>
 lkholodov               = Leny Kholodov <lkholodov@accesssoftek.com>
 llarson                 = Luke Larson <llarson@apple.com>
 llunak                  = Lubos Lunak <l.lunak@centrum.cz>
