@@ -656,6 +656,7 @@ srking                  = Steve King <steve@metrokings.com>
 ssen                    = Shantonu Sen <ssen@apple.com>
 ssrivastava             = Sunil Srivastava <sunil_srivastava@playstation.sony.com>
 sstankovic              = Sasa Stankovic <Sasa.Stankovic@imgtec.com>
+staronj                 = Jakub Staron <staron.jk@gmail.com>
 stephant                = Stephan Tolksdorf <st@quanttec.com>
 stephenwlin             = Stephen Lin <stephenwlin@gmail.com>
 steven_watanabe         = Steven Watanabe <steven@providere-consulting.com>
