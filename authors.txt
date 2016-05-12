@@ -106,6 +106,7 @@ bsteinbr                = Bjorn Steinbrink <bsteinbr@gmail.com>
 bubbles231              = Arthur Marble <arthur@info9.net>
 buschard                = Cameron Buschardt <buschard@uiuc.edu>
 bwilson                 = Bob Wilson <bob.wilson@apple.com>
+cameron314              = Cameron Desrochers <cameron@moodycamel.com>
 carl                    = Carl Norum <carl.norum@apple.com>
 carlokok                = Carlo Kok <ck@remobjects.com>
 carrot                  = Guozhi Wei <carrot@google.com>
