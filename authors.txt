@@ -551,6 +551,7 @@ prazek                  = Piotr Padlewski <piotr.padlewski@gmail.com>
 predmond                = Paul Redmond <paul.redmond@intel.com>
 prestonbriggs           = Preston Briggs <preston.briggs@gmail.com>
 probinson               = Paul Robinson <paul.robinson@sony.com>
+psmith                  = Peter Smith <peter.smith@linaro.org>
 pvchupin                = Pavel Chupin <pavel.v.chupin@intel.com>
 pxl                     = Xiuli Pan <xiulipan@outlook.com>
 qcolombet               = Quentin Colombet <qcolombet@apple.com>
