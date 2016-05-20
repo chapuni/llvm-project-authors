@@ -590,6 +590,7 @@ romix                   = Roman Levenstein <romix.llvm@googlemail.com>
 ronl                    = Ron Lieberman <ronl@codeaurora.org>
 rono                    = Ron Ofir <ron.ofir@gmail.com>
 root                    = root <nothing@nowhere.org>
+rovka                   = Diana Picus <diana.picus@linaro.org>
 row                     = Robert Wilhelm <robert.wilhelm@gmx.net>
 rrelph                  = Richard Relph <Richard.Relph@amd.com>
 rsandifo                = Richard Sandiford <rsandifo@linux.vnet.ibm.com>
