@@ -732,6 +732,7 @@ wala                    = Matt Wala <wala@google.com>
 wan                     = Zhanyong Wan <wan@google.com>
 wangmp                  = Mon P Wang <wangmp@apple.com>
 wdietz2                 = Will Dietz <wdietz2@illinois.edu>
+wdng                    = Wei Ding <wei.ding2@amd.com>
 weimingz                = Weiming Zhao <weimingz@codeaurora.org>
 weinig                  = Sam Weinig <sam.weinig@gmail.com>
 whitequark              = Peter Zotov <whitequark@whitequark.org>
