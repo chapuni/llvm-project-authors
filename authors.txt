@@ -142,6 +142,7 @@ conghou                 = Cong Hou <congh@google.com>
 congliu                 = Cong Liu <congliu@google.com>
 coppro                  = Sean Hunt <scshunt@csclub.uwaterloo.ca>
 cornedbee               = Sebastian Redl <sebastian.redl@getdesigned.at>
+courbet                 = Clement Courbet <courbet@google.com>
 cpirker                 = Christian Pirker <cpirker@a-bix.com>
 cray                    = Chris Ray <cray@arxan.com>
 cristian.zamfir         = Cristian Zamfir <cristian.zamfir@epfl.ch>
