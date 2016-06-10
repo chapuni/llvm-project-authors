@@ -590,6 +590,7 @@ rlytton                 = Robert Lytton <robert@xmos.com>
 rmitton                 = Richard Mitton <richard@codersnotes.com>
 rnk                     = Reid Kleckner <rnk@google.com>
 rogfer01                = Roger Ferrer Ibanez <roger.ferreribanez@arm.com>
+roman.shirokiy          = Roman Shirokiy <shirokiyroman@yandex.ru>
 romangareev             = Roman Gareev <gareevroman@gmail.com>
 romix                   = Roman Levenstein <romix.llvm@googlemail.com>
 ronl                    = Ron Lieberman <ronl@codeaurora.org>
