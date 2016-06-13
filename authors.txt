@@ -773,6 +773,7 @@ zer0                    = Puyan Lotfi <puyan@puyan.org>
 zhanjunl                = Zhan Jun Liau <zhanjunl@ca.ibm.com>
 zhaoqin                 = Qin Zhao <zhaoqin@google.com>
 zhongxingxu             = Zhongxing Xu <xuzhongxing@foxmail.com>
+zijiaoma                = Zijiao Ma <jojo.ma@linaro.org>
 zinovy.nis              = Zinovy Nis <zinovy.nis@gmail.com>
 zjovanovic              = Zoran Jovanovic <zoran.jovanovic@imgtec.com>
 zonr                    = Zonr Chang <zonr.xchg@gmail.com>
