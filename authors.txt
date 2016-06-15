@@ -536,6 +536,7 @@ pcbeard                 = Patrick Beard <pcbeard@mac.com>
 pcc                     = Peter Collingbourne <peter@pcc.me.uk>
 pdox                    = David Meyer <pdox@google.com>
 peckw                   = Wesley Peck <peckw@wesleypeck.com>
+penryu                  = Tim Hammerquist <penryu@apple.com>
 petarj                  = Petar Jovanovic <petar.jovanovic@imgtec.com>
 pete                    = Pete Cooper <peter_cooper@apple.com>
 petr.pavlu              = Petr Pavlu <petr.pavlu@arm.com>
