@@ -137,6 +137,7 @@ clchiou                 = Che-Liang Chiou <clchiou@gmail.com>
 clockman                = Piotr Zegar <me@piotrzegar.pl>
 cmatthews               = Chris Matthews <cmatthews5@apple.com>
 colinl                  = Colin LeMahieu <colinl@codeaurora.org>
+colpell                 = Elliot Colp <colpell@ca.ibm.com>
 compnerd                = Saleem Abdulrasool <compnerd@compnerd.org>
 conghou                 = Cong Hou <congh@google.com>
 congliu                 = Cong Liu <congliu@google.com>
