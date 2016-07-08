@@ -409,6 +409,7 @@ kkhoo                   = Kay Tiong Khoo <kkhoo@perfwizard.com>
 kledzik                 = Nick Kledzik <kledzik@apple.com>
 kli                     = Kelvin Li <kkwli0@gmail.com>
 klimek                  = Manuel Klimek <klimek@google.com>
+kmensah                 = Kwasi Mensah <kmensah@google.com>
 kongyi                  = Yi Kong <Yi.Kong@arm.com>
 koriakin                = Marcin Koscielnicki <koriakin@0x04.net>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
