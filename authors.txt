@@ -169,6 +169,7 @@ davide                  = Davide Italiano <davide@freebsd.org>
 davidtweed              = David Tweed <david.tweed@arm.com>
 davidxl                 = Xinliang David Li <davidxl@google.com>
 dbartol                 = Dave Bartolomeo <dbartol@microsoft.com>
+dberris                 = Dean Michael Berris <dberris@google.com>
 dblaikie                = David Blaikie <dblaikie@gmail.com>
 dcoughlin               = Devin Coughlin <dcoughlin@apple.com>
 ddean                   = David Dean <david_dean@apple.com>
