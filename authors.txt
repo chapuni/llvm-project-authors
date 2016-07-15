@@ -512,6 +512,7 @@ nicholas                = Nick Lewycky <nicholas@mxc.ca>
 nico                    = Nico Weber <nicolasweber@gmx.de>
 nikola                  = Nikola Smiljanic <popizdeh@gmail.com>
 niravd                  = Nirav Dave <niravd@google.com>
+nitesh.jain             = Nitesh Jain <nitesh.jain@imgtec.com>
 njeffords               = Nathan Jeffords <blunted2night@gmail.com>
 nkeynes                 = Nathan Keynes <nkeynes@deadcoderemoval.net>
 nlopes                  = Nuno Lopes <nunoplopes@sapo.pt>
