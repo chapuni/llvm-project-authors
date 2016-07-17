@@ -295,6 +295,7 @@ grimar                  = George Rimar <grimar@accesssoftek.com>
 grosbach                = Jim Grosbach <grosbach@apple.com>
 grosser                 = Tobias Grosser <tobias@grosser.es>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
+guyblank                = Guy Blank <guy.blank@intel.com>
 gvenn                   = Garrison Venn <gvenn.cfe.dev@gmail.com>
 hahnfeld                = Jonas Hahnfeld <Hahnfeld@itc.rwth-aachen.de>
 haicheng                = Haicheng Wu <haicheng@codeaurora.org>
