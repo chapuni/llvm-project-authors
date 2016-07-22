@@ -773,6 +773,7 @@ yaxunl                  = Yaxun Liu <Yaxun.Liu@amd.com>
 ygao                    = Yunzhong Gao <Yunzhong.Gao@sony.com>
 ygorshenin              = Yuri Gorshenin <ygorshenin@google.com>
 ygribov                 = Yury Gribov <y.gribov@samsung.com>
+yingyi                  = Ying Yi <maggieyi666@gmail.com>
 yjiang                  = Yi Jiang <yjiang@apple.com>
 yrnkrn                  = Yaron Keren <yaron.keren@gmail.com>
 yulin                   = Yuan Lin <yulin@nvidia.com>
