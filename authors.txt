@@ -563,6 +563,7 @@ pizza                   = Ryan Flynn <pizza@parseerror.com>
 pjaaskel                = Pekka Jaaskelainen <pekka.jaaskelainen@tut.fi>
 pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
 poiru                   = Birunthan Mohanathas <birunthan@mohanathas.com>
+prakhar                 = Prakhar Bahuguna <prakhar.bahuguna@arm.com>
 pranavb                 = Pranav Bhandarkar <pranavb@codeaurora.org>
 prazek                  = Piotr Padlewski <piotr.padlewski@gmail.com>
 predmond                = Paul Redmond <paul.redmond@intel.com>
