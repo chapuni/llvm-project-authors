@@ -164,6 +164,7 @@ danielmarjamaki         = Daniel Marjamaki <daniel.marjamaki@evidente.se>
 danil                   = Danil Malyshev <dmalyshev@accesssoftek.com>
 dannyb                  = Daniel Berlin <dberlin@dberlin.org>
 david.xu                = David Xu <David.Xu@arm.com>
+david2050               = David Callahan <dcallahan@fb.com>
 david_goodwin           = David Goodwin <david_goodwin@apple.com>
 davide                  = Davide Italiano <davide@freebsd.org>
 davidtweed              = David Tweed <david.tweed@arm.com>
