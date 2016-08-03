@@ -286,6 +286,7 @@ ggreif                  = Gabor Greif <ggreif@gmail.com>
 ghoflehner              = Gerolf Hoflehner <ghoflehner@apple.com>
 ghost                   = Vladimir Prus <ghost@cs.msu.su>
 gigabytes               = Nicola Gigante <nicola.gigante@gmail.com>
+gilr                    = Gil Rapaport <gil.rapaport@intel.com>
 gkeiser                 = Gordon Keiser <gkeiser@arxan.com>
 gkistanova              = Galina Kistanova <gkistanova@gmail.com>
 glider                  = Alexander Potapenko <glider@google.com>
