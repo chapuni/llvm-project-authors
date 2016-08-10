@@ -452,6 +452,7 @@ llunak                  = Lubos Lunak <l.lunak@centrum.cz>
 llvm                    = llvm <nothing@nowhere.org>
 logan                   = Logan Chien <tzuhsiang.chien@gmail.com>
 louis                   = Louis Gerbarg <lgg@apple.com>
+lsaba                   = Lama Saba <lama.saba@intel.com>
 lukecheeseman           = Luke Cheeseman <luke.cheeseman@arm.com>
 luqmana                 = Luqman Aden <me@luqman.ca>
 lvoufo                  = Larisse Voufo <lvoufo@google.com>
