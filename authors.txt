@@ -316,6 +316,7 @@ hernande                = Victor Hernandez <vhernandez@apple.com>
 hfinkel                 = Hal Finkel <hfinkel@anl.gov>
 hhellyer                = Howard Hellyer <hhellyer@uk.ibm.com>
 hhinnant                = Howard Hinnant <hhinnant@apple.com>
+hiraditya               = Aditya Kumar <hiraditya@msn.com>
 hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 hliao                   = Michael Liao <michael.liao@intel.com>
