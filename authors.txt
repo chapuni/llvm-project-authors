@@ -230,6 +230,7 @@ edwin                   = Torok Edwin <edwintorok@gmail.com>
 eeckstein               = Erik Eckstein <eeckstein@apple.com>
 efriedma                = Eli Friedman <efriedma@codeaurora.org>
 ehsan                   = Ehsan Akhgari <ehsan.akhgari@gmail.com>
+eladcohen               = Elad Cohen <elad2.cohen@intel.com>
 eliben                  = Eli Bendersky <eliben@google.com>
 emaste                  = Ed Maste <emaste@freebsd.org>
 emenezes                = Evandro Menezes <emenezes@codeaurora.org>
