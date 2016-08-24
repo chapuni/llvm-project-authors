@@ -21,6 +21,7 @@ adrobiso                = Arch D. Robison <arch.robison@intel.com>
 aemerson                = Amara Emerson <amara.emerson@arm.com>
 agutowski               = Albert Gutowski <agutowski@google.com>
 ahatanak                = Akira Hatanaka <ahatanaka@apple.com>
+aheejin                 = Heejin Ahn <aheejin@gmail.com>
 aidandodds              = Aidan Dodds <aidan@codeplay.com>
 aizatsky                = Mike Aizatsky <aizatsky@chromium.org>
 ajbernal                = Ariel J. Bernal <ariel.j.bernal@intel.com>
