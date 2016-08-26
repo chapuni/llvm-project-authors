@@ -333,6 +333,7 @@ iajbar                  = Ikhlas Ajbar <iajbar@codeaurora.org>
 ibreger                 = Igor Breger <igor.breger@intel.com>
 igor.laevsky            = Igor Laevsky <igmyrj@gmail.com>
 ikudrin                 = Igor Kudrin <ikudrin.dev@gmail.com>
+inglorion               = Bob Haarman <llvm@inglorion.net>
 inolen                  = Anthony Pesch <inolen@gmail.com>
 ioeric                  = Eric Liu <ioeric@google.com>
 ismail                  = Ismail Donmez <ismail@i10z.com>
