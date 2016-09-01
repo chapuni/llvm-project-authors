@@ -325,6 +325,7 @@ hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 hliao                   = Michael Liao <michael.liao@intel.com>
 hokein                  = Haojian Wu <hokein@google.com>
+honggyu.kim             = Honggyu Kim <hong.gyu.kim@lge.com>
 hsung                   = Hyojin Sung <hsung@us.ibm.com>
 hubert.reinterpretcast  = Hubert Tong <hubert.reinterpretcast@gmail.com>
 hvarga                  = Hrvoje Varga <Hrvoje.Varga@imgtec.com>
