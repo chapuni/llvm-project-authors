@@ -748,6 +748,7 @@ uweigand                = Ulrich Weigand <ulrich.weigand@de.ibm.com>
 v_klochkov              = Vyacheslav Klochkov <vyacheslav.n.klochkov@gmail.com>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 vaivaswatha             = Vaivaswatha Nagaraj <vn@compilertree.com>
+valentinagiusti         = Valentina Giusti <valentina.giusti@intel.com>
 vedantk                 = Vedant Kumar <vsk@apple.com>
 venet                   = Cedric Venet <cedric.venet@laposte.net>
 venkatra                = Venkatraman Govindaraju <venkatra@cs.wisc.edu>
