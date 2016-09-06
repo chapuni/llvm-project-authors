@@ -758,6 +758,7 @@ villmow                 = Micah Villmow <villmow@gmail.com>
 vitalybuka              = Vitaly Buka <vitalybuka@google.com>
 vkalintiris             = Vasileios Kalintiris <Vasileios.Kalintiris@imgtec.com>
 vkutuzov                = Viktor Kutuzov <vkutuzov@accesssoftek.com>
+vleschuk                = Victor Leschuk <vleschuk@accesssoftek.com>
 vljn                    = Vincent Lejeune <vljn@ovi.com>
 vmedic                  = Vladimir Medic <Vladimir.Medic@imgtec.com>
 vmiklos                 = Miklos Vajna <vmiklos@vmiklos.hu>
