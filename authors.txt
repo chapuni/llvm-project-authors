@@ -307,6 +307,7 @@ gps                     = Gregory Szorc <gregory.szorc@gmail.com>
 greened                 = David Greene <greened@obbligato.org>
 gribozavr               = Dmitri Gribenko <gribozavr@gmail.com>
 grimar                  = George Rimar <grimar@accesssoftek.com>
+grokos                  = George Rokos <grokos@us.ibm.com>
 grosbach                = Jim Grosbach <grosbach@apple.com>
 grosser                 = Tobias Grosser <tobias@grosser.es>
 gshi1                   = Guochun Shi <gshi1@uiuc.edu>
