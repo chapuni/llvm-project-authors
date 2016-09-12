@@ -687,6 +687,7 @@ sliao                   = Shih-wei Liao <sliao@google.com>
 slingn                  = Nathan Slingerland <slingn@gmail.com>
 slthakur                = Sagar Thakur <sagar.thakur@imgtec.com>
 smatveev                = Sergey Matveev <earthdok@google.com>
+smeenai                 = Shoaib Meenai <smeenai@fb.com>
 snaroff                 = Steve Naroff <snaroff@apple.com>
 socantre                = Seth Cantrell <seth.cantrell@gmail.com>
 sonamkumari             = Sonam Kumari <sonam.kumari@samsung.com>
