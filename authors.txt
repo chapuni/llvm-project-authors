@@ -497,6 +497,7 @@ mfleming                = Matt Fleming <matt@console-pimps.org>
 mg11                    = Matthew Gardiner <mg11@csr.com>
 mgehre                  = Matthias Gehre <M.Gehre@gmx.de>
 mggm                    = Marcello Maggioni <hayarms@gmail.com>
+mgorny                  = Michal Gorny <mgorny@gentoo.org>
 mgottesman              = Michael Gottesman <mgottesman@apple.com>
 mgrang                  = Mandeep Singh Grang <mgrang@codeaurora.org>
 mikem                   = mike-m <mikem.llvm@gmail.com>
