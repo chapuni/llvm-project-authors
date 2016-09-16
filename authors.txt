@@ -530,6 +530,7 @@ nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 nathan                  = Nathan Sidwell <nathan@acm.org>
 neerajbadlani           = Neeraj Badlani <neerajbadlani@gmail.com>
 neil                    = Neil Booth <neil@daikokuya.co.uk>
+neil.hickey             = Neil Hickey <neil.hickey@arm.com>
 nemanjai                = Nemanja Ivanovic <nemanja.i.ibm@gmail.com>
 nha                     = Nicolai Haehnle <nhaehnle@gmail.com>
 nhaustov                = Nikolay Haustov <Nikolay.Haustov@amd.com>
