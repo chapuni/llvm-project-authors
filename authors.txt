@@ -463,6 +463,7 @@ lifted                  = Roman Kashitsyn <romankashicin@gmail.com>
 liu12295                = Jack Liu <jack.liu@intel.com>
 lkholodov               = Leny Kholodov <lkholodov@accesssoftek.com>
 llarson                 = Luke Larson <llarson@apple.com>
+lliu0                   = Lei Liu <lei.liu2@windriver.com>
 llunak                  = Lubos Lunak <l.lunak@centrum.cz>
 llvm                    = llvm <nothing@nowhere.org>
 logan                   = Logan Chien <tzuhsiang.chien@gmail.com>
