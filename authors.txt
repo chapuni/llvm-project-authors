@@ -771,6 +771,7 @@ vmedic                  = Vladimir Medic <Vladimir.Medic@imgtec.com>
 vmiklos                 = Miklos Vajna <vmiklos@vmiklos.hu>
 void                    = Bill Wendling <isanbard@gmail.com>
 volkalex                = Alexey Volkov <avolkov.intel@gmail.com>
+volkan                  = Volkan Keles <vkeles@apple.com>
 vpykhtin                = Valery Pykhtin <Valery.Pykhtin@amd.com>
 vsukharev               = Vladimir Sukharev <vladimir.sukharev@arm.com>
 vumansky                = Victor Umansky <victor.umansky@intel.com>
