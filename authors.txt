@@ -176,6 +176,7 @@ david.xu                = David Xu <David.Xu@arm.com>
 david2050               = David Callahan <dcallahan@fb.com>
 david_goodwin           = David Goodwin <david_goodwin@apple.com>
 davide                  = Davide Italiano <davide@freebsd.org>
+davidsh                 = David Sheinkman <davidsheinkman@outlook.com>
 davidtweed              = David Tweed <david.tweed@arm.com>
 davidxl                 = Xinliang David Li <davidxl@google.com>
 dbartol                 = Dave Bartolomeo <dbartol@microsoft.com>
