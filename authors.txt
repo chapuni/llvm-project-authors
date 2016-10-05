@@ -560,6 +560,7 @@ olista01                = Oliver Stannard <oliver.stannard@arm.com>
 oliver                  = Oliver Hunt <oliver@apple.com>
 omjavaid                = Omair Javaid <omair.javaid@linaro.org>
 omtcyfz                 = Kirill Bobyrev <omtcyfz@gmail.com>
+orenb                   = Oren Ben Simhon <oren.ben.simhon@intel.com>
 ovyalov                 = Oleksiy Vyalov <ovyalov@google.com>
 pabbar01                = Pablo Barrio <pablo.barrio@arm.com>
 panickal                = Deepak Panickal <deepak@codeplay.com>
