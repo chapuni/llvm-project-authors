@@ -323,6 +323,7 @@ hanming                 = Han Ming Ong <hanming@apple.com>
 hans                    = Hans Wennborg <hans@hanshq.net>
 haoliu                  = Hao Liu <Hao.Liu@arm.com>
 helloqirun              = Qirun Zhang <helloqirun@gmail.com>
+henric                  = Henric Karlsson <henric.karlsson@ericsson.com>
 hernande                = Victor Hernandez <vhernandez@apple.com>
 hfinkel                 = Hal Finkel <hfinkel@anl.gov>
 hhellyer                = Howard Hellyer <hhellyer@uk.ibm.com>
