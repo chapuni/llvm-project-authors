@@ -707,6 +707,7 @@ spetrovic               = Strahinja Petrovic <strahinja.petrovic@rt-rk.com>
 spop                    = Sebastian Pop <sebpop@gmail.com>
 spucci                  = Steve Pucci <spucci@google.com>
 spyffe                  = Sean Callanan <scallanan@apple.com>
+sqlbyme                 = Mike Edwards <mike@sqlby.me>
 srhines                 = Stephen Hines <srhines@google.com>
 sriram87                = Sriram Murali <sriram87@gmail.com>
 srking                  = Steve King <steve@metrokings.com>
