@@ -479,6 +479,7 @@ madsravn                = Mads Ravn <madsravn@gmail.com>
 mahesha                 = Mahesha S <mahesha.llvm@gmail.com>
 majnemer                = David Majnemer <david.majnemer@gmail.com>
 maks                    = Maksim Panchenko <maks@fb.com>
+malcolm.parsons         = Malcolm Parsons <malcolm.parsons@gmail.com>
 mamai                   = Marianne Mailhot-Sarrasin <marianne.mailhot.sarrasin@gmail.com>
 mareko                  = Marek Olsak <marek.olsak@amd.com>
 marshall                = Marshall Clow <mclow.lists@gmail.com>
