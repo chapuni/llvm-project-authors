@@ -634,6 +634,7 @@ rksimon                 = Simon Pilgrim <llvm-dev@redking.me.uk>
 rlougher                = Robert Lougher <rob.lougher@gmail.com>
 rlytton                 = Robert Lytton <robert@xmos.com>
 rmitton                 = Richard Mitton <richard@codersnotes.com>
+rnchamberlain           = Richard Chamberlain <richard_chamberlain@uk.ibm.com>
 rnk                     = Reid Kleckner <rnk@google.com>
 rogfer01                = Roger Ferrer Ibanez <roger.ferreribanez@arm.com>
 roman.shirokiy          = Roman Shirokiy <shirokiyroman@yandex.ru>
