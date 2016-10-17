@@ -786,6 +786,7 @@ vsukharev               = Vladimir Sukharev <vladimir.sukharev@arm.com>
 vumansky                = Victor Umansky <victor.umansky@intel.com>
 vvassilev               = Vassil Vassilev <v.g.vassilev@gmail.com>
 wala                    = Matt Wala <wala@google.com>
+wallace                 = Walter Erquinigo <a20012251@gmail.com>
 wan                     = Zhanyong Wan <wan@google.com>
 wangmp                  = Mon P Wang <wangmp@apple.com>
 wdietz2                 = Will Dietz <wdietz2@illinois.edu>
