@@ -496,6 +496,7 @@ mboehme                 = Martin Bohme <mboehme@google.com>
 mcinally                = Cameron McInally <cameron.mcinally@nyu.edu>
 mcrosier                = Chad Rosier <mcrosier@codeaurora.org>
 mcurtis                 = Matthew Curtis <mcurtis@codeaurora.org>
+mdlemay                 = Michael LeMay <michael.lemay@intel.com>
 meadori                 = Meador Inge <meadori@codesourcery.com>
 mehdi_amini             = Mehdi Amini <mehdi.amini@apple.com>
 meheff                  = Mark Heffernan <meheff@google.com>
