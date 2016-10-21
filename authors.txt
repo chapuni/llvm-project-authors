@@ -85,6 +85,7 @@ axel                    = Axel Naumann <Axel.Naumann@cern.ch>
 axw                     = Andrew Wilkins <axwalk@gmail.com>
 ayartsev                = Anton Yartsev <anton.yartsev@gmail.com>
 aymanmus                = Ayman Musa <ayman.musa@intel.com>
+az                      = Abderrazek Zaafrani <a.zaafrani@samsung.com>
 azanella                = Adhemerval Zanella <adhemerval.zanella@linaro.org>
 bader                   = Alexey Bader <aleksey.bader@mail.ru>
 baldrick                = Duncan Sands <baldrick@free.fr>
