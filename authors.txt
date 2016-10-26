@@ -122,6 +122,7 @@ cameron314              = Cameron Desrochers <cameron@moodycamel.com>
 carl                    = Carl Norum <carl.norum@apple.com>
 carlokok                = Carlo Kok <ck@remobjects.com>
 carrot                  = Guozhi Wei <carrot@google.com>
+caseycarter             = Casey Carter <Casey@Carter.net>
 cbertol                 = Carlo Bertolli <cbertol@us.ibm.com>
 cbieneman               = Chris Bieneman <beanz@apple.com>
 cdavis                  = Charles Davis <cdavis5x@gmail.com>
