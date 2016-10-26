@@ -11,6 +11,7 @@ abataev                 = Alexey Bataev <a.bataev@hotmail.com>
 abhishek                = Abhishek Aggarwal <abhishek.a.aggarwal@intel.com>
 abidh                   = Hafiz Abid Qadeer <hafiz_abid@mentor.com>
 abolka                  = Andreas Bolka <a@bolka.at>
+abpostelnicu            = Andi-Bogdan Postelnicu <andi@mozilla.com>
 abramo                  = Abramo Bagnara <abramo.bagnara@bugseng.com>
 ace2001ac               = Ahmed Charles <ahmedcharles@gmail.com>
 achurbanov              = Andrey Churbanov <Andrey.Churbanov@intel.com>
