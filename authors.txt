@@ -663,6 +663,7 @@ russell_gallop          = Russell Gallop <russell.gallop@gmail.com>
 s.egerton               = Scott Egerton <Scott.Egerton@imgtec.com>
 sam_parker              = Sam Parker <sam.parker@arm.com>
 sameerds                = Sameer Sahasrabuddhe <sameer@sbuddhe.net>
+sammccall               = Sam McCall <sam.mccall@gmail.com>
 sampo                   = Nate Begeman <natebegeman@mac.com>
 samsonov                = Alexey Samsonov <vonosmas@gmail.com>
 sandeep                 = Sandeep Patel <deeppatel1987@gmail.com>
