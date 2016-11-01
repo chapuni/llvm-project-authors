@@ -252,6 +252,7 @@ ensink                  = Brian Ensink <ensink@cs.uiuc.edu>
 epertoso                = Enrico Pertoso <epertoso@google.com>
 epilk                   = Erik Pilkington <erik.pilkington@gmail.com>
 eraman                  = Easwaran Raman <eraman@google.com>
+erichkeane              = Erich Keane <erich.keane@intel.com>
 erickt                  = Erick Tryzelaar <idadesub@users.sourceforge.net>
 ericwf                  = Eric Fiselier <eric@efcs.ca>
 erikjv                  = Erik Verbruggen <erikjv@me.com>
