@@ -117,6 +117,7 @@ bruno                   = Bruno Cardoso Lopes <bruno.cardoso@gmail.com>
 bryanpkc                = Bryan Chan <bryan.chan@ca.ibm.com>
 bsteinbr                = Bjorn Steinbrink <bsteinbr@gmail.com>
 bubbles231              = Arthur Marble <arthur@info9.net>
+bulasevich              = Boris Ulasevich <boris.ulasevich@gmail.com>
 buschard                = Cameron Buschardt <buschard@uiuc.edu>
 bwilson                 = Bob Wilson <bob.wilson@apple.com>
 cameron314              = Cameron Desrochers <cameron@moodycamel.com>
