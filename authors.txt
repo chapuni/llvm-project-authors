@@ -597,6 +597,7 @@ pgode                   = Pankaj Gode <pankaj.gode@broadcom.com>
 pgousseau               = Pierre Gousseau <pierregousseau14@gmail.com>
 pgurd                   = Preston Gurd <preston.gurd@intel.com>
 phosek                  = Petr Hosek <phosek@chromium.org>
+phst                    = Philipp Stephani <phst@google.com>
 pingbak                 = Scott Michel <scottm@aero.org>
 piotrdz                 = Piotr Dziwinski <piotrdz@gmail.com>
 pirama                  = Pirama Arumuga Nainar <pirama@google.com>
