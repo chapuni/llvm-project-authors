@@ -692,6 +692,7 @@ sehr                    = David Sehr <sehr@google.com>
 sepavloff               = Serge Pavlov <sepavloff@gmail.com>
 seurer                  = Bill Seurer <seurer@linux.vnet.ibm.com>
 sfantao                 = Samuel Antao <sfantao@us.ibm.com>
+sfertile                = Sean Fertile <sfertile@ca.ibm.com>
 sfider                  = Marcin Swiderski <marcin.sfider@gmail.com>
 sgundapa                = Sumanth Gundapaneni <sgundapa@codeaurora.org>
 sgupta                  = Sanjiv Gupta <sanjiv.gupta@microchip.com>
