@@ -201,6 +201,7 @@ delesley                = DeLesley Hutchins <delesley@google.com>
 denis-protivensky       = Denis Protivensky <dprotivensky@accesssoftek.com>
 dergachev               = Artem Dergachev <artem.dergachev@gmail.com>
 dexonsmith              = Duncan P. N. Exon Smith <dexonsmith@apple.com>
+dfukalov                = Daniil Fukalov <daniil.fukalov@amd.com>
 dgregor                 = Douglas Gregor <dgregor@apple.com>
 dgross                  = David Gross <dgross@google.com>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
