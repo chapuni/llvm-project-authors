@@ -191,6 +191,7 @@ davidxl                 = Xinliang David Li <davidxl@google.com>
 dbartol                 = Dave Bartolomeo <dbartol@microsoft.com>
 dberris                 = Dean Michael Berris <dberris@google.com>
 dblaikie                = David Blaikie <dblaikie@gmail.com>
+dcederman               = Daniel Cederman <cederman@gaisler.com>
 dcoughlin               = Devin Coughlin <dcoughlin@apple.com>
 ddcc                    = Dominic Chen <d.c.ddcc@gmail.com>
 ddean                   = David Dean <david_dean@apple.com>
