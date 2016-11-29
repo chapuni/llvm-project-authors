@@ -828,6 +828,7 @@ wmi                     = Wei Mi <wmi@google.com>
 wnewton                 = Will Newton <will.newton@linaro.org>
 wolfgangp               = Wolfgang Pieb <Wolfgang.Pieb@sony.com>
 wpan                    = Wei Pan <wei.pan@intel.com>
+wristow                 = Warren Ristow <warren.ristow@sony.com>
 wschmidt                = Bill Schmidt <wschmidt@linux.vnet.ibm.com>
 xazax                   = Gabor Horvath <xazax.hun@gmail.com>
 xen2                    = Virgile Bello <virgile.bello@gmail.com>
