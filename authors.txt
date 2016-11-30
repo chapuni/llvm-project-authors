@@ -371,6 +371,7 @@ jaykang10               = Jin-Gu Kang <jaykang10@gmail.com>
 jbcoe                   = Jonathan Coe <jbcoe@me.com>
 jddupas                 = Jean-Daniel Dupas <devlists@shadowlab.org>
 jdennett                = James Dennett <jdennett@google.com>
+jdevlieghere            = Jonas Devlieghere <jonas@devlieghere.com>
 jdm                     = John Mosby <ojomojo@gmail.com>
 jdoerfert               = Johannes Doerfert <doerfert@cs.uni-saarland.de>
 jduprat                 = Jean-Luc Duprat <jduprat@apple.com>
