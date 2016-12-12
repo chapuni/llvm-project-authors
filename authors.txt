@@ -537,6 +537,7 @@ mmasten                 = Matt Masten <matt.masten@intel.com>
 modocache               = Brian Gesiak <modocache@gmail.com>
 mohit.bhakkad           = Mohit K. Bhakkad <mohit.bhakkad@gmail.com>
 morisset                = Robin Morisset <morisset@google.com>
+mpividori               = Marcos Pividori <mpividori@google.com>
 mpopa                   = Mihai Popa <mihail.popa@gmail.com>
 mprobst                 = Martin Probst <martin@probst.io>
 mps                     = Mike Spertus <mike@spertus.com>
