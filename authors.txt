@@ -241,6 +241,7 @@ dyung                   = Douglas Yung <douglas.yung@sony.com>
 dzobnin                 = Denis Zobnin <d.zobnin.bugzilla@gmail.com>
 eastig                  = Evgeny Astigeevich <evgeny.astigeevich@arm.com>
 echristo                = Eric Christopher <echristo@gmail.com>
+echuraev                = Egor Churaev <egor.churaev@gmail.com>
 ed                      = Ed Schouten <ed@nuxi.nl>
 eddyb                   = Eduard Burtescu <edy.burt@gmail.com>
 edwin                   = Torok Edwin <edwintorok@gmail.com>
