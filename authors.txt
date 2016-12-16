@@ -26,6 +26,7 @@ agutowski               = Albert Gutowski <agutowski@google.com>
 ahatanak                = Akira Hatanaka <ahatanaka@apple.com>
 aheejin                 = Heejin Ahn <aheejin@gmail.com>
 aidandodds              = Aidan Dodds <aidan@codeplay.com>
+aisoard                 = Alexandre Isoard <alexandre.isoard@gmail.com>
 aizatsky                = Mike Aizatsky <aizatsky@chromium.org>
 ajbernal                = Ariel J. Bernal <ariel.j.bernal@intel.com>
 akadlec                 = Albrecht Kadlec <akadlec@a-bix.com>
