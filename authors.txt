@@ -815,6 +815,7 @@ void                    = Bill Wendling <isanbard@gmail.com>
 volkalex                = Alexey Volkov <avolkov.intel@gmail.com>
 volkan                  = Volkan Keles <vkeles@apple.com>
 vpykhtin                = Valery Pykhtin <Valery.Pykhtin@amd.com>
+vries                   = Tom de Vries <vries@codesourcery.com>
 vsukharev               = Vladimir Sukharev <vladimir.sukharev@arm.com>
 vumansky                = Victor Umansky <victor.umansky@intel.com>
 vvassilev               = Vassil Vassilev <v.g.vassilev@gmail.com>
