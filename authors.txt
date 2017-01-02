@@ -788,6 +788,7 @@ tobiasvk                = Tobias Edler von Koch <tobias@codeaurora.org>
 tomatabacu              = Toma Tabacu <toma.tabacu@gmail.com>
 tomc                    = Tom Coxon <tom.coxon@arm.com>
 tra                     = Artem Belevich <tra@google.com>
+trentxintong            = Xin Tong <trent.xin.tong@gmail.com>
 triton                  = Joao Matos <ripzonetriton@gmail.com>
 tschwinge               = Thomas Schwinge <thomas@schwinge.name>
 tsiou                   = Yiannis Tsiouris <gtsiour@softlab.ntua.gr>
