@@ -500,6 +500,7 @@ lukecheeseman           = Luke Cheeseman <luke.cheeseman@arm.com>
 luqmana                 = Luqman Aden <me@luqman.ca>
 lvoufo                  = Larisse Voufo <lvoufo@google.com>
 madsravn                = Mads Ravn <madsravn@gmail.com>
+magabari                = Mohammed Agabaria <mohammed.agabaria@intel.com>
 mahesha                 = Mahesha S <mahesha.llvm@gmail.com>
 majnemer                = David Majnemer <david.majnemer@gmail.com>
 maks                    = Maksim Panchenko <maks@fb.com>
