@@ -547,6 +547,7 @@ mnbvmar                 = Marek Sokolowski <mnbvmar@gmail.com>
 modocache               = Brian Gesiak <modocache@gmail.com>
 mohit.bhakkad           = Mohit K. Bhakkad <mohit.bhakkad@gmail.com>
 morisset                = Robin Morisset <morisset@google.com>
+mpark                   = Michael Park <mpark@apache.org>
 mpividori               = Marcos Pividori <mpividori@google.com>
 mpopa                   = Mihai Popa <mihail.popa@gmail.com>
 mprobst                 = Martin Probst <martin@probst.io>
