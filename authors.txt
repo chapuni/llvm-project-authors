@@ -387,6 +387,7 @@ jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
 jengelen                = Johan Engelen <jbc.engelen@gmail.com>
 jfb                     = JF Bastien <jfb@google.com>
 jgoodnowii              = Jim Goodnow II <jim@thegoodnows.net>
+jgravelle               = Jacob Gravelle <jgravelle@google.com>
 jhen                    = Jason Henline <jhen@google.com>
 jhibbits                = Justin Hibbits <jrh29@alumni.cwru.edu>
 jholewinski             = Justin Holewinski <jholewinski@nvidia.com>
