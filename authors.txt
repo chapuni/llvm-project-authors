@@ -33,6 +33,7 @@ akadlec                 = Albrecht Kadlec <akadlec@a-bix.com>
 akaylor                 = Andrew Kaylor <andrew.kaylor@intel.com>
 akirtzidis              = Argyrios Kyrtzidis <akyrtzi@gmail.com>
 akuegel                 = Adrian Kuegel <akuegel@google.com>
+alekseyshl              = Alex Shlyapnikov <alekseys@google.com>
 alelab01                = Alexandros Lamprineas <alexandros.lamprineas@arm.com>
 alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
 alex-t                  = Alexander Timofeev <Alexander.Timofeev@amd.com>
