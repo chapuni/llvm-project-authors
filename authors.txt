@@ -638,6 +638,7 @@ probinson               = Paul Robinson <paul.robinson@sony.com>
 psmith                  = Peter Smith <peter.smith@linaro.org>
 pvchupin                = Pavel Chupin <pavel.v.chupin@intel.com>
 pxl                     = Xiuli Pan <xiulipan@outlook.com>
+pzheng                  = Pengxuan Zheng <pzheng@codeaurora.org>
 qcolombet               = Quentin Colombet <qcolombet@apple.com>
 rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
 rafauler                = Rafael Auler <rafaelauler@gmail.com>
