@@ -806,6 +806,7 @@ twoh                    = Taewook Oh <twoh@fb.com>
 uabelho                 = Mikael Holmen <mikael.holmen@ericsson.com>
 uweigand                = Ulrich Weigand <ulrich.weigand@de.ibm.com>
 v_klochkov              = Vyacheslav Klochkov <vyacheslav.n.klochkov@gmail.com>
+vadimcn                 = Vadim Chugunov <vadimcn@gmail.com>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 vaivaswatha             = Vaivaswatha Nagaraj <vn@compilertree.com>
 valentinagiusti         = Valentina Giusti <valentina.giusti@intel.com>
