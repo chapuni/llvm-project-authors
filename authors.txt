@@ -700,6 +700,7 @@ sampo                   = Nate Begeman <natebegeman@mac.com>
 samsonov                = Alexey Samsonov <vonosmas@gmail.com>
 sandeep                 = Sandeep Patel <deeppatel1987@gmail.com>
 sanjoy                  = Sanjoy Das <sanjoy@playingwithpointers.com>
+sanwou01                = Sanne Wouda <sanne.wouda@arm.com>
 sanxiyn                 = Seo Sanghyeon <sanxiyn@gmail.com>
 sas                     = Stephane Sezer <sas@cd80.net>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
