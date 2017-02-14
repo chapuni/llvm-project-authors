@@ -99,6 +99,7 @@ azanella                = Adhemerval Zanella <adhemerval.zanella@linaro.org>
 bader                   = Alexey Bader <aleksey.bader@mail.ru>
 baldrick                = Duncan Sands <baldrick@free.fr>
 bcahoon                 = Brendon Cahoon <bcahoon@codeaurora.org>
+bcain                   = Brian Cain <bcain@codeaurora.org>
 bcraig                  = Ben Craig <ben.craig@codeaurora.org>
 ben                     = Ben Laurie <benl@google.com>
 benholt                 = Ben Holt <bjh@apple.com>
