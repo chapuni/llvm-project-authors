@@ -445,6 +445,7 @@ jyknight                = James Y Knight <jyknight@google.com>
 jyoti.allur             = Jyoti Allur <jyoti.allur@samsung.com>
 kamil                   = Kamil Rytarowski <n54@gmx.com>
 kanheim                 = Konrad Anheim <kanheim@a-bix.com>
+karka                   = Karl-Johan Karlsson <karl-johan.karlsson@ericsson.com>
 karthik                 = Karthik Bhat <kv.bhat@samsung.com>
 kate                    = Kate Stone <katherine.stone@apple.com>
 kbarton                 = Kit Barton <kbarton@ca.ibm.com>
