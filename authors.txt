@@ -235,6 +235,7 @@ dpatel                  = Devang Patel <dpatel@apple.com>
 dpeixott                = David Peixotto <dpeixott@codeaurora.org>
 dperchik                = Dawn Perchik <dawn@burble.org>
 dpolukhin               = Dmitry Polukhin <dmitry.polukhin@gmail.com>
+dpreobra                = Dmitry Preobrazhensky <dmitry.preobrazhensky@amd.com>
 drb                     = Dan Bailey <dan@dneg.com>
 dsanders                = Daniel Sanders <daniel_l_sanders@apple.com>
 dschuff                 = Derek Schuff <dschuff@google.com>
