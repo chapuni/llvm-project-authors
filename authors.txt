@@ -183,6 +183,7 @@ cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 cycheng                 = Chuang-Yu Cheng <cycheng@multicorewareinc.com>
 d0k                     = Benjamin Kramer <benny.kra@googlemail.com>
 daenzer                 = Michel Danzer <michel.daenzer@amd.com>
+dambrouski              = Vadzim Dambrouski <pftbest@gmail.com>
 danalbert               = Dan Albert <danalbert@google.com>
 danchr                  = Dan Villiom Podlaski Christiansen <danchr@gmail.com>
 danielmarjamaki         = Daniel Marjamaki <daniel.marjamaki@evidente.se>
