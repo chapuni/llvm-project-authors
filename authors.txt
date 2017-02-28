@@ -789,6 +789,7 @@ ted                     = Ted Woodward <ted.woodward@codeaurora.org>
 tejohnson               = Teresa Johnson <tejohnson@google.com>
 tfiala                  = Todd Fiala <todd.fiala@gmail.com>
 thanm                   = Than McIntosh <thanm@google.com>
+thegameg                = Francis Visoiu Mistrih <fvisoiumistrih@apple.com>
 theraven                = David Chisnall <csdavec@swan.ac.uk>
 tilmann                 = Tilmann Scheller <t.scheller@samsung.com>
 timshen                 = Tim Shen <timshen91@gmail.com>
