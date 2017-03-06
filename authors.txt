@@ -610,6 +610,7 @@ pabbar01                = Pablo Barrio <pablo.barrio@arm.com>
 panickal                = Deepak Panickal <deepak@codeplay.com>
 panzer                  = Sam Panzer <espanz@gmail.com>
 papin_g                 = Guillaume Papin <guillaume.papin@epitech.eu>
+paquette                = Jessica Paquette <jpaquette@apple.com>
 partigas                = Pedro Artigas <partigas@apple.com>
 patha                   = Patrik Hagglund <patrik.h.hagglund@ericsson.com>
 patjenk                 = Patrick Jenkins <pjenkins@apple.com>
