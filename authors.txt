@@ -92,6 +92,7 @@ avt77                   = Andrew V. Tischenko <andrew.v.tischenko@gmail.com>
 awatry                  = Aaron Watry <awatry@gmail.com>
 axel                    = Axel Naumann <Axel.Naumann@cern.ch>
 axw                     = Andrew Wilkins <axwalk@gmail.com>
+ayalz                   = Ayal Zaks <ayal.zaks@intel.com>
 ayartsev                = Anton Yartsev <anton.yartsev@gmail.com>
 aymanmus                = Ayman Musa <ayman.musa@intel.com>
 az                      = Abderrazek Zaafrani <a.zaafrani@samsung.com>
