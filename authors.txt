@@ -399,6 +399,7 @@ jfb                     = JF Bastien <jfb@google.com>
 jgoodnowii              = Jim Goodnow II <jim@thegoodnows.net>
 jgravelle               = Jacob Gravelle <jgravelle@google.com>
 jhen                    = Jason Henline <jhen@google.com>
+jhenderson              = James Henderson <jh7370@my.bristol.ac.uk>
 jhibbits                = Justin Hibbits <jrh29@alumni.cwru.edu>
 jholewinski             = Justin Holewinski <jholewinski@nvidia.com>
 jialiu                  = Jia Liu <proljc@gmail.com>
