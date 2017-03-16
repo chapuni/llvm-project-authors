@@ -376,6 +376,7 @@ igor.laevsky            = Igor Laevsky <igmyrj@gmail.com>
 ikudrin                 = Igor Kudrin <ikudrin@accesssoftek.com>
 inglorion               = Bob Haarman <llvm@inglorion.net>
 inolen                  = Anthony Pesch <inolen@gmail.com>
+inouehrs                = Hiroshi Inoue <inouehrs@jp.ibm.com>
 ioeric                  = Eric Liu <ioeric@google.com>
 ismail                  = Ismail Donmez <ismail@i10z.com>
 ismailp                 = Ismail Pazarbasi <ismail.pazarbasi@gmail.com>
