@@ -88,6 +88,7 @@ atanasyan               = Simon Atanasyan <simon@atanasyan.com>
 athirumu                = Ashok Thirumurthi <ashok.thirumurthi@intel.com>
 atrick                  = Andrew Trick <atrick@apple.com>
 aturetsk                = Andrey Turetskiy <andrey.turetskiy@gmail.com>
+avieira                 = Andre Vieira <andre.simoesdiasvieira@arm.com>
 avt77                   = Andrew V. Tischenko <andrew.v.tischenko@gmail.com>
 awatry                  = Aaron Watry <awatry@gmail.com>
 axel                    = Axel Naumann <Axel.Naumann@cern.ch>
