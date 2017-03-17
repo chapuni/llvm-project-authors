@@ -232,6 +232,7 @@ djg                     = Dan Gohman <dan433584@gmail.com>
 dlj                     = David L. Jones <dlj@google.com>
 dlkreitz                = David L Kreitzer <david.l.kreitzer@intel.com>
 dmalea                  = Daniel Malea <daniel.malea@gmail.com>
+dmgreen                 = David Green <david.green@arm.com>
 dmikulin                = Dmitry Mikulin <dmitry.mikulin@sony.com>
 dnovillo                = Diego Novillo <dnovillo@google.com>
 domipheus               = Colin Riley <colin@codeplay.com>
