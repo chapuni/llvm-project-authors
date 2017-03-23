@@ -906,3 +906,4 @@ zonr                    = Zonr Chang <zonr.xchg@gmail.com>
 zturner                 = Zachary Turner <zturner@google.com>
 zvi                     = Zvi Rackover <zvi.rackover@intel.com>
 zwarich                 = Cameron Zwarich <zwarich@apple.com>
+zzheng                  = Zhaoshi Zheng <zhaoshiz@coduaurora.org>
