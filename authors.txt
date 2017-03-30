@@ -64,6 +64,7 @@ anithab                 = Anitha Boyapati <anitha.boyapati@gmail.com>
 ankur29.garg            = Ankur Garg <ankur29.garg@samsung.com>
 anmol                   = Anmol P. Paralkar <anmparal@cisco.com>
 annat                   = Anna Thomas <anna@azul.com>
+anng                    = Andrew Ng <anng.sw@gmail.com>
 apazos                  = Ana Pazos <apazos@codeaurora.org>
 apilipenko              = Artur Pilipenko <apilipenko@azulsystems.com>
 arnolds                 = Arnold Schwaighofer <aschwaighofer@apple.com>
