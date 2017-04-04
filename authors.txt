@@ -615,6 +615,7 @@ oleg                    = Oleg Ranevskyy <oranevskyy@accesssoftek.com>
 olesalscheider          = Niels Ole Salscheider <niels_ole@salscheider-online.de>
 olista01                = Oliver Stannard <oliver.stannard@arm.com>
 oliver                  = Oliver Hunt <oliver@apple.com>
+omalyshe                = Olga Malysheva <olga.malysheva@intel.com>
 omjavaid                = Omair Javaid <omair.javaid@linaro.org>
 omtcyfz                 = Kirill Bobyrev <omtcyfz@gmail.com>
 orenb                   = Oren Ben Simhon <oren.ben.simhon@intel.com>
