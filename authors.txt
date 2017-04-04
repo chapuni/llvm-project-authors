@@ -639,6 +639,7 @@ penryu                  = Tim Hammerquist <penryu@apple.com>
 petarj                  = Petar Jovanovic <petar.jovanovic@imgtec.com>
 pete                    = Pete Cooper <peter_cooper@apple.com>
 petr.pavlu              = Petr Pavlu <petr.pavlu@arm.com>
+pfaffe                  = Philip Pfaffe <philip.pfaffe@gmail.com>
 pgavlin                 = Pat Gavlin <pagavlin@microsoft.com>
 pgode                   = Pankaj Gode <pankaj.gode@broadcom.com>
 pgousseau               = Pierre Gousseau <pierregousseau14@gmail.com>
