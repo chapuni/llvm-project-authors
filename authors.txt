@@ -485,6 +485,7 @@ kongyi                  = Yi Kong <yikong@google.com>
 koriakin                = Marcin Koscielnicki <koriakin@0x04.net>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
 kparzysz                = Krzysztof Parzyszek <kparzysz@codeaurora.org>
+kpw                     = Keith Wyss <wyssman@gmail.com>
 kraiskil                = Kalle Raiskila <kalle.raiskila@nokia.com>
 krasimir                = Krasimir Georgiev <krasimir@google.com>
 krasin                  = Ivan Krasin <krasin@chromium.org>
