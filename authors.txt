@@ -744,6 +744,7 @@ sdt                     = Stefanus Du Toit <stefanus.du.toit@intel.com>
 seaneveson              = Sean Eveson <eveson.sean@gmail.com>
 sehr                    = David Sehr <sehr@google.com>
 sepavloff               = Serge Pavlov <sepavloff@gmail.com>
+serge_sans_paille       = Serge Guelton <sguelton@quarkslab.com>
 seurer                  = Bill Seurer <seurer@linux.vnet.ibm.com>
 sfantao                 = Samuel Antao <sfantao@us.ibm.com>
 sfertile                = Sean Fertile <sfertile@ca.ibm.com>
