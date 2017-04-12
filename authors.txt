@@ -763,6 +763,7 @@ sirish                  = Sirish Pande <spande@codeaurora.org>
 sivachandra             = Siva Chandra <sivachandra@google.com>
 sjoerdmeijer            = Sjoerd Meijer <sjoerd.meijer@arm.com>
 skalinichev             = Sergey Kalinichev <kalinichev.so.0@gmail.com>
+skatkov                 = Serguei Katkov <serguei.katkov@azul.com>
 skolton                 = Sam Kolton <Sam.Kolton@amd.com>
 slarin                  = Sergei Larin <slarin@codeaurora.org>
 sliao                   = Shih-wei Liao <sliao@google.com>
