@@ -733,6 +733,7 @@ sanxiyn                 = Seo Sanghyeon <sanxiyn@gmail.com>
 sas                     = Stephane Sezer <sas@cd80.net>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
 sbaranga                = Silviu Baranga <silviu.baranga@arm.com>
+sbc                     = Sam Clegg <sbc@chromium.org>
 sbenza                  = Samuel Benzaquen <sbenza@google.com>
 sberg                   = Stephan Bergmann <sbergman@redhat.com>
 sbest                   = Shawn Best <sbest@blueshiftinc.com>
