@@ -889,6 +889,7 @@ wristow                 = Warren Ristow <warren.ristow@sony.com>
 wschmidt                = Bill Schmidt <wschmidt@linux.vnet.ibm.com>
 xazax                   = Gabor Horvath <xazax.hun@gmail.com>
 xen2                    = Virgile Bello <virgile.bello@gmail.com>
+xiangzhai               = Leslie Zhai <lesliezhai@llvm.org.cn>
 xiaofei.wan             = Wan Xiaofei <xiaofei.wan@intel.com>
 xmj                     = Mingjie Xing <mingjie.xing@gmail.com>
 xranby                  = Xerxes Ranby <xerxes@zafena.se>
