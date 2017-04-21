@@ -537,6 +537,7 @@ mamai                   = Marianne Mailhot-Sarrasin <marianne.mailhot.sarrasin@g
 manojgupta              = Manoj Gupta <manojgupta@google.com>
 mareko                  = Marek Olsak <marek.olsak@amd.com>
 marshall                = Marshall Clow <mclow.lists@gmail.com>
+marsupial               = Frederich Munch <colsebas@hotmail.com>
 martell                 = Martell Malone <martellmalone@gmail.com>
 martignlo               = Lorenzo Martignoni <martignlo@google.com>
 matheusalmeida          = Matheus Almeida <matheus.almeida@imgtec.com>
