@@ -272,6 +272,7 @@ eladcohen               = Elad Cohen <elad2.cohen@intel.com>
 eliben                  = Eli Bendersky <eliben@google.com>
 emaste                  = Ed Maste <emaste@freebsd.org>
 emenezes                = Evandro Menezes <emenezes@codeaurora.org>
+emilio                  = Emilio Cobos Alvarez <emilio@crisal.io>
 enderby                 = Kevin Enderby <enderby@apple.com>
 enea                    = Enea Zaffanella <zaffanella@cs.unipr.it>
 enlight                 = Vadim Macagon <vadim.macagon@gmail.com>
