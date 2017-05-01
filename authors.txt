@@ -736,6 +736,7 @@ sanwou01                = Sanne Wouda <sanne.wouda@arm.com>
 sanxiyn                 = Seo Sanghyeon <sanxiyn@gmail.com>
 sas                     = Stephane Sezer <sas@cd80.net>
 sasanka                 = Ruchira Sasanka <sasanka@students.uiuc.edu>
+saugustine              = Sterling Augustine <saugustine@google.com>
 sbaranga                = Silviu Baranga <silviu.baranga@arm.com>
 sbc                     = Sam Clegg <sbc@chromium.org>
 sbenza                  = Samuel Benzaquen <sbenza@google.com>
