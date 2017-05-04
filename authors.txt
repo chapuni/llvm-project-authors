@@ -512,6 +512,7 @@ lawrence                = Lawrence Hu <lawrence@codeaurora.org>
 lcharles                = Charles Li <charles.li@sony.com>
 ldrumm                  = Luke Drummond <luke.drummond@codeplay.com>
 legalize                = Richard Thomson <legalize@xmission.com>
+lekensteyn              = Peter Wu <peter@lekensteyn.nl>
 lenny                   = Lenny Maiorani <lenny@colorado.edu>
 lerochris               = Chris Dewhurst <chris.dewhurst@lero.ie>
 lhames                  = Lang Hames <lhames@gmail.com>
