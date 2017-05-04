@@ -535,6 +535,7 @@ magabari                = Mohammed Agabaria <mohammed.agabaria@intel.com>
 mahesha                 = Mahesha S <mahesha.llvm@gmail.com>
 majnemer                = David Majnemer <david.majnemer@gmail.com>
 maks                    = Maksim Panchenko <maks@fb.com>
+malaperle               = Marc-Andre Laperle <marc-andre.laperle@ericsson.com>
 malcolm.parsons         = Malcolm Parsons <malcolm.parsons@gmail.com>
 mamai                   = Marianne Mailhot-Sarrasin <marianne.mailhot.sarrasin@gmail.com>
 manojgupta              = Manoj Gupta <manojgupta@google.com>
