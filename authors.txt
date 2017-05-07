@@ -260,6 +260,7 @@ dylanmckay              = Dylan McKay <me@dylanmckay.io>
 dyung                   = Douglas Yung <douglas.yung@sony.com>
 dzobnin                 = Denis Zobnin <d.zobnin.bugzilla@gmail.com>
 eastig                  = Evgeny Astigeevich <evgeny.astigeevich@arm.com>
+ecbeckmann              = Eric Beckmann <ecbeckmann@google.com>
 echristo                = Eric Christopher <echristo@gmail.com>
 echuraev                = Egor Churaev <egor.churaev@gmail.com>
 ed                      = Ed Schouten <ed@nuxi.nl>
