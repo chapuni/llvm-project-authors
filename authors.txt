@@ -862,6 +862,7 @@ vharron                 = Vince Harron <vince@nethacker.com>
 victorm                 = Victor Oliveira <Victor.Oliveira@amd.com>
 villmow                 = Micah Villmow <villmow@gmail.com>
 vitalybuka              = Vitaly Buka <vitalybuka@google.com>
+vivekvpandya            = Vivek Pandya <vivekvpandya@gmail.com>
 vkalintiris             = Vasileios Kalintiris <ehostunreach@gmail.com>
 vkutuzov                = Viktor Kutuzov <vkutuzov@accesssoftek.com>
 vleschuk                = Victor Leschuk <vleschuk@accesssoftek.com>
