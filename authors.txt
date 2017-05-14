@@ -907,6 +907,7 @@ xur                     = Rong Xu <xur@google.com>
 yabin                   = Yabin Hu <yabin.hwu@gmail.com>
 yabinc                  = Yabin Cui <yabinc@google.com>
 yamaguchi               = Yuka Takahashi <yukatkh@gmail.com>
+yawanng                 = Yan Wang <yawanng@google.com>
 yaxunl                  = Yaxun Liu <Yaxun.Liu@amd.com>
 ygao                    = Yunzhong Gao <Yunzhong.Gao@sony.com>
 ygorshenin              = Yuri Gorshenin <ygorshenin@google.com>
