@@ -228,6 +228,7 @@ dgross                  = David Gross <dgross@google.com>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
 diamond                 = Richard Diamond <wichard@vitalitystudios.com>
 dim                     = Dimitry Andric <dimitry@andric.com>
+dinar                   = Dinar Temirbulatov <dtemirbulatov@gmail.com>
 dinesh                  = Dinesh Dwivedi <dinesh.d@samsung.com>
 dirty                   = Cameron Esfahani <dirty@apple.com>
 djasper                 = Daniel Jasper <djasper@google.com>
