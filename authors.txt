@@ -382,6 +382,7 @@ hvarga                  = Hrvoje Varga <Hrvoje.Varga@imgtec.com>
 hxy9243                 = Kevin Hu <hxy9243@gmail.com>
 iains                   = Iain Sandoe <iain@codesourcery.com>
 iajbar                  = Ikhlas Ajbar <iajbar@codeaurora.org>
+ibiryukov               = Ilya Biryukov <ibiryukov@google.com>
 ibreger                 = Igor Breger <igor.breger@intel.com>
 igor.laevsky            = Igor Laevsky <igmyrj@gmail.com>
 ikudrin                 = Igor Kudrin <ikudrin@accesssoftek.com>
