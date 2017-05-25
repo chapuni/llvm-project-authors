@@ -306,6 +306,7 @@ ewancrawford            = Ewan Crawford <ewan@codeplay.com>
 faisalv                 = Faisal Vali <faisalv@yahoo.com>
 fangism                 = David Fang <fang@csl.cornell.edu>
 fcormack                = Fraser Cormack <fraser@codeplay.com>
+fgross                  = Florian Gross <fgross@noexcept.net>
 fhahn                   = Florian Hahn <florian.hahn@arm.com>
 filcab                  = Filipe Cabecinhas <me@filcab.net>
 fjahanian               = Fariborz Jahanian <fjahanian@apple.com>
