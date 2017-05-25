@@ -830,6 +830,7 @@ thanm                   = Than McIntosh <thanm@google.com>
 thegameg                = Francis Visoiu Mistrih <fvisoiumistrih@apple.com>
 theraven                = David Chisnall <csdavec@swan.ac.uk>
 tilmann                 = Tilmann Scheller <t.scheller@samsung.com>
+timcorringham           = Tim Corringham <tcorring@amd.com>
 timshen                 = Tim Shen <timshen91@gmail.com>
 timurrrr                = Timur Iskhodzhanov <timurrrr@google.com>
 tinti                   = Vinicius Tinti <viniciustinti@gmail.com>
