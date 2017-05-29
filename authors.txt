@@ -549,6 +549,7 @@ marshall                = Marshall Clow <mclow.lists@gmail.com>
 marsupial               = Frederich Munch <colsebas@hotmail.com>
 martell                 = Martell Malone <martellmalone@gmail.com>
 martignlo               = Lorenzo Martignoni <martignlo@google.com>
+materi                  = Mattias Eriksson <mattias.v.eriksson@ericsson.com>
 matheusalmeida          = Matheus Almeida <matheus.almeida@imgtec.com>
 matthewbg               = Matt Beaumont-Gay <matthewbg@google.com>
 matthijs                = Matthijs Kooijman <matthijs@stdin.nl>
