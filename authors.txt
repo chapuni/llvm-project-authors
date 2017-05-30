@@ -595,6 +595,7 @@ mren                    = Manman Ren <manman.ren@gmail.com>
 mroth                   = Moritz Roth <moritz.roth@arm.com>
 mrs                     = Mike Stump <mrs@apple.com>
 mseaborn                = Mark Seaborn <mseaborn@chromium.org>
+msearles                = Mark Searles <m.c.searles@gmail.com>
 mspencer                = Michael J. Spencer <bigcheesegs@gmail.com>
 mssimpso                = Matthew Simpson <mssimpso@codeaurora.org>
 mstorsjo                = Martin Storsjo <martin@martin.st>
