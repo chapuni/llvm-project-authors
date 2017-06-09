@@ -253,6 +253,7 @@ dsanders                = Daniel Sanders <daniel_l_sanders@apple.com>
 dschuff                 = Derek Schuff <dschuff@google.com>
 dsrbecky                = David Srbecky <dsrbecky@gmail.com>
 dstepanov               = Dima Stepanov <dstepanov.src@gmail.com>
+dstuttard               = David Stuttard <david.stuttard@amd.com>
 duraid                  = Duraid Madina <duraid@octopus.com.au>
 dvlahovski              = Dimitar Vlahovski <dvlahovski@gmail.com>
 dvyukov                 = Dmitry Vyukov <dvyukov@google.com>
