@@ -516,6 +516,7 @@ laurov                  = Lauro Ramos Venancio <lauro.venancio@gmail.com>
 lawrence                = Lawrence Hu <lawrence@codeaurora.org>
 lcharles                = Charles Li <charles.li@sony.com>
 ldrumm                  = Luke Drummond <luke.drummond@codeplay.com>
+lebedevri               = Roman Lebedev <lebedev.ri@gmail.com>
 legalize                = Richard Thomson <legalize@xmission.com>
 lekensteyn              = Peter Wu <peter@lekensteyn.nl>
 lenny                   = Lenny Maiorani <lenny@colorado.edu>
