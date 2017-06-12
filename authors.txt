@@ -239,6 +239,7 @@ dlkreitz                = David L Kreitzer <david.l.kreitzer@intel.com>
 dmalea                  = Daniel Malea <daniel.malea@gmail.com>
 dmgreen                 = David Green <david.green@arm.com>
 dmikulin                = Dmitry Mikulin <dmitry.mikulin@sony.com>
+dneilson                = Daniel Neilson <dneilson@azul.com>
 dnovillo                = Diego Novillo <dnovillo@google.com>
 domipheus               = Colin Riley <colin@codeplay.com>
 dorit                   = Dorit Nuzman <dorit.nuzman@intel.com>
