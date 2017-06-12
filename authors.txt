@@ -770,6 +770,7 @@ seurer                  = Bill Seurer <seurer@linux.vnet.ibm.com>
 sfantao                 = Samuel Antao <samuelfantao@gmail.com>
 sfertile                = Sean Fertile <sfertile@ca.ibm.com>
 sfider                  = Marcin Swiderski <marcin.sfider@gmail.com>
+sgravani                = Spyridoula Gravani <sgravani@apple.com>
 sgundapa                = Sumanth Gundapaneni <sgundapa@codeaurora.org>
 sgupta                  = Sanjiv Gupta <sanjiv.gupta@microchip.com>
 shankare                = Shankar Easwaran <shankare@codeaurora.org>
