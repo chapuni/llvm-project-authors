@@ -332,6 +332,7 @@ gaeke                   = Brian Gaeke <gaeke@uiuc.edu>
 garious                 = Greg Fitzgerald <garious@gmail.com>
 gbedwell                = Greg Bedwell <greg_bedwell@sn.scee.net>
 gbenyei                 = Guy Benyei <guy.benyei@intel.com>
+gbercea                 = Gheorghe-Teodor Bercea <gheorghe-teod.bercea@ibm.com>
 gberry                  = Geoff Berry <gberry@codeaurora.org>
 gbiv                    = George Burgess IV <george.burgess.iv@gmail.com>
 gchakrabarti            = Gautam Chakrabarti <gchakrabarti@nvidia.com>
