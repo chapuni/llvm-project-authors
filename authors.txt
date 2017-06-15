@@ -29,6 +29,7 @@ aidandodds              = Aidan Dodds <aidan@codeplay.com>
 aisoard                 = Alexandre Isoard <alexandre.isoard@gmail.com>
 aizatsky                = Mike Aizatsky <aizatsky@chromium.org>
 ajbernal                = Ariel J. Bernal <ariel.j.bernal@intel.com>
+ajhuang                 = Alfred Huang <alfred.j.huang@gmail.com>
 akadlec                 = Albrecht Kadlec <akadlec@a-bix.com>
 akaylor                 = Andrew Kaylor <andrew.kaylor@intel.com>
 akirtzidis              = Argyrios Kyrtzidis <akyrtzi@gmail.com>
