@@ -836,6 +836,7 @@ tberghammer             = Tamas Berghammer <tberghammer@google.com>
 tbrethou                = Tanya Lattner <tonic@nondot.org>
 tcare                   = Tom Care <tom.care@uqconnect.edu.au>
 ted                     = Ted Woodward <ted.woodward@codeaurora.org>
+teemperor               = Raphael Isemann <teemperor@gmail.com>
 tejohnson               = Teresa Johnson <tejohnson@google.com>
 tfiala                  = Todd Fiala <todd.fiala@gmail.com>
 thanm                   = Than McIntosh <thanm@google.com>
