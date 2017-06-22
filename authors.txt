@@ -869,6 +869,7 @@ typz                    = Francois Ferrand <thetypz@gmail.com>
 uabelho                 = Mikael Holmen <mikael.holmen@ericsson.com>
 uweigand                = Ulrich Weigand <ulrich.weigand@de.ibm.com>
 v_klochkov              = Vyacheslav Klochkov <vyacheslav.n.klochkov@gmail.com>
+vaartis                 = Ekaterina Vaartis <vaartis@cock.li>
 vadimcn                 = Vadim Chugunov <vadimcn@gmail.com>
 vadve                   = Vikram S. Adve <vadve@cs.uiuc.edu>
 vaivaswatha             = Vaivaswatha Nagaraj <vn@compilertree.com>
