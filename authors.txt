@@ -306,6 +306,7 @@ evgeny777               = Eugene Leviant <eleviant@accesssoftek.com>
 evocallaghan            = Edward O'Callaghan <eocallaghan@auroraux.org>
 evstupac                = Evgeny Stupachenko <evstupac@gmail.com>
 ewancrawford            = Ewan Crawford <ewan@codeplay.com>
+faaleen                 = Farhana Aleen <farhana.a.aleen@intel.com>
 faisalv                 = Faisal Vali <faisalv@yahoo.com>
 fangism                 = David Fang <fang@csl.cornell.edu>
 fcormack                = Fraser Cormack <fraser@codeplay.com>
