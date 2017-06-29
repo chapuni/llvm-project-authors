@@ -783,6 +783,7 @@ shuxin_yang             = Shuxin Yang <shuxin.llvm@gmail.com>
 sidneym                 = Sid Manning <sidneym@codeaurora.org>
 silvas                  = Sean Silva <chisophugis@gmail.com>
 simbuerg                = Andreas Simbuerger <simbuerg@fim.uni-passau.de>
+singam-sanjay           = Singapuram Sanjay Srivallabh <singapuram.sanjay@gmail.com>
 sirish                  = Sirish Pande <spande@codeaurora.org>
 sivachandra             = Siva Chandra <sivachandra@google.com>
 sjoerdmeijer            = Sjoerd Meijer <sjoerd.meijer@arm.com>
