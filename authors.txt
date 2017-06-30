@@ -227,6 +227,7 @@ dexonsmith              = Duncan P. N. Exon Smith <dexonsmith@apple.com>
 dfukalov                = Daniil Fukalov <daniil.fukalov@amd.com>
 dgregor                 = Douglas Gregor <dgregor@apple.com>
 dgross                  = David Gross <dgross@google.com>
+dhinton                 = Don Hinton <hintonda@gmail.com>
 dhurjati                = Dinakar Dhurjati <dhurjati@cs.uiuc.edu>
 diamond                 = Richard Diamond <wichard@vitalitystudios.com>
 dim                     = Dimitry Andric <dimitry@andric.com>
