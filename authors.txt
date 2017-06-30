@@ -743,6 +743,7 @@ rudkx                   = Mark Lacey <mark.lacey@apple.com>
 ruiu                    = Rui Ueyama <ruiu@google.com>
 russell_gallop          = Russell Gallop <russell.gallop@gmail.com>
 s.egerton               = Scott Egerton <Scott.Egerton@imgtec.com>
+sabuasal                = Sameer AbuAsal <sabuasal@codeaurora.org>
 sam_parker              = Sam Parker <sam.parker@arm.com>
 sameerds                = Sameer Sahasrabuddhe <sameer@sbuddhe.net>
 sammccall               = Sam McCall <sam.mccall@gmail.com>
