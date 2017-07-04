@@ -56,6 +56,7 @@ amishne                 = Alon Mishne <alon.mishne@intel.com>
 amusman                 = Alexander Musman <alexander.musman@gmail.com>
 andersca                = Anders Carlsson <andersca@mac.com>
 andersg                 = Anders Waldenborg <anders@0x63.nu>
+andrew.zhogin           = Andrew Zhogin <andrew.zhogin@gmail.com>
 andrewmacp              = Andrew MacPherson <andrew.macp@gmail.com>
 andyayers               = Andy Ayers <andya@microsoft.com>
 andyg                   = Andy Gibbs <andyg1001@hotmail.co.uk>
