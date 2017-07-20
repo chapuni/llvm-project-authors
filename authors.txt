@@ -595,6 +595,7 @@ mmasten                 = Matt Masten <matt.masten@intel.com>
 mnbvmar                 = Marek Sokolowski <mnbvmar@gmail.com>
 modocache               = Brian Gesiak <modocache@gmail.com>
 mohit.bhakkad           = Mohit K. Bhakkad <mohit.bhakkad@gmail.com>
+morehouse               = Matt Morehouse <mascasa@google.com>
 morisset                = Robin Morisset <morisset@google.com>
 mpark                   = Michael Park <mcypark@gmail.com>
 mpividori               = Marcos Pividori <mpividori@google.com>
