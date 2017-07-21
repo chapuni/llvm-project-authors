@@ -480,6 +480,7 @@ kanheim                 = Konrad Anheim <kanheim@a-bix.com>
 kannann                 = Kannan Narayanan <Kannan.narayanan@amd.com>
 karka                   = Karl-Johan Karlsson <karl-johan.karlsson@ericsson.com>
 karthik                 = Karthik Bhat <kv.bhat@samsung.com>
+kasaurov                = Andrey Kasaurov <Andrey.Kasaurov@amd.com>
 kate                    = Kate Stone <katherine.stone@apple.com>
 kbarton                 = Kit Barton <kbarton@ca.ibm.com>
 kbeyls                  = Kristof Beyls <kristof.beyls@arm.com>
