@@ -585,6 +585,7 @@ mggm                    = Marcello Maggioni <hayarms@gmail.com>
 mgorny                  = Michal Gorny <mgorny@gentoo.org>
 mgottesman              = Michael Gottesman <mgottesman@apple.com>
 mgrang                  = Mandeep Singh Grang <mgrang@codeaurora.org>
+mharoush                = Matan Haroush <matan.haroush@intel.com>
 mikem                   = mike-m <mikem.llvm@gmail.com>
 mikesart                = Michael Sartain <mikesart@valvesoftware.com>
 milseman                = Michael Ilseman <milseman@apple.com>
