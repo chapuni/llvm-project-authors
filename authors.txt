@@ -1,4 +1,5 @@
 AaronBallman            = Aaron Ballman <aaron@aaronballman.com>
+AlexeySotkin            = Alexey Sotkin <alexey.sotkin@intel.com>
 Bhushan.Attarde         = Bhushan D. Attarde <Bhushan.Attarde@imgtec.com>
 TNorthover              = Tim Northover <Tim.Northover@arm.com>
 a.sidorin               = Aleksei Sidorin <a.sidorin@samsung.com>
