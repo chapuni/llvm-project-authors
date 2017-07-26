@@ -824,6 +824,7 @@ ssijaric                = Sanjin Sijaric <ssijaric@codeaurora.org>
 ssrivastava             = Sunil Srivastava <sunil_srivastava@playstation.sony.com>
 sstankovic              = Sasa Stankovic <Sasa.Stankovic@imgtec.com>
 staronj                 = Jakub Staron <staron.jk@gmail.com>
+stefanp                 = Stefan Pintilie <stefanp@ca.ibm.com>
 stephant                = Stephan Tolksdorf <st@quanttec.com>
 stephenwlin             = Stephen Lin <stephenwlin@gmail.com>
 steven_watanabe         = Steven Watanabe <steven@providere-consulting.com>
