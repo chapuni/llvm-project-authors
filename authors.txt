@@ -488,6 +488,7 @@ karthik                 = Karthik Bhat <kv.bhat@samsung.com>
 kasaurov                = Andrey Kasaurov <Andrey.Kasaurov@amd.com>
 kate                    = Kate Stone <katherine.stone@apple.com>
 kbarton                 = Kit Barton <kbarton@ca.ibm.com>
+kbelochapka             = Konstantin Belochapka <Konstantin.belochapka@sony.com>
 kbeyls                  = Kristof Beyls <kristof.beyls@arm.com>
 kbsmith1                = Kevin B. Smith <kevin.b.smith@intel.com>
 kcc                     = Kostya Serebryany <kcc@google.com>
