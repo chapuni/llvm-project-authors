@@ -795,6 +795,7 @@ sgundapa                = Sumanth Gundapaneni <sgundapa@codeaurora.org>
 sgupta                  = Sanjiv Gupta <sanjiv.gupta@microchip.com>
 shankare                = Shankar Easwaran <shankare@codeaurora.org>
 sheng                   = Zhou Sheng <zhousheng00@gmail.com>
+shenhan                 = Han Shen <shenhan@google.com>
 shuxin_yang             = Shuxin Yang <shuxin.llvm@gmail.com>
 sidneym                 = Sid Manning <sidneym@codeaurora.org>
 silvas                  = Sean Silva <chisophugis@gmail.com>
