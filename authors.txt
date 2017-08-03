@@ -193,6 +193,7 @@ ctice                   = Caroline Tice <ctice@apple.com>
 ctopper                 = Craig Topper <craig.topper@intel.com>
 cturner                 = Charlie Turner <charlesturner7c5@gmail.com>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
+cwabbott                = Connor Abbott <cwabbott0@gmail.com>
 cycheng                 = Chuang-Yu Cheng <cycheng@multicorewareinc.com>
 d0k                     = Benjamin Kramer <benny.kra@googlemail.com>
 daenzer                 = Michel Danzer <michel.daenzer@amd.com>
