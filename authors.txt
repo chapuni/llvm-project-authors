@@ -907,6 +907,7 @@ vitalybuka              = Vitaly Buka <vitalybuka@google.com>
 vivekvpandya            = Vivek Pandya <vivekvpandya@gmail.com>
 vkalintiris             = Vasileios Kalintiris <ehostunreach@gmail.com>
 vkutuzov                = Viktor Kutuzov <vkutuzov@accesssoftek.com>
+vlad.tsyrklevich        = Vlad Tsyrklevich <vlad@tsyrklevich.net>
 vleschuk                = Victor Leschuk <vleschuk@accesssoftek.com>
 vljn                    = Vincent Lejeune <vljn@ovi.com>
 vmedic                  = Vladimir Medic <Vladimir.Medic@imgtec.com>
