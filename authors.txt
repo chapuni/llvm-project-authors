@@ -109,6 +109,7 @@ baldrick                = Duncan Sands <baldrick@free.fr>
 bcahoon                 = Brendon Cahoon <bcahoon@codeaurora.org>
 bcain                   = Brian Cain <bcain@codeaurora.org>
 bcraig                  = Ben Craig <ben.craig@ni.com>
+belleyb                 = Benoit Belley <benoit.belley@autodesk.com>
 ben                     = Ben Laurie <benl@google.com>
 benholt                 = Ben Holt <bjh@apple.com>
 benjamin                = Benjamin Poulain <benjamin@webkit.org>
