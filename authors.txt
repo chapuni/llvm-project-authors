@@ -470,6 +470,7 @@ jroelofs                = Jonathan Roelofs <jonathan@codesourcery.com>
 jrose                   = Jordan Rose <jordan_rose@apple.com>
 jsjodin                 = Jan Sjodin <jan_sjodin@yahoo.com>
 jstanley                = Joel Stanley <jstanley@cs.uiuc.edu>
+jtbandes                = Jacob Bandes-Storch <jacob@bandes-stor.ch>
 jtony                   = Tony Jiang <jtony@ca.ibm.com>
 jtsoftware              = John Thompson <John.Thompson.JTSoftware@gmail.com>
 jugu                    = Junjie Gu <jgu222@gmail.com>
