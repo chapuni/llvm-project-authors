@@ -282,6 +282,7 @@ efriedma                = Eli Friedman <efriedma@codeaurora.org>
 ehsan                   = Ehsan Akhgari <ehsan.akhgari@gmail.com>
 eladcohen               = Elad Cohen <elad2.cohen@intel.com>
 eliben                  = Eli Bendersky <eliben@google.com>
+emankov                 = Evgeny Mankov <evgeny.mankov@gmail.com>
 emaste                  = Ed Maste <emaste@freebsd.org>
 emenezes                = Evandro Menezes <emenezes@codeaurora.org>
 emilio                  = Emilio Cobos Alvarez <emilio@crisal.io>
