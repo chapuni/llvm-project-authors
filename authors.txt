@@ -420,6 +420,7 @@ javed.absar             = Javed Absar <javed.absar@arm.com>
 jaydeep                 = Jaydeep Patil <jaydeep.patil@imgtec.com>
 jaykang10               = Jin-Gu Kang <jaykang10@gmail.com>
 jbcoe                   = Jonathan Coe <jbcoe@me.com>
+jbhateja                = Jatin Bhateja <jatin.bhateja@gmail.com>
 jddupas                 = Jean-Daniel Dupas <devlists@shadowlab.org>
 jdennett                = James Dennett <jdennett@google.com>
 jdevlieghere            = Jonas Devlieghere <jonas@devlieghere.com>
