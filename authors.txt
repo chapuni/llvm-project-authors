@@ -643,6 +643,7 @@ neil.hickey             = Neil Hickey <neil.hickey@arm.com>
 nemanjai                = Nemanja Ivanovic <nemanja.i.ibm@gmail.com>
 nha                     = Nicolai Haehnle <nhaehnle@gmail.com>
 nhaustov                = Nikolay Haustov <Nikolay.Haustov@amd.com>
+nhawes                  = Nathan Hawes <nhawes@apple.com>
 nicholas                = Nick Lewycky <nicholas@mxc.ca>
 nico                    = Nico Weber <nicolasweber@gmx.de>
 nikola                  = Nikola Smiljanic <popizdeh@gmail.com>
