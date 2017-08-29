@@ -128,6 +128,7 @@ bocchino                = Robert Bocchino <bocchino@illinois.edu>
 bogden                  = Bernard Ogden <bogden@arm.com>
 bogner                  = Justin Bogner <mail@justinbogner.com>
 bollu                   = Siddharth Bhat <siddu.druid@gmail.com>
+borisk                  = Boris Kolpackov <boris@codesynthesis.com>
 brad                    = Brad Smith <brad@comstyle.com>
 brasmi01                = Bradley Smith <bradley.smith@arm.com>
 broune                  = Bjarke Hammersholt Roune <broune@google.com>
