@@ -496,6 +496,7 @@ kannann                 = Kannan Narayanan <Kannan.narayanan@amd.com>
 karka                   = Karl-Johan Karlsson <karl-johan.karlsson@ericsson.com>
 karthik                 = Karthik Bhat <kv.bhat@samsung.com>
 kasaurov                = Andrey Kasaurov <Andrey.Kasaurov@amd.com>
+kastiglione             = Dave Lee <davelee.com@gmail.com>
 kate                    = Kate Stone <katherine.stone@apple.com>
 kbarton                 = Kit Barton <kbarton@ca.ibm.com>
 kbelochapka             = Konstantin Belochapka <Konstantin.belochapka@sony.com>
