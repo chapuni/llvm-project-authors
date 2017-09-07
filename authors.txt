@@ -28,6 +28,7 @@ ahatanak                = Akira Hatanaka <ahatanaka@apple.com>
 aheejin                 = Heejin Ahn <aheejin@gmail.com>
 aidandodds              = Aidan Dodds <aidan@codeplay.com>
 aisoard                 = Alexandre Isoard <alexandre.isoard@gmail.com>
+aivchenk                = Alexander Ivchenko <alexander.ivchenko@intel.com>
 aizatsky                = Mike Aizatsky <aizatsky@chromium.org>
 ajbernal                = Ariel J. Bernal <ariel.j.bernal@intel.com>
 ajhuang                 = Alfred Huang <alfred.j.huang@gmail.com>
