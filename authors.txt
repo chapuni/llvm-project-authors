@@ -903,6 +903,7 @@ tvvikram                = Vikram TV <vikram.tarikere@gmail.com>
 twoh                    = Taewook Oh <twoh@fb.com>
 typz                    = Francois Ferrand <thetypz@gmail.com>
 uabelho                 = Mikael Holmen <mikael.holmen@ericsson.com>
+uriel.k                 = Uriel Korach <uriel.korach@intel.com>
 uweigand                = Ulrich Weigand <ulrich.weigand@de.ibm.com>
 v_klochkov              = Vyacheslav Klochkov <vyacheslav.n.klochkov@gmail.com>
 vaartis                 = Ekaterina Vaartis <vaartis@cock.li>
