@@ -892,6 +892,7 @@ tnowicki                = Tyler Nowicki <tyler.nowicki@gmail.com>
 tobiasvk                = Tobias Edler von Koch <tobias@codeaurora.org>
 tomatabacu              = Toma Tabacu <toma.tabacu@gmail.com>
 tomc                    = Tom Coxon <tom.coxon@arm.com>
+tpr                     = Tim Renouf <tim.renouf@amd.com>
 tra                     = Artem Belevich <tra@google.com>
 trentxintong            = Xin Tong <trent.xin.tong@gmail.com>
 triton                  = Joao Matos <ripzonetriton@gmail.com>
