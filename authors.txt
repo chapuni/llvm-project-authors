@@ -49,6 +49,7 @@ alexshap                = Alexander Shaposhnikov <shal1t712@gmail.com>
 alhazred                = Alexander Eremin <alexander.r.eremin@gmail.com>
 alisdairm               = Alisdair Meredith <public@alisdairm.net>
 alkis                   = Alkis Evlogimenos <alkis@evlogimenos.com>
+alonkom                 = Alon Kom <alon.kom@intel.com>
 alp                     = Alp Toker <alp@nuanti.com>
 amaiorano               = Antonio Maiorano <amaiorano@gmail.com>
 amaury.dlv              = Amaury de la Vieuville <amaury.dlv@gmail.com>
