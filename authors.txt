@@ -75,6 +75,7 @@ anng                    = Andrew Ng <anng.sw@gmail.com>
 aoli                    = Leo Li <aoli@google.com>
 apazos                  = Ana Pazos <apazos@codeaurora.org>
 apilipenko              = Artur Pilipenko <apilipenko@azulsystems.com>
+arichardson             = Alexander Richardson <arichardson.kde@gmail.com>
 arnolds                 = Arnold Schwaighofer <aschwaighofer@apple.com>
 arphaman                = Alex Lorenz <arphaman@gmail.com>
 arpith                  = Arpith Chacko Jacob <acjacob@us.ibm.com>
