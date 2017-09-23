@@ -752,6 +752,7 @@ rizsotto                = Laszlo Nagy <rizsotto.mailinglist@gmail.com>
 rjmccall                = John McCall <rjmccall@apple.com>
 rkhasanov               = Robert Khasanov <rob.khasanov@gmail.com>
 rkotler                 = Reed Kotler <rkotler@mips.com>
+rkovacs                 = Reka Kovacs <rekanikolett@gmail.com>
 rksimon                 = Simon Pilgrim <llvm-dev@redking.me.uk>
 rlougher                = Robert Lougher <rob.lougher@gmail.com>
 rlytton                 = Robert Lytton <robert@xmos.com>
