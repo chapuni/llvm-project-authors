@@ -555,6 +555,7 @@ lebedevri               = Roman Lebedev <lebedev.ri@gmail.com>
 legalize                = Richard Thomson <legalize@xmission.com>
 lei                     = Lei Huang <lei@ca.ibm.com>
 lekensteyn              = Peter Wu <peter@lekensteyn.nl>
+lemo                    = Leonard Mosescu <mosescu@google.com>
 lenary                  = Sam Elliott <ashe2@cs.washington.edu>
 lenny                   = Lenny Maiorani <lenny@colorado.edu>
 lerochris               = Chris Dewhurst <chris.dewhurst@lero.ie>
