@@ -383,6 +383,7 @@ guyblank                = Guy Blank <guy.blank@intel.com>
 gvenn                   = Garrison Venn <gvenn.cfe.dev@gmail.com>
 hahnfeld                = Jonas Hahnfeld <hahnjo@hahnjo.de>
 haicheng                = Haicheng Wu <haicheng@codeaurora.org>
+hamzasood               = Hamza Sood <hamza_sood@me.com>
 hanm                    = Michael Han <fragmentshaders@gmail.com>
 hanming                 = Han Ming Ong <hanming@apple.com>
 hans                    = Hans Wennborg <hans@hanshq.net>
