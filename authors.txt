@@ -458,6 +458,7 @@ jiwang                  = Jiong Wang <jiwang@tilera.com>
 jketema                 = Jeroen Ketema <j.ketema@xs4all.nl>
 jklontz                 = Josh Klontz <josh.klontz@gmail.com>
 jkolek                  = Jozef Kolek <jozef.kolek@imgtec.com>
+jkorous                 = Jan Korous <jkorous@apple.com>
 jlaskey                 = Jim Laskey <jlaskey@mac.com>
 jlebar                  = Justin Lebar <jlebar@google.com>
 jlerouge                = Julien Lerouge <jlerouge@apple.com>
