@@ -392,6 +392,7 @@ hanming                 = Han Ming Ong <hanming@apple.com>
 hans                    = Hans Wennborg <hans@hanshq.net>
 haojiewang              = Haojie Wang <haojie0429@gmail.com>
 haoliu                  = Hao Liu <Hao.Liu@arm.com>
+hctim                   = Mitch Phillips <mitchphillips@outlook.com>
 helloqirun              = Qirun Zhang <helloqirun@gmail.com>
 henric                  = Henric Karlsson <henric.karlsson@ericsson.com>
 hernande                = Victor Hernandez <vhernandez@apple.com>
