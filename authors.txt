@@ -687,6 +687,7 @@ oliver                  = Oliver Hunt <oliver@apple.com>
 omalyshe                = Olga Malysheva <olga.malysheva@intel.com>
 omjavaid                = Omair Javaid <omair.javaid@linaro.org>
 omtcyfz                 = Kirill Bobyrev <omtcyfz@gmail.com>
+opaparo                 = Omer Paparo Bivas <omer.paparo.bivas@intel.com>
 orenb                   = Oren Ben Simhon <oren.ben.simhon@intel.com>
 ovyalov                 = Oleksiy Vyalov <ovyalov@google.com>
 pabbar01                = Pablo Barrio <pablo.barrio@arm.com>
