@@ -999,6 +999,7 @@ yrnkrn                  = Yaron Keren <yaron.keren@gmail.com>
 ytsafrir                = Yael Tsafrir <yael.tsafrir@intel.com>
 yulin                   = Yuan Lin <yulin@nvidia.com>
 yuyichao                = Yichao Yu <yyc1992@gmail.com>
+yvvan                   = Ivan Donchevskii <ivan.donchevskii@qt.io>
 ywu                     = Yuchen Wu <yuchenericwu@hotmail.com>
 zaks                    = Anna Zaks <ganna@apple.com>
 zansari                 = Zia Ansari <zia.ansari@intel.com>
