@@ -487,6 +487,7 @@ jonpa                   = Jonas Paulsson <paulsson@linux.vnet.ibm.com>
 jonturner               = Jonathan D. Turner <jonathan.d.turner@gmail.com>
 josepht                 = Joseph Tremoulet <jotrem@microsoft.com>
 jpienaar                = Jacques Pienaar <jpienaar@google.com>
+jprotze                 = Joachim Protze <protze@itc.rwth-aachen.de>
 jroelofs                = Jonathan Roelofs <jonathan@codesourcery.com>
 jrose                   = Jordan Rose <jordan_rose@apple.com>
 jsjodin                 = Jan Sjodin <jan_sjodin@yahoo.com>
