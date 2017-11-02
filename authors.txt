@@ -119,6 +119,7 @@ bcraig                  = Ben Craig <ben.craig@ni.com>
 bd1976llvm              = Ben Dunbobbin <bd1976llvm@gmail.com>
 belleyb                 = Benoit Belley <benoit.belley@autodesk.com>
 ben                     = Ben Laurie <benl@google.com>
+benhamilton             = Ben Hamilton <benhamilton@google.com>
 benholt                 = Ben Holt <bjh@apple.com>
 benjamin                = Benjamin Poulain <benjamin@webkit.org>
 benlangmuir             = Ben Langmuir <blangmuir@apple.com>
