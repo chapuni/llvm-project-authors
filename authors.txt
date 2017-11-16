@@ -973,6 +973,7 @@ whunt                   = Warren Hunt <whunt@google.com>
 wilfred                 = Wilfred Hughes <me@wilfred.me.uk>
 willschm                = Will Schmidt <will_schmidt@vnet.ibm.com>
 wilsons                 = Stephen Wilson <wilsons@start.ca>
+wizard                  = Yan Zhang <ynzhang@google.com>
 wmat                    = Wojciech Matyjewicz <wmatyjewicz@fastmail.fm>
 wmi                     = Wei Mi <wmi@google.com>
 wnewton                 = Will Newton <will.newton@linaro.org>
