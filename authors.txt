@@ -153,6 +153,7 @@ bulasevich              = Boris Ulasevich <boris.ulasevich@gmail.com>
 buschard                = Cameron Buschardt <buschard@uiuc.edu>
 bwilson                 = Bob Wilson <bob.wilson@apple.com>
 cameron314              = Cameron Desrochers <cameron@moodycamel.com>
+caoz                    = Zhen Cao <zhen.cao@autodesk.com>
 carl                    = Carl Norum <carl.norum@apple.com>
 carlokok                = Carlo Kok <ck@remobjects.com>
 carrot                  = Guozhi Wei <carrot@google.com>
