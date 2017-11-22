@@ -908,6 +908,7 @@ timshen                 = Tim Shen <timshen91@gmail.com>
 timurrrr                = Timur Iskhodzhanov <timurrrr@google.com>
 tinti                   = Vinicius Tinti <viniciustinti@gmail.com>
 tjablin                 = Thomas Jablin <tjablin@gmail.com>
+tkrasnukha              = Tatyana Krasnukha <tatyana@synopsys.com>
 tlinth                  = Tony Linthicum <tlinth@codeaurora.org>
 tmroeder                = Tom Roeder <tmroeder@google.com>
 tmsriram                = Sriraman Tallam <tmsriram@google.com>
