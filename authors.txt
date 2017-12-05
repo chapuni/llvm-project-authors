@@ -450,6 +450,7 @@ jduprat                 = Jean-Luc Duprat <jduprat@apple.com>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
 jengelen                = Johan Engelen <jbc.engelen@gmail.com>
 jfb                     = JF Bastien <jfb@google.com>
+jgalenson               = Joel Galenson <jgalenson@google.com>
 jgoodnowii              = Jim Goodnow II <jim@thegoodnows.net>
 jgravelle               = Jacob Gravelle <jgravelle@google.com>
 jhb                     = John Baldwin <jhb@FreeBSD.org>
