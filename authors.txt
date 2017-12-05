@@ -502,6 +502,7 @@ jtbandes                = Jacob Bandes-Storch <jacob@bandes-stor.ch>
 jtony                   = Tony Jiang <jtony@ca.ibm.com>
 jtsoftware              = John Thompson <John.Thompson.JTSoftware@gmail.com>
 jugu                    = Junjie Gu <jgu222@gmail.com>
+juliehockett            = Julie Hockett <juliehockett@google.com>
 junbuml                 = Jun Bum Lim <junbuml@codeaurora.org>
 jush                    = Jush Lu <jush.msn@gmail.com>
 jverma                  = Jyotsna Verma <jverma@codeaurora.org>
