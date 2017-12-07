@@ -574,6 +574,7 @@ lenary                  = Sam Elliott <ashe2@cs.washington.edu>
 lenny                   = Lenny Maiorani <lenny@colorado.edu>
 lerochris               = Chris Dewhurst <chris.dewhurst@lero.ie>
 lhames                  = Lang Hames <lhames@gmail.com>
+lichray                 = Zhihao Yuan <zy@miator.net>
 lifted                  = Roman Kashitsyn <romankashicin@gmail.com>
 lihuang                 = Li Huang <lihuang916@gmail.com>
 liu12295                = Jack Liu <jack.liu@intel.com>
