@@ -148,6 +148,7 @@ brukman                 = Misha Brukman <brukman+llvm@gmail.com>
 bruno                   = Bruno Cardoso Lopes <bruno.cardoso@gmail.com>
 bryanpkc                = Bryan Chan <bryan.chan@ca.ibm.com>
 bryant                  = Bryant Wong <llvm-commits@xorshift.org>
+brzycki                 = Brian M. Rzycki <brzycki@gmail.com>
 bsteinbr                = Bjorn Steinbrink <bsteinbr@gmail.com>
 bubbles231              = Arthur Marble <arthur@info9.net>
 bulasevich              = Boris Ulasevich <boris.ulasevich@gmail.com>
