@@ -827,6 +827,7 @@ sbest                   = Shawn Best <sbest@blueshiftinc.com>
 sbishop                 = Sam Bishop <sam@bishop.dhs.org>
 scanon                  = Stephen Canon <scanon@apple.com>
 scott-0                 = Scott Douglass <sdouglass@arm.com>
+scott.linder            = Scott Linder <scott@scottlinder.com>
 sdardis                 = Simon Dardis <simon.dardis@mips.com>
 sdkie                   = Kumar Sukhani <kumarsukhani@gmail.com>
 sdmitriev               = Sergey Dmitriev <serguei.n.dmitriev@intel.com>
