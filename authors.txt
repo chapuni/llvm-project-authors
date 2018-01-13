@@ -663,6 +663,7 @@ mstorsjo                = Martin Storsjo <martin@martin.st>
 mtrent                  = Michael Trent <mtrent@apple.com>
 mvillmow                = Micah Villmow <villmow@gmail.com>
 myatsina                = Marina Yatsina <marina.yatsina@intel.com>
+mzeren-vmw              = Mark Zeren <mzeren@vmware.com>
 mzolotukhin             = Michael Zolotukhin <mzolotukhin@apple.com>
 mzuckerm                = Michael Zuckerman <Michael.zuckerman@intel.com>
 n.bozhenov              = Nikolai Bozhenov <nikolai.bozhenov@intel.com>
