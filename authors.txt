@@ -536,6 +536,7 @@ khemant                 = Hemant Kulkarni <khemant@codeaurora.org>
 ki.stfu                 = Ilia K <ki.stfu@gmail.com>
 kjdyck                  = Ken Dyck <kd@kendyck.com>
 kkhoo                   = Kay Tiong Khoo <kkhoo@perfwizard.com>
+kkretzschmar            = Klaus Kretzschmar <klaus.kretzschmar@sap.com>
 kledzik                 = Nick Kledzik <kledzik@apple.com>
 kli                     = Kelvin Li <kkwli0@gmail.com>
 klimek                  = Manuel Klimek <klimek@google.com>
