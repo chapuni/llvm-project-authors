@@ -160,6 +160,7 @@ caoz                    = Zhen Cao <zhen.cao@autodesk.com>
 carl                    = Carl Norum <carl.norum@apple.com>
 carlokok                = Carlo Kok <ck@remobjects.com>
 carrot                  = Guozhi Wei <carrot@google.com>
+carwil                  = Carey Williams <carey.williams@arm.com>
 caseycarter             = Casey Carter <Casey@Carter.net>
 cbertol                 = Carlo Bertolli <cbertol@us.ibm.com>
 cbieneman               = Chris Bieneman <chris.bieneman@me.com>
