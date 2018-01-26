@@ -613,6 +613,7 @@ martignlo               = Lorenzo Martignoni <martignlo@google.com>
 maskray                 = Fangrui Song <maskray@google.com>
 materi                  = Mattias Eriksson <mattias.v.eriksson@ericsson.com>
 matheusalmeida          = Matheus Almeida <matheus.almeida@imgtec.com>
+mattd                   = Matt Davis <Matthew.Davis@sony.com>
 matthewbg               = Matt Beaumont-Gay <matthewbg@google.com>
 matthijs                = Matthijs Kooijman <matthijs@stdin.nl>
 matze                   = Matthias Braun <matze@braunis.de>
