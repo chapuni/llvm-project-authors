@@ -192,6 +192,7 @@ clm                     = Catherine Moore <Catherine_moore@mentor.com>
 clockman                = Piotr Zegar <me@piotrzegar.pl>
 cmatthews               = Chris Matthews <cmatthews5@apple.com>
 coby                    = Coby Tayree <coby.tayree@intel.com>
+codafi                  = Robert Widmann <devteam.codafi@gmail.com>
 colinl                  = Colin LeMahieu <colinl@codeaurora.org>
 colpell                 = Elliot Colp <colpell@ca.ibm.com>
 compnerd                = Saleem Abdulrasool <compnerd@compnerd.org>
