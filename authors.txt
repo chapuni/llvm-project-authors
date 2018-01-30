@@ -156,6 +156,7 @@ bubbles231              = Arthur Marble <arthur@info9.net>
 bulasevich              = Boris Ulasevich <boris.ulasevich@gmail.com>
 buschard                = Cameron Buschardt <buschard@uiuc.edu>
 bwilson                 = Bob Wilson <bob.wilson@apple.com>
+bwyma                   = Brock Wyma <brock.wyma@intel.com>
 cameron314              = Cameron Desrochers <cameron@moodycamel.com>
 caoz                    = Zhen Cao <zhen.cao@autodesk.com>
 carl                    = Carl Norum <carl.norum@apple.com>
