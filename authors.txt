@@ -1027,6 +1027,7 @@ yhs                     = Yonghong Song <yhs@fb.com>
 yingyi                  = Ying Yi <maggieyi666@gmail.com>
 yjiang                  = Yi Jiang <yjiang@apple.com>
 yrnkrn                  = Yaron Keren <yaron.keren@gmail.com>
+yroux                   = Yvan Roux <yvan.roux@linaro.org>
 ytsafrir                = Yael Tsafrir <yael.tsafrir@intel.com>
 yulin                   = Yuan Lin <yulin@nvidia.com>
 yuyichao                = Yichao Yu <yyc1992@gmail.com>
