@@ -494,6 +494,7 @@ johannes                = Dale Johannesen <dalej@apple.com>
 john.brawn              = John Brawn <john.brawn@arm.com>
 johnny                  = Johnny Chen <johnny.chen@apple.com>
 johnw                   = John Wiegley <johnw@boostpro.com>
+jolesiak                = Jacek Olesiak <jolesiak@google.com>
 jonastoth               = Jonas Toth <jonas.toth@gmail.com>
 jonchesterfield         = Jon Chesterfield <jonathanchesterfield@gmail.com>
 jonpa                   = Jonas Paulsson <paulsson@linux.vnet.ibm.com>
