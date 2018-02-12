@@ -681,6 +681,7 @@ nadav                   = Nadav Rotem <nrotem@apple.com>
 nagda                   = Mehwish Nagda <nagda@cs.uiuc.edu>
 nathan                  = Nathan Sidwell <nathan@acm.org>
 ncharlie                = Charles Saternos <charles.saternos@gmail.com>
+ncw                     = Nicholas Wilson <nicholas@nicholaswilson.me.uk>
 neerajbadlani           = Neeraj Badlani <neerajbadlani@gmail.com>
 neil                    = Neil Booth <neil@daikokuya.co.uk>
 neil.hickey             = Neil Hickey <neil.hickey@arm.com>
