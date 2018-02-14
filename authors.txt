@@ -407,6 +407,7 @@ harlanhaskins           = Harlan Haskins <harlan@harlanhaskins.cm>
 hctim                   = Mitch Phillips <mitchphillips@outlook.com>
 helloqirun              = Qirun Zhang <helloqirun@gmail.com>
 henric                  = Henric Karlsson <henric.karlsson@ericsson.com>
+henrywong               = Henry Wong <movietravelcode@outlook.com>
 hernande                = Victor Hernandez <vhernandez@apple.com>
 hfinkel                 = Hal Finkel <hfinkel@anl.gov>
 hhellyer                = Howard Hellyer <hhellyer@uk.ibm.com>
