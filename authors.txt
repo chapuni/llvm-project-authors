@@ -864,6 +864,7 @@ shiva                   = Shiva Chen <shiva0217@gmail.com>
 shuxin_yang             = Shuxin Yang <shuxin.llvm@gmail.com>
 sidneym                 = Sid Manning <sidneym@codeaurora.org>
 silvas                  = Sean Silva <chisophugis@gmail.com>
+simark                  = Simon Marchi <simon.marchi@ericsson.com>
 simbuerg                = Andreas Simbuerger <simbuerg@fim.uni-passau.de>
 singam-sanjay           = Singapuram Sanjay Srivallabh <singapuram.sanjay@gmail.com>
 sirish                  = Sirish Pande <spande@codeaurora.org>
