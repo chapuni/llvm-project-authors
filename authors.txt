@@ -622,6 +622,7 @@ mattd                   = Matt Davis <Matthew.Davis@sony.com>
 matthewbg               = Matt Beaumont-Gay <matthewbg@google.com>
 matthijs                = Matthijs Kooijman <matthijs@stdin.nl>
 matze                   = Matthias Braun <matze@braunis.de>
+maxim-kuvyrkov          = Maxim Kuvyrkov <maxim.kuvyrkov@gmail.com>
 mayurp                  = Mayur Pandey <mayur.p@samsung.com>
 mbodart                 = Mitch Bodart <mitch.l.bodart@intel.com>
 mboehme                 = Martin Bohme <mboehme@google.com>
