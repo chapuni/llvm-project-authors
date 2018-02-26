@@ -224,6 +224,7 @@ danchr                  = Dan Villiom Podlaski Christiansen <danchr@gmail.com>
 danielmarjamaki         = Daniel Marjamaki <daniel.marjamaki@evidente.se>
 danil                   = Danil Malyshev <dmalyshev@accesssoftek.com>
 dannyb                  = Daniel Berlin <dberlin@dberlin.org>
+davezarzycki            = David Zarzycki <dave@znu.io>
 david.xu                = David Xu <David.Xu@arm.com>
 david2050               = David Callahan <dcallahan@fb.com>
 david_goodwin           = David Goodwin <david_goodwin@apple.com>
