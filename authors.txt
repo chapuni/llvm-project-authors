@@ -815,6 +815,7 @@ rserge                  = Serge Rogatch <srogatch@accesssoftek.com>
 rsilvera                = Raul E. Silvera <rsilvera@google.com>
 rsingh                  = Ranjeet Singh <Ranjeet.Singh@arm.com>
 rsmith                  = Richard Smith <richard-llvm@metafoo.co.uk>
+rtereshin               = Roman Tereshin <rtereshin@apple.com>
 rtrieu                  = Richard Trieu <rtrieu@google.com>
 rudkx                   = Mark Lacey <mark.lacey@apple.com>
 ruiu                    = Rui Ueyama <ruiu@google.com>
