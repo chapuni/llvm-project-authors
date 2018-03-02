@@ -282,6 +282,7 @@ drb                     = Dan Bailey <dan@dneg.com>
 dsanders                = Daniel Sanders <daniel_l_sanders@apple.com>
 dschuff                 = Derek Schuff <dschuff@google.com>
 dsrbecky                = David Srbecky <dsrbecky@gmail.com>
+dstenb                  = David Stenberg <david.stenberg@ericsson.com>
 dstepanov               = Dima Stepanov <dstepanov.src@gmail.com>
 dstuttard               = David Stuttard <david.stuttard@amd.com>
 duraid                  = Duraid Madina <duraid@octopus.com.au>
