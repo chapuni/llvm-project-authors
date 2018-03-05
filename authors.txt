@@ -935,6 +935,7 @@ tfiala                  = Todd Fiala <todd.fiala@gmail.com>
 thanm                   = Than McIntosh <thanm@google.com>
 thegameg                = Francis Visoiu Mistrih <francisvm@yahoo.com>
 theraven                = David Chisnall <csdavec@swan.ac.uk>
+thopre                  = Thomas Preud'homme <thomas.preudhomme@arm.com>
 tilmann                 = Tilmann Scheller <t.scheller@samsung.com>
 timcorringham           = Tim Corringham <tcorring@amd.com>
 timshen                 = Tim Shen <timshen91@gmail.com>
