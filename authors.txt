@@ -653,6 +653,7 @@ milseman                = Michael Ilseman <milseman@apple.com>
 minseongkim             = MinSeong Kim <min.s.kim@samsung.com>
 miyuki                  = Mikhail Maltsev <mikhail.maltsev@arm.com>
 mjacob                  = Manuel Jacob <me@manueljacob.de>
+mjbedy                  = Michael Bedy <mjbedy@gmail.com>
 mkazantsev              = Max Kazantsev <max.kazantsev@azul.com>
 mkopec                  = Matt Kopec <Matt.Kopec@intel.com>
 mkuper                  = Michael Kuperstein <mkuper@google.com>
