@@ -780,6 +780,7 @@ raulherbster            = Raul Herbster <raulherbster@gmail.com>
 ravitheja               = Ravitheja Addepally <ravitheja.addepally@intel.com>
 rbarton                 = Richard Barton <richard.barton@arm.com>
 rcraik                  = Rachel Craik <rcraik@ca.ibm.com>
+rdhindsa                = Rumeet Dhindsa <rdhindsa@google.com>
 rdivacky                = Roman Divacky <rdivacky@freebsd.org>
 reames                  = Philip Reames <listmail@philipreames.com>
 redstar                 = Kai Nacke <kai.nacke@redstar.de>
