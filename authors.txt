@@ -386,6 +386,7 @@ gordon                  = Gordon Henriksen <gordonhenriksen@mac.com>
 gornishanov             = Gor Nishanov <GorNishanov@gmail.com>
 gparker                 = Greg Parker <gparker@apple.com>
 gps                     = Gregory Szorc <gregory.szorc@gmail.com>
+gramanas                = Anastasis Grammenos <anastasis.gramm2@gmail.com>
 graydon                 = Graydon Hoare <ghoare@apple.com>
 greened                 = David Greene <greened@obbligato.org>
 gribozavr               = Dmitri Gribenko <gribozavr@gmail.com>
