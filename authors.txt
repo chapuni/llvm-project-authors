@@ -371,6 +371,7 @@ gbenyei                 = Guy Benyei <guy.benyei@intel.com>
 gbercea                 = Gheorghe-Teodor Bercea <gheorghe-teod.bercea@ibm.com>
 gberry                  = Geoff Berry <gberry@codeaurora.org>
 gbiv                    = George Burgess IV <george.burgess.iv@gmail.com>
+gbuella                 = Gabor Buella <gabor.buella@intel.com>
 gchakrabarti            = Gautam Chakrabarti <gchakrabarti@nvidia.com>
 gclayton                = Greg Clayton <gclayton@apple.com>
 geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
