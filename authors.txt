@@ -1040,6 +1040,7 @@ yabin                   = Yabin Hu <yabin.hwu@gmail.com>
 yabinc                  = Yabin Cui <yabinc@google.com>
 yamaguchi               = Yuka Takahashi <yukatkh@gmail.com>
 yamauchi                = Hiroshi Yamauchi <yamauchi@google.com>
+yanluo                  = Yan Luo <Yan.Luo2@synopsys.com>
 yawanng                 = Yan Wang <yawanng@google.com>
 yaxunl                  = Yaxun Liu <Yaxun.Liu@amd.com>
 ygao                    = Yunzhong Gao <Yunzhong.Gao@sony.com>
