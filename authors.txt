@@ -483,6 +483,7 @@ jimcownie               = Jim Cownie <james.h.cownie@intel.com>
 jina.nahias             = Jina Nahias <jina.nahias@intel.com>
 jingham                 = Jim Ingham <jingham@apple.com>
 jingyue                 = Jingyue Wu <jingyue@google.com>
+jinlin                  = Jin Lin <net_linjin@yahoo.com>
 jiwang                  = Jiong Wang <jiwang@tilera.com>
 jketema                 = Jeroen Ketema <j.ketema@xs4all.nl>
 jklontz                 = Josh Klontz <josh.klontz@gmail.com>
