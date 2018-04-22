@@ -62,6 +62,7 @@ amccarth                = Adrian McCarthy <amccarth@google.com>
 amehsan                 = Ehsan Amiri <amehsan@ca.ibm.com>
 amishne                 = Alon Mishne <alon.mishne@intel.com>
 amusman                 = Alexander Musman <alexander.musman@gmail.com>
+anarazel                = Andres Freund <andres@anarazel.de>
 andersca                = Anders Carlsson <andersca@mac.com>
 andersg                 = Anders Waldenborg <anders@0x63.nu>
 andrew.zhogin           = Andrew Zhogin <andrew.zhogin@gmail.com>
