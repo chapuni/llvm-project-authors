@@ -629,6 +629,7 @@ marshall                = Marshall Clow <mclow.lists@gmail.com>
 marsupial               = Frederich Munch <colsebas@hotmail.com>
 martell                 = Martell Malone <martellmalone@gmail.com>
 martignlo               = Lorenzo Martignoni <martignlo@google.com>
+marxin                  = Martin Liska <mliska@suse.cz>
 maskray                 = Fangrui Song <maskray@google.com>
 materi                  = Mattias Eriksson <mattias.v.eriksson@ericsson.com>
 matheusalmeida          = Matheus Almeida <matheus.almeida@imgtec.com>
