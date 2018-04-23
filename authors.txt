@@ -814,6 +814,7 @@ rlytton                 = Robert Lytton <robert@xmos.com>
 rmitton                 = Richard Mitton <richard@codersnotes.com>
 rnchamberlain           = Richard Chamberlain <richard_chamberlain@uk.ibm.com>
 rnk                     = Reid Kleckner <rnk@google.com>
+ro                      = Rainer Orth <ro@gcc.gnu.org>
 rogfer01                = Roger Ferrer Ibanez <roger.ferreribanez@arm.com>
 roman.shirokiy          = Roman Shirokiy <shirokiyroman@yandex.ru>
 romangareev             = Roman Gareev <gareevroman@gmail.com>
