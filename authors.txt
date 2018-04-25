@@ -742,6 +742,7 @@ partigas                = Pedro Artigas <partigas@apple.com>
 patha                   = Patrik Hagglund <patrik.h.hagglund@ericsson.com>
 patjenk                 = Patrick Jenkins <pjenkins@apple.com>
 paulherman              = Paul Herman <paulherman@google.com>
+paulsemel               = Paul Semel <semelpaul@gmail.com>
 pawel                   = Pawel Wodnicki <pawel@32bitmicro.com>
 pawosm01                = Paul Osmialowski <pawel.osmialowski@arm.com>
 pcbeard                 = Patrick Beard <pcbeard@mac.com>
