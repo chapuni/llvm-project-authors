@@ -1036,6 +1036,7 @@ wpan                    = Wei Pan <wei.pan@intel.com>
 wristow                 = Warren Ristow <warren.ristow@sony.com>
 wschmidt                = Bill Schmidt <wschmidt@linux.vnet.ibm.com>
 xazax                   = Gabor Horvath <xazax.hun@gmail.com>
+xbolva00                = David Bolvansky <david.bolvansky@gmail.com>
 xen2                    = Virgile Bello <virgile.bello@gmail.com>
 xiangzhai               = Leslie Zhai <lesliezhai@llvm.org.cn>
 xiaofei.wan             = Wan Xiaofei <xiaofei.wan@intel.com>
