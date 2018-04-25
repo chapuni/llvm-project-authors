@@ -778,6 +778,7 @@ prestonbriggs           = Preston Briggs <preston.briggs@gmail.com>
 probinson               = Paul Robinson <paul.robinson@sony.com>
 psmith                  = Peter Smith <peter.smith@linaro.org>
 pvchupin                = Pavel Chupin <pavel.v.chupin@intel.com>
+pwalker                 = Paul Walker <paul.walker@arm.com>
 pxl                     = Xiuli Pan <xiulipan@outlook.com>
 pzheng                  = Pengxuan Zheng <pzheng@codeaurora.org>
 qcolombet               = Quentin Colombet <quentin.colombet@gmail.com>
