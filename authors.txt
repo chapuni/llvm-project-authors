@@ -641,6 +641,7 @@ maxim-kuvyrkov          = Maxim Kuvyrkov <maxim.kuvyrkov@gmail.com>
 mayurp                  = Mayur Pandey <mayur.p@samsung.com>
 mbodart                 = Mitch Bodart <mitch.l.bodart@intel.com>
 mboehme                 = Martin Bohme <mboehme@google.com>
+mcberg2017              = Michael Berg <michael_c_berg@apple.com>
 mcinally                = Cameron McInally <cameron.mcinally@nyu.edu>
 mcrosier                = Chad Rosier <mcrosier@codeaurora.org>
 mcurtis                 = Matthew Curtis <mcurtis@codeaurora.org>
