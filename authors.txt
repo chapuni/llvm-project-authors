@@ -499,6 +499,7 @@ jmanton                 = Jonathan Manton <jmanton@uiuc.edu>
 jmcilree                = James McIlree <jmcilree@apple.com>
 jmgao                   = Josh Gao <jmgao@google.com>
 jmolenda                = Jason Molenda <jmolenda@apple.com>
+jmorse                  = Jeremy Morse <jeremy.morse.llvm@gmail.com>
 job                     = Job Noorman <jobnoorman@gmail.com>
 joe                     = Joe Groff <arcata@gmail.com>
 joel_k_jones            = Joel Jones <joelkevinjones@gmail.com>
