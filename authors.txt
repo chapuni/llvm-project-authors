@@ -722,6 +722,7 @@ nmusgrave               = Naomi Musgrave <nmusgrave@google.com>
 nobled                  = Dylan Noblesmith <nobled@dreamwidth.org>
 nrieck                  = Nico Rieck <nico.rieck@gmail.com>
 nwilson                 = Nathan Wilson <nwilson20@gmail.com>
+nzaghen                 = Nicola Zaghen <nicola.zaghen@imgtec.com>
 ofv                     = Oscar Fuentes <ofv@wanadoo.es>
 ogoffart                = Olivier Goffart <ogoffart@woboq.com>
 ohsallen                = Olivier Sallenave <ohsallen@us.ibm.com>
