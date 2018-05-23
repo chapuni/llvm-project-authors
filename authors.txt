@@ -948,6 +948,7 @@ swaroops                = Swaroop Sridhar <Swaroop.Sridhar@microsoft.com>
 swiftix                 = Roman Levenstein <rlevenstein@apple.com>
 sylvestre               = Sylvestre Ledru <sylvestre@debian.org>
 syzaara                 = Zaara Syeda <syzaara@ca.ibm.com>
+szelethus               = Kristof Umann <dkszelethus@gmail.com>
 szepet                  = Peter Szecsi <szepet95@gmail.com>
 t-tye                   = Tony Tye <Tony.Tye@amd.com>
 talin                   = Talin <viridia@gmail.com>
