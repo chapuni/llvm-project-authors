@@ -685,6 +685,7 @@ mpividori               = Marcos Pividori <mpividori@google.com>
 mpopa                   = Mihai Popa <mihail.popa@gmail.com>
 mprobst                 = Martin Probst <martin@probst.io>
 mps                     = Mike Spertus <mike@spertus.com>
+mramalho                = Mikhail R. Gadelha <mikhail.ramalho@gmail.com>
 mren                    = Manman Ren <manman.ren@gmail.com>
 mroth                   = Moritz Roth <moritz.roth@arm.com>
 mrs                     = Mike Stump <mrs@apple.com>
