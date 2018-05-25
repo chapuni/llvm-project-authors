@@ -423,6 +423,7 @@ hfinkel                 = Hal Finkel <hfinkel@anl.gov>
 hhellyer                = Howard Hellyer <hhellyer@uk.ibm.com>
 hhinnant                = Howard Hinnant <hhinnant@apple.com>
 hiraditya               = Aditya Kumar <hiraditya@msn.com>
+hjl                     = H.J. Lu <hongjiu.lu@intel.com>
 hkaiser                 = Hartmut Kaiser <hartmut.kaiser@gmail.com>
 hldnbrnd                = Nick Hildenbrandt <hldnbrnd@uiuc.edu>
 hliao                   = Michael Liao <michael.hliao@gmail.com>
