@@ -617,6 +617,7 @@ logan                   = Logan Chien <tzuhsiang.chien@gmail.com>
 louis                   = Louis Gerbarg <lgg@apple.com>
 lsaba                   = Lama Saba <lama.saba@intel.com>
 lukecheeseman           = Luke Cheeseman <luke.cheeseman@arm.com>
+lukegeeson              = Luke Geeson <luke.geeson@arm.com>
 luqmana                 = Luqman Aden <me@luqman.ca>
 lvoufo                  = Larisse Voufo <lvoufo@google.com>
 madsravn                = Mads Ravn <madsravn@gmail.com>
