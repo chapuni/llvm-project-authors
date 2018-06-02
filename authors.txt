@@ -601,6 +601,7 @@ lekensteyn              = Peter Wu <peter@lekensteyn.nl>
 lemo                    = Leonard Mosescu <mosescu@google.com>
 lenary                  = Sam Elliott <ashe2@cs.washington.edu>
 lenny                   = Lenny Maiorani <lenny@colorado.edu>
+leonardchan             = Leonard Chan <leonardchan@google.com>
 lerochris               = Chris Dewhurst <chris.dewhurst@lero.ie>
 lhames                  = Lang Hames <lhames@gmail.com>
 lichray                 = Zhihao Yuan <zy@miator.net>
