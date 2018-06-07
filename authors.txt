@@ -378,6 +378,7 @@ gberry                  = Geoff Berry <gberry@codeaurora.org>
 gbiv                    = George Burgess IV <george.burgess.iv@gmail.com>
 gbuella                 = Gabor Buella <gabor.buella@intel.com>
 gchakrabarti            = Gautam Chakrabarti <gchakrabarti@nvidia.com>
+gchatelet               = Guillaume Chatelet <gchatelet@google.com>
 gclayton                = Greg Clayton <gclayton@apple.com>
 geoffray                = Nicolas Geoffray <nicolas.geoffray@lip6.fr>
 george.karpenkov        = George Karpenkov <ekarpenkov@apple.com>
