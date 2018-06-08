@@ -841,6 +841,7 @@ rono                    = Ron Ofir <ron.ofir@gmail.com>
 root                    = root <nothing@nowhere.org>
 rovka                   = Diana Picus <diana.picus@linaro.org>
 row                     = Robert Wilhelm <robert.wilhelm@gmx.net>
+rprichard               = Ryan Prichard <rprichard@google.com>
 rrelph                  = Richard Relph <Richard.Relph@amd.com>
 rsandifo                = Richard Sandiford <rsandifo@linux.vnet.ibm.com>
 rserge                  = Serge Rogatch <srogatch@accesssoftek.com>
