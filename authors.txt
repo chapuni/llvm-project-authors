@@ -796,6 +796,7 @@ pwalker                 = Paul Walker <paul.walker@arm.com>
 pxl                     = Xiuli Pan <xiulipan@outlook.com>
 pzheng                  = Pengxuan Zheng <pzheng@codeaurora.org>
 qcolombet               = Quentin Colombet <quentin.colombet@gmail.com>
+qshanz                  = QingShan Zhang <qshanz@cn.ibm.com>
 quolyk                  = Dmitry Venikov <quolyk@gmail.com>
 r.stahl                 = Rafael Stahl <r.stahl@tum.de>
 rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
