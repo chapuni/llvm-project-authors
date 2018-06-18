@@ -7,6 +7,7 @@ a.elovikov              = Andrei Elovikov <andrei.elovikov@intel.com>
 a.sidorin               = Aleksei Sidorin <a.sidorin@samsung.com>
 aaboud                  = Amjad Aboud <amjad.aboud@intel.com>
 aadg                    = Arnaud A. de Grandmaison <arnaud.degrandmaison@arm.com>
+aardappel               = Wouter van Oortmerssen <aardappel@gmail.com>
 aaronballman            = Aaron Ballman <aaron@aaronballman.com>
 ab                      = Ahmed Bougacha <ahmed.bougacha@gmail.com>
 abadouh                 = Asaf Badouh <asaf.badouh@intel.com>
