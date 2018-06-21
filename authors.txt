@@ -317,6 +317,7 @@ emankov                 = Evgeny Mankov <evgeny.mankov@gmail.com>
 emaste                  = Ed Maste <emaste@freebsd.org>
 emenezes                = Evandro Menezes <emenezes@codeaurora.org>
 emilio                  = Emilio Cobos Alvarez <emilio@crisal.io>
+emmettneyman            = Emmett Neyman <eneyman@google.com>
 enderby                 = Kevin Enderby <enderby@apple.com>
 enea                    = Enea Zaffanella <zaffanella@cs.unipr.it>
 enlight                 = Vadim Macagon <vadim.macagon@gmail.com>
