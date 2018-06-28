@@ -477,6 +477,7 @@ jdoerfert               = Johannes Doerfert <doerfert@cs.uni-saarland.de>
 jduprat                 = Jean-Luc Duprat <jduprat@apple.com>
 jeffc                   = Jeff Cohen <jeffc@jolt-lang.org>
 jengelen                = Johan Engelen <jbc.engelen@gmail.com>
+jesperantonsson         = Jesper Antonsson <jesper.antonsson@ericsson.com>
 jfb                     = JF Bastien <jfbastien@apple.com>
 jgalenson               = Joel Galenson <jgalenson@google.com>
 jgoodnowii              = Jim Goodnow II <jim@thegoodnows.net>
