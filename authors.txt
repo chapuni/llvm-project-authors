@@ -858,6 +858,7 @@ rtereshin               = Roman Tereshin <rtereshin@apple.com>
 rtrieu                  = Richard Trieu <rtrieu@google.com>
 rudkx                   = Mark Lacey <mark.lacey@apple.com>
 ruiu                    = Rui Ueyama <ruiu@google.com>
+rupprecht               = Jordan Rupprecht <rupprecht@google.com>
 russell_gallop          = Russell Gallop <russell.gallop@gmail.com>
 rwols                   = Raoul Wols <raoulwols@gmail.com>
 s.desmalen              = Sander de Smalen <sander.desmalen@arm.com>
