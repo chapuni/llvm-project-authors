@@ -121,6 +121,7 @@ az                      = Abderrazek Zaafrani <a.zaafrani@samsung.com>
 azanella                = Adhemerval Zanella <adhemerval.zanella@linaro.org>
 azharudd                = Azharuddin Mohammed <azharudd@codeaurora.org>
 bader                   = Alexey Bader <alexey.bader@intel.com>
+balazske                = Balazs Keri <1.int32@gmail.com>
 baldrick                = Duncan Sands <baldrick@free.fr>
 baloghadamsoftware      = Adam Balogh <adam.balogh@ericsson.com>
 bcahoon                 = Brendon Cahoon <bcahoon@codeaurora.org>
