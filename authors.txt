@@ -1040,6 +1040,7 @@ volkan                  = Volkan Keles <vkeles@apple.com>
 vpykhtin                = Valery Pykhtin <Valery.Pykhtin@amd.com>
 vries                   = Tom de Vries <vries@codesourcery.com>
 vsapsai                 = Volodymyr Sapsai <vsapsai@apple.com>
+vstefanovic             = Vladimir Stefanovic <vladimir.stefanovic@rt-rk.com>
 vsukharev               = Vladimir Sukharev <vladimir.sukharev@arm.com>
 vumansky                = Victor Umansky <victor.umansky@intel.com>
 vvassilev               = Vassil Vassilev <v.g.vassilev@gmail.com>
