@@ -1037,6 +1037,7 @@ vmiklos                 = Miklos Vajna <vmiklos@vmiklos.hu>
 void                    = Bill Wendling <isanbard@gmail.com>
 volkalex                = Alexey Volkov <avolkov.intel@gmail.com>
 volkan                  = Volkan Keles <vkeles@apple.com>
+voltur01                = Volodymyr Turanskyy <volodymyr.turanskyy@arm.com>
 vpykhtin                = Valery Pykhtin <Valery.Pykhtin@amd.com>
 vries                   = Tom de Vries <vries@codesourcery.com>
 vsapsai                 = Volodymyr Sapsai <vsapsai@apple.com>
