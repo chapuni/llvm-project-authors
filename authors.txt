@@ -279,6 +279,7 @@ dmgreen                 = David Green <david.green@arm.com>
 dmikulin                = Dmitry Mikulin <dmitry.mikulin@sony.com>
 dneilson                = Daniel Neilson <dneilson@azul.com>
 dnovillo                = Diego Novillo <dnovillo@google.com>
+dnsampaio               = Diogo N. Sampaio <diogo.sampaio@arm.com>
 domipheus               = Colin Riley <colin@codeplay.com>
 dor1s                   = Max Moroz <mmoroz@chromium.org>
 dorit                   = Dorit Nuzman <dorit.nuzman@intel.com>
