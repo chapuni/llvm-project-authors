@@ -600,6 +600,7 @@ lattner                 = Chris Lattner <sabre@nondot.org>
 laurov                  = Lauro Ramos Venancio <lauro.venancio@gmail.com>
 lawrence                = Lawrence Hu <lawrence@codeaurora.org>
 lcharles                = Charles Li <charles.li@sony.com>
+ldionne                 = Louis Dionne <ldionne@apple.com>
 ldrumm                  = Luke Drummond <luke.drummond@codeplay.com>
 lebedevri               = Roman Lebedev <lebedev.ri@gmail.com>
 legalize                = Richard Thomson <legalize@xmission.com>
