@@ -909,6 +909,7 @@ shankare                = Shankar Easwaran <shankare@codeaurora.org>
 sheng                   = Zhou Sheng <zhousheng00@gmail.com>
 shenhan                 = Han Shen <shenhan@google.com>
 shiva                   = Shiva Chen <shiva0217@gmail.com>
+shuaiwang               = Shuai Wang <shuaiwang@google.com>
 shuxin_yang             = Shuxin Yang <shuxin.llvm@gmail.com>
 sidneym                 = Sid Manning <sidneym@codeaurora.org>
 silvas                  = Sean Silva <chisophugis@gmail.com>
