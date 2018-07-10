@@ -952,6 +952,7 @@ stefanp                 = Stefan Pintilie <stefanp@ca.ibm.com>
 stella.stamenova        = Stella Stamenova <stilis@microsoft.com>
 stephant                = Stephan Tolksdorf <st@quanttec.com>
 stephenwlin             = Stephen Lin <stephenwlin@gmail.com>
+steveire                = Stephen Kelly <steveire@gmail.com>
 steven_watanabe         = Steven Watanabe <steven@providere-consulting.com>
 steven_wu               = Steven Wu <stevenwu@apple.com>
 steveo                  = Steve O'Brien <steve@obrien.cc>
