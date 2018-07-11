@@ -906,6 +906,7 @@ sgravani                = Spyridoula Gravani <sgravani@apple.com>
 sgundapa                = Sumanth Gundapaneni <sgundapa@codeaurora.org>
 sgupta                  = Sanjiv Gupta <sanjiv.gupta@microchip.com>
 shankare                = Shankar Easwaran <shankare@codeaurora.org>
+shchenz                 = Chen Zheng <shchenz@cn.ibm.com>
 sheng                   = Zhou Sheng <zhousheng00@gmail.com>
 shenhan                 = Han Shen <shenhan@google.com>
 shiva                   = Shiva Chen <shiva0217@gmail.com>
