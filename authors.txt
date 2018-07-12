@@ -950,6 +950,7 @@ ssrivastava             = Sunil Srivastava <sunil_srivastava@playstation.sony.co
 sstankovic              = Sasa Stankovic <Sasa.Stankovic@imgtec.com>
 staronj                 = Jakub Staron <staron.jk@gmail.com>
 statham                 = Simon Tatham <simon.tatham@arm.com>
+stefan.graenitz         = Stefan Granitz <stefan.graenitz@gmail.com>
 stefanp                 = Stefan Pintilie <stefanp@ca.ibm.com>
 stella.stamenova        = Stella Stamenova <stilis@microsoft.com>
 stephant                = Stephan Tolksdorf <st@quanttec.com>
