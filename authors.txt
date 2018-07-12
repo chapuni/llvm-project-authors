@@ -809,6 +809,7 @@ r.stahl                 = Rafael Stahl <r.stahl@tum.de>
 rafael                  = Rafael Espindola <rafael.espindola@gmail.com>
 rafauler                = Rafael Auler <rafaelauler@fb.com>
 raghesh                 = Raghesh Aloor <raghesh.a@gmail.com>
+rakete1111              = Nicolas Lesser <blitzrakete@gmail.com>
 rampitec                = Stanislav Mekhanoshin <Stanislav.Mekhanoshin@amd.com>
 raulherbster            = Raul Herbster <raulherbster@gmail.com>
 ravitheja               = Ravitheja Addepally <ravitheja.addepally@intel.com>
