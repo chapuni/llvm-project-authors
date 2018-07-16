@@ -634,6 +634,7 @@ madsravn                = Mads Ravn <madsravn@gmail.com>
 magabari                = Mohammed Agabaria <mohammed.agabaria@intel.com>
 mahesha                 = Mahesha S <mahesha.llvm@gmail.com>
 majnemer                = David Majnemer <david.majnemer@gmail.com>
+maknee                  = Henry Zhu <henryzhu@seas.upenn.edu>
 maks                    = Maksim Panchenko <maks@fb.com>
 malaperle               = Marc-Andre Laperle <marc-andre.laperle@ericsson.com>
 malcolm.parsons         = Malcolm Parsons <malcolm.parsons@gmail.com>
