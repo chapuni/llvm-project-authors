@@ -447,6 +447,7 @@ iains                   = Iain Sandoe <iain@codesourcery.com>
 iajbar                  = Ikhlas Ajbar <iajbar@codeaurora.org>
 ibiryukov               = Ilya Biryukov <ibiryukov@google.com>
 ibreger                 = Igor Breger <igor.breger@intel.com>
+idrissrio               = Idriss Riouak <riouakidriss@hotmail.it>
 igor.laevsky            = Igor Laevsky <igmyrj@gmail.com>
 ijsung                  = I-Jui (Ray) Sung <ijsung@google.com>
 ikudrin                 = Igor Kudrin <ikudrin@accesssoftek.com>
