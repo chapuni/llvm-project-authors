@@ -991,6 +991,7 @@ tfiala                  = Todd Fiala <todd.fiala@gmail.com>
 thanm                   = Than McIntosh <thanm@google.com>
 thegameg                = Francis Visoiu Mistrih <francisvm@yahoo.com>
 theraven                = David Chisnall <csdavec@swan.ac.uk>
+thomasanderson          = Thomas Anderson <thomasanderson@google.com>
 thopre                  = Thomas Preud'homme <thomas.preudhomme@arm.com>
 tikuta                  = Takuto Ikuta <takuto.ikuta@gmail.com>
 tilmann                 = Tilmann Scheller <t.scheller@samsung.com>
