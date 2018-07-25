@@ -731,6 +731,7 @@ nha                     = Nicolai Haehnle <nhaehnle@gmail.com>
 nhaustov                = Nikolay Haustov <Nikolay.Haustov@amd.com>
 nhawes                  = Nathan Hawes <nhawes@apple.com>
 nicholas                = Nick Lewycky <nicholas@mxc.ca>
+nickdesaulniers         = Nick Desaulniers <ndesaulniers@google.com>
 nico                    = Nico Weber <nicolasweber@gmx.de>
 nikola                  = Nikola Smiljanic <popizdeh@gmail.com>
 niravd                  = Nirav Dave <niravd@google.com>
