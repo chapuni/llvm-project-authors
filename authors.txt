@@ -717,6 +717,7 @@ mstorsjo                = Martin Storsjo <martin@martin.st>
 mtrent                  = Michael Trent <mtrent@apple.com>
 mtrofin                 = Mircea Trofin <mtrofin@google.com>
 mvillmow                = Micah Villmow <villmow@gmail.com>
+mwu                     = Michael Wu <mwu.code@gmail.com>
 myatsina                = Marina Yatsina <marina.yatsina@intel.com>
 mzeren-vmw              = Mark Zeren <mzeren@vmware.com>
 mzolotukhin             = Michael Zolotukhin <mzolotukhin@apple.com>
