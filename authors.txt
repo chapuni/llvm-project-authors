@@ -191,6 +191,7 @@ chh                     = Chih-Hung Hsieh <chh@google.com>
 chill                   = Momchil Velikov <momchil.velikov@arm.com>
 chp                     = Peng Cheng <gm4cheng@gmail.com>
 chris.wailes            = Chris Wailes <chris.wailes@gmail.com>
+chrisj                  = Chris Jackson <snortotter@gmail.com>
 christof                = Christof Douma <Christof.Douma@arm.com>
 chuckr                  = Chuck Ries <chuckr@microsoft.com>
 chying                  = Ying Chen <chying@google.com>
