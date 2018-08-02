@@ -93,6 +93,7 @@ arsenm                  = Matt Arsenault <Matthew.Arsenault@amd.com>
 artagnon                = Ramkumar Ramachandra <artagnon@gmail.com>
 artem.tamazov           = Artem Tamazov <artem.tamazov@amd.com>
 arturgainullin          = Artur Gainullin <artur.gainullin@intel.com>
+asavonic                = Andrew Savonichev <andrew.savonichev@intel.com>
 asb                     = Alex Bradbury <asb@lowrisc.org>
 asbirlea                = Alina Sbirlea <asbirlea@google.com>
 asbokhan                = Andrey Bokhanko <andreybokhanko@gmail.com>
