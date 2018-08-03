@@ -157,6 +157,7 @@ brucem                  = Bruce Mitchener <bruce.mitchener@gmail.com>
 bruening                = Derek Bruening <bruening@google.com>
 brukman                 = Misha Brukman <brukman+llvm@gmail.com>
 bruno                   = Bruno Cardoso Lopes <bruno.cardoso@gmail.com>
+brunoricci              = Bruno Ricci <riccibrun@gmail.com>
 bryanpkc                = Bryan Chan <bryan.chan@ca.ibm.com>
 bryant                  = Bryant Wong <llvm-commits@xorshift.org>
 brzycki                 = Brian M. Rzycki <brzycki@gmail.com>
