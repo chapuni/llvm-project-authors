@@ -978,6 +978,7 @@ stl_msft                = Stephan T. Lavavej <stl@exchange.microsoft.com>
 stoklund                = Jakob Stoklund Olesen <stoklund@2pi.dk>
 stuart                  = Stuart Hastings <stuart@apple.com>
 stuart.brady            = Stuart Brady <stuart.brady@arm.com>
+stuij                   = Ties Stuij <ties.stuij@arm.com>
 stulova                 = Anastasia Stulova <anastasia.stulova@arm.com>
 sundeepk                = Sundeep Kushwaha <sundeepk@codeaurora.org>
 supertri                = Caitlin Sadowski <supertri@google.com>
