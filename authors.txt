@@ -556,6 +556,7 @@ jwroorda                = Roorda, Jan-Willem <jan-willem.roorda@intel.com>
 jyasskin                = Jeffrey Yasskin <jyasskin@google.com>
 jyknight                = James Y Knight <jyknight@google.com>
 jyoti.allur             = Jyoti Allur <jyoti.allur@samsung.com>
+kadircet                = Kadir Cetinkaya <kadircet@google.com>
 kamil                   = Kamil Rytarowski <n54@gmx.com>
 kanheim                 = Konrad Anheim <kanheim@a-bix.com>
 kannann                 = Kannan Narayanan <Kannan.narayanan@amd.com>
