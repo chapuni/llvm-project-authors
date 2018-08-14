@@ -590,6 +590,7 @@ koriakin                = Marcin Koscielnicki <koriakin@0x04.net>
 kosarev                 = Ivan A. Kosarev <ikosarev@accesssoftek.com>
 kowshik                 = Sumant Kowshik <kowshik@uiuc.edu>
 kparzysz                = Krzysztof Parzyszek <kparzysz@codeaurora.org>
+kpn                     = Kevin P. Neal <kevin.neal@sas.com>
 kpszeniczny             = Krzysztof Pszeniczny <krzysztof.pszeniczny@gmail.com>
 kpw                     = Keith Wyss <wyssman@gmail.com>
 kraiskil                = Kalle Raiskila <kalle.raiskila@nokia.com>
