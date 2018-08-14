@@ -803,6 +803,7 @@ piotrdz                 = Piotr Dziwinski <piotrdz@gmail.com>
 pirama                  = Pirama Arumuga Nainar <pirama@google.com>
 pizza                   = Ryan Flynn <pizza@parseerror.com>
 pjaaskel                = Pekka Jaaskelainen <pekka.jaaskelainen@tut.fi>
+pkmx                    = Chih-Mao Chen <pkmx.tw@gmail.com>
 pmeredit                = Patrick Meredith <pmeredit@cs.uiuc.edu>
 poiru                   = Birunthan Mohanathas <birunthan@mohanathas.com>
 prakhar                 = Prakhar Bahuguna <prakhar.bahuguna@arm.com>
