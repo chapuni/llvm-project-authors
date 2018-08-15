@@ -1017,6 +1017,7 @@ tjablin                 = Thomas Jablin <tjablin@gmail.com>
 tkrasnukha              = Tatyana Krasnukha <tatyana@synopsys.com>
 tkrupa                  = Tomasz Krupa <tomasz.krupa@intel.com>
 tlinth                  = Tony Linthicum <tlinth@codeaurora.org>
+tlively                 = Thomas Lively <tlively@google.com>
 tmroeder                = Tom Roeder <tmroeder@google.com>
 tmsriram                = Sriraman Tallam <tmsriram@google.com>
 tnorthover              = Tim Northover <tnorthover@apple.com>
