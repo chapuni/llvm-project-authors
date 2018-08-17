@@ -690,6 +690,7 @@ mgrang                  = Mandeep Singh Grang <mgrang@codeaurora.org>
 mharoush                = Matan Haroush <matan.haroush@intel.com>
 mike.dvoretsky          = Mikhail Dvoretckii <mikhail.dvoretckii@intel.com>
 mikem                   = mike-m <mikem.llvm@gmail.com>
+mikerice                = Mike Rice <michael.p.rice@intel.com>
 mikesart                = Michael Sartain <mikesart@valvesoftware.com>
 milseman                = Michael Ilseman <milseman@apple.com>
 minseongkim             = MinSeong Kim <min.s.kim@samsung.com>
