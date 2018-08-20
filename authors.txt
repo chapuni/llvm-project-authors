@@ -420,6 +420,7 @@ gvenn                   = Garrison Venn <gvenn.cfe.dev@gmail.com>
 gyiu                    = Graham Yiu <graham.yiu@huawei.com>
 hahnfeld                = Jonas Hahnfeld <hahnjo@hahnjo.de>
 haicheng                = Haicheng Wu <haicheng@codeaurora.org>
+hakzsam                 = Samuel Pitoiset <samuel.pitoiset@gmail.com>
 hamzasood               = Hamza Sood <hamza_sood@me.com>
 hanm                    = Michael Han <fragmentshaders@gmail.com>
 hanming                 = Han Ming Ong <hanming@apple.com>
