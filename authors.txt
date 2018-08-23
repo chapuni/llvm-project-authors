@@ -51,6 +51,7 @@ alenhar2                = Andrew Lenharth <andrewl@lenharth.org>
 alex-t                  = Alexander Timofeev <Alexander.Timofeev@amd.com>
 alexander_droste        = Alexander Droste <alexander.ra.droste@gmail.com>
 alexdenisov             = Alex Denisov <1101.debian@gmail.com>
+alexeichenberger        = Alexandre Eichenberger <alexe@us.ibm.com>
 alexfh                  = Alexander Kornienko <alexfh@google.com>
 alexmc                  = Alex McCarthy <alexmc@google.com>
 alexr                   = Alex Rosenberg <alexr@leftfield.org>
