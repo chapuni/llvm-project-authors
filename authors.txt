@@ -601,6 +601,7 @@ kraiskil                = Kalle Raiskila <kalle.raiskila@nokia.com>
 krasimir                = Krasimir Georgiev <krasimir@google.com>
 krasin                  = Ivan Krasin <krasin@chromium.org>
 kremenek                = Ted Kremenek <kremenek@apple.com>
+kristina                = Kristina Brooks <kristina@nym.hush.com>
 krj                     = Kovarththanan Rajaratnam <kovarththanan.rajaratnam@gmail.com>
 krobelus                = Johannes Altmanninger <aclopte@gmail.com>
 kromanova               = Ekaterina Romanova <katya_romanova@playstation.sony.com>
