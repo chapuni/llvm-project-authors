@@ -195,6 +195,7 @@ chfast                  = Pawel Bylica <chfast@gmail.com>
 chh                     = Chih-Hung Hsieh <chh@google.com>
 chill                   = Momchil Velikov <momchil.velikov@arm.com>
 chp                     = Peng Cheng <gm4cheng@gmail.com>
+chrib                   = Christian Bruel <christian.bruel@st.com>
 chris.wailes            = Chris Wailes <chris.wailes@gmail.com>
 chrisj                  = Chris Jackson <snortotter@gmail.com>
 christof                = Christof Douma <Christof.Douma@arm.com>
