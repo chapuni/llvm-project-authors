@@ -687,6 +687,7 @@ meadori                 = Meador Inge <meadori@codesourcery.com>
 mehdi_amini             = Mehdi Amini <joker.eph@gmail.com>
 meheff                  = Mark Heffernan <meheff@google.com>
 meinersbur              = Michael Kruse <llvm@meinersbur.de>
+metzman                 = Jonathan Metzman <metzman@chromium.org>
 mfleming                = Matt Fleming <matt@console-pimps.org>
 mg11                    = Matthew Gardiner <mg11@csr.com>
 mgehre                  = Matthias Gehre <M.Gehre@gmx.de>
