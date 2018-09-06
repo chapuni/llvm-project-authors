@@ -990,6 +990,7 @@ stuart                  = Stuart Hastings <stuart@apple.com>
 stuart.brady            = Stuart Brady <stuart.brady@arm.com>
 stuij                   = Ties Stuij <ties.stuij@arm.com>
 stulova                 = Anastasia Stulova <anastasia.stulova@arm.com>
+sudofortune             = A Bergen <sudofortune@gmail.com>
 sundeepk                = Sundeep Kushwaha <sundeepk@codeaurora.org>
 supertri                = Caitlin Sadowski <supertri@google.com>
 suyog                   = Suyog Sarda <suyog.sarda@samsung.com>
