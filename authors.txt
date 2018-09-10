@@ -223,6 +223,7 @@ cray                    = Chris Ray <cray@arxan.com>
 cristian.zamfir         = Cristian Zamfir <cristian.zamfir@epfl.ch>
 cristic                 = Cristian Cadar <cristic@cs.stanford.edu>
 criswell                = John Criswell <criswell@uiuc.edu>
+critson                 = Carl Ritson <carl.ritson@amd.com>
 crowl                   = Lawrence Crowl <crowl@google.com>
 cryptoad                = Kostya Kortchinsky <kostyak@google.com>
 csilvers                = Craig Silverstein <csilvers2000@yahoo.com>
