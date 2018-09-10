@@ -932,6 +932,7 @@ sfider                  = Marcin Swiderski <marcin.sfider@gmail.com>
 sgravani                = Spyridoula Gravani <sgravani@apple.com>
 sgundapa                = Sumanth Gundapaneni <sgundapa@codeaurora.org>
 sgupta                  = Sanjiv Gupta <sanjiv.gupta@microchip.com>
+shafik                  = Shafik Yaghmour <syaghmour@apple.com>
 shankare                = Shankar Easwaran <shankare@codeaurora.org>
 shchenz                 = Chen Zheng <shchenz@cn.ibm.com>
 sheng                   = Zhou Sheng <zhousheng00@gmail.com>
