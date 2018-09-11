@@ -230,6 +230,7 @@ csilvers                = Craig Silverstein <csilvers2000@yahoo.com>
 ctice                   = Caroline Tice <ctice@apple.com>
 ctopper                 = Craig Topper <craig.topper@intel.com>
 cturner                 = Charlie Turner <charlesturner7c5@gmail.com>
+cuviper                 = Josh Stone <jistone@redhat.com>
 cvs2svn                 = CVS to SVN Conversion <nobody@llvm.org>
 cwabbott                = Connor Abbott <cwabbott0@gmail.com>
 cycheng                 = Chuang-Yu Cheng <cycheng@multicorewareinc.com>
