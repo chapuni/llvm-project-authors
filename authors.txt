@@ -637,6 +637,7 @@ lhames                  = Lang Hames <lhames@gmail.com>
 lichray                 = Zhihao Yuan <zy@miator.net>
 lifted                  = Roman Kashitsyn <romankashicin@gmail.com>
 lihuang                 = Li Huang <lihuang916@gmail.com>
+lionnatsu               = Lion Yang <lion@aosc.io>
 liu12295                = Jack Liu <jack.liu@intel.com>
 lkholodov               = Leny Kholodov <lkholodov@accesssoftek.com>
 llarson                 = Luke Larson <llarson@apple.com>
